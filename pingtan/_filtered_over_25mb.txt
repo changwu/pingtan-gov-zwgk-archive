@@ -1,0 +1,2 @@
+# 超过 25MB 未推入 GitHub 的附件(本地完整副本保留在 output/pingtan)
+# 格式: 大小(bytes)	相对路径
