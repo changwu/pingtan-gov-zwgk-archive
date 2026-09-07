@@ -1,5 +1,15 @@
 # 超过 25MB 未推入 GitHub 的附件(本地完整副本保留在 output/pingtan)
 # 格式: 大小(bytes)	相对路径
+81025147	zwgk/gsgg/202103/25221_福建平潭吾悦广场（三期）建设工程规划许可证批后公示/attachments/file/2c90b38b783d7bc201783f6af81d0019.zip
+27331171	zwgk/gsgg/202104/25766_宏裕混凝土新建项目工程建设工程规划许可证批后公示/attachments/file/2c90b38b78f1ce8e0178f79277ac000c.pdf
+67882162	zwgk/gsgg/202105/26438_平潭综合实验区君山片区管理局关于《平潭综合实验区君山片区坑北村村庄规划（2020/attachments/file/2c90b38b79bfc9c30179c1baa9350023.pdf
+42057177	zwgk/gsgg/202108/27423_协力锦绣城（三期）建设工程规划许可证 批后公示/attachments/file/2c90b38b7b0edb36017b0edb58630003.pdf
+26443395	zwgk/gsgg/202108/27423_协力锦绣城（三期）建设工程规划许可证 批后公示/attachments/file/2c90b38b7b0edb36017b0edca3cf0007.pdf
+43093387	zwgk/gsgg/202108/27424_协力锦绣城（四期）建设工程规划许可证批后公示/attachments/file/2c90b38b7b0edb36017b0edb36c20001.pdf
+32826984	zwgk/gsgg/202108/27572_海峡恋岛G003地块-A1#~A3#、A5#~A13#、A15#~A23#、A2/attachments/file/2c90b38b7b37c8c7017b3d7952cd0021.zip
+44424856	zwgk/gsgg/202109/28129_三盛国际海岸（二期）B区建设工程规划许可证批后公示/attachments/file/2c90b38b7bde680f017bde8b6478000b.zip
+45400061	zwgk/gsgg/202109/28131_三盛国际海岸（二期）A区建设工程规划许可证批后公示/attachments/file/2c90b38b7bde680f017bde89d7500009.zip
+51338785	zwgk/gsgg/202112/29452_平潭综合实验区自然资源与生态环境局关于潭城组团控制性详细规划的批前公示公告/attachments/file/402802527db11a42017db14bb067000f.rar
 56041390	zwgk/gsgg/202204/33466_台胞社区建设工程规划许可证变更公示/attachments/file/40280252806a387b01806f596d6d0012.pdf
 30470250	zwgk/gsgg/202206/34692_平潭综合实验区自然资源与生态环境局关于《平潭综合实验区岚城核心区城市设计》的批前/attachments/file/4028025281a2bdb00181a341e53e0010.pdf
 47082726	zwgk/gsgg/202207/35008_平潭综合实验区福建平潭吾悦广场（三期）建设工程规划许可证批后公示/attachments/file/4028025281fb0d6201820127e1e9000d.zip
