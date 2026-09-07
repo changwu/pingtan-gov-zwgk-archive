@@ -1,5 +1,32 @@
 # 超过 25MB 未推入 GitHub 的附件(本地完整副本保留在 output/pingtan)
 # 格式: 大小(bytes)	相对路径
+50438506	zwgk/gsgg/201908/15698_平潭综合实验区规划局关于南北街历史文化街区保护规划公示/attachments/file/2c90b38b6ccbed75016cd25397460064.zip
+38742725	zwgk/gsgg/201912/18733_气体充装站建设工程规划许可证批后公示/attachments/file/2c90b38b6f1cf191016f55cb2fd10072.zip
+26908547	zwgk/gsgg/202003/19672_鑫澳园建设工程规划许可证批后公示/attachments/file/2c90b38b709a378201709f8a07830039.zip
+97523035	zwgk/gsgg/202003/19727_平潭精神病防治院门诊、综合大楼及附属楼设施建设项目建设工程规划许可证批后公示/attachments/file/2c90b38b709a37820170aee5922e009a.zip
+70906784	zwgk/gsgg/202003/19890_关于海坛古城二期项目建设工程规划变更方案（F、PI、N、PII、Q、L区）（含总/attachments/file/2c90b38b70c6f7f30170d2eb41c50068.zip
+26608679	zwgk/gsgg/202003/20140_平潭综合实验区自然资源与生态环境局关于拟作出奥园鼎新·钻石海等四个项目环评审批的/attachments/file/2c90b38b7114cb0b01712fc20fea0241.pdf
+54340163	zwgk/gsgg/202004/20344_平潭综合实验区自来水厂（二期）项目建设工程规划许可证批后公示/attachments/file/2c90b38b715dc8ad017177a0041d004b.zip
+46038240	zwgk/gsgg/202004/20345_平潭综合实验区自来水厂工程（二期）项目建设工程规划许可证批后公示/attachments/file/2c90b38b715dc8ad017177a6c6e3004d.zip
+89246984	zwgk/gsgg/202004/20450_奥园鼎新·钻石海建设工程规划许可证批后公示/attachments/file/2c90b38b719f3e770171a5ea7fe40009.zip
+36990126	zwgk/gsgg/202004/20466_金尊世家酒业二期建设工程规划许可证批后公示/attachments/file/2c90b38b719f3e770171ab4d902c0019.zip
+64293341	zwgk/gsgg/202004/20473_滨海鼎新崇文府项目建设工程规划许可证批后公示/attachments/file/2c90b38b719f3e770171b59a195c001d.zip
+85308839	zwgk/gsgg/202005/20916_平潭综合实验区自然资源与生态环境局关于《平潭综合实验区综合交通规划（修编）》（报/attachments/file/2c90b38b7210a04b01723bb329f500b6.zip
+63317575	zwgk/gsgg/202005/20944_平潭综合实验区自然资源与生态环境局关于《平潭综合实验区流水组团控制性详细规划（修/attachments/file/2c90b38b7249eff701724b0d4ef1000b.pdf
+33023059	zwgk/gsgg/202006/21468_水域滩涂养殖证申请公示(2020年第25期）/attachments/file/2c90b38b72d981ae0172d9889d1c003b.rar
+33174441	zwgk/gsgg/202007/21968_滨海鼎新崇文府项目第二标段建设工程规划许可证批后公示/attachments/file/2c90b38b738e10ac0173987fe994004b.pdf
+32084053	zwgk/gsgg/202008/22046_滨海鼎新崇文府项目第一标段建设工程规划许可证批后公示/attachments/file/2c90b38b738e10ac0173b34916730079.pdf
+53867609	zwgk/gsgg/202008/22180_平潭精神病防治院门诊、综合大楼及附属楼设施建设项目建设工程规划许可证批后公示/attachments/file/2c90b38b73d5bc150173e1ba8852002e.zip
+68275778	zwgk/gsgg/202011/23710_平潭220千伏平原变电站工程（开关站）建设工程规划许可证批后公示/attachments/file/2c90b38b75f9525a017616f60648004a.zip
+31884347	zwgk/gsgg/202012/23816_2019G057地块建设工程规划许可证批后公示/attachments/file/2c90b38b761d1d6d017627ce8e910027.zip
+31373135	zwgk/gsgg/202012/23819_2019G066地块建设工程规划许可证批后公示/attachments/file/2c90b38b761d1d6d017627d639c30029.zip
+26900575	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f5e1fc000e.zip
+60641994	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f6a5ba0010.zip
+50803985	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f74a180012.zip
+35965066	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f7dca30016.zip
+34481088	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f87f6b001a.zip
+65248574	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f95559001c.zip
+39051662	zwgk/gsgg/202012/24223_平潭综合实验区潭城土地利用总体规划（2011-2030年）调整完善方案镇等15个/attachments/file/2c90b38b7712f8fd017717f9eb11001e.zip
 81025147	zwgk/gsgg/202103/25221_福建平潭吾悦广场（三期）建设工程规划许可证批后公示/attachments/file/2c90b38b783d7bc201783f6af81d0019.zip
 27331171	zwgk/gsgg/202104/25766_宏裕混凝土新建项目工程建设工程规划许可证批后公示/attachments/file/2c90b38b78f1ce8e0178f79277ac000c.pdf
 67882162	zwgk/gsgg/202105/26438_平潭综合实验区君山片区管理局关于《平潭综合实验区君山片区坑北村村庄规划（2020/attachments/file/2c90b38b79bfc9c30179c1baa9350023.pdf
