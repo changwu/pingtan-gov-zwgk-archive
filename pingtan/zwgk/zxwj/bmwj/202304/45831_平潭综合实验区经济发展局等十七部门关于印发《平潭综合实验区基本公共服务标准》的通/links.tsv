@@ -1,0 +1,136 @@
+type	href	text	kind	samehost	inscope
+a	https://www.pingtan.gov.cn/		link	yes	no
+a	https://www.gov.cn/	国务院	link	no	no
+a	https://www.fujian.gov.cn/	省政府	link	no	no
+a	https://www.fjrd.gov.cn/	省人大	link	no	no
+a	http://www.fjzx.gov.cn/	省政协	link	no	no
+a	https://www.pingtan.gov.cn/uc/indexs/index	你好，	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zxwj/bmwj/202304/logoutUrl	注销	link	yes	yes
+a	https://www.pingtan.gov.cn/	首页	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/	政务公开	link	yes	yes
+a	https://www.pingtan.gov.cn/jdhy/	解读回应	link	yes	no
+a	https://www.pingtan.gov.cn/bsfw/	办事服务	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/	互动交流	link	yes	no
+a	https://www.pingtan.gov.cn/zjpt/	走进平潭	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zfxxgk/	政府信息公开	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ldzc/	领导之窗	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zzjg/	政府机构	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/yw/	要闻	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zfhy/	政府会议	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zxwj/	最新文件	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zcwjk/	政策文件库	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zfgzbg/	政府工作报告	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/gsgg/	公示公告	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ghxx/	规划信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/rsxx/	人事信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/tjxx/	统计信息	link	yes	yes
+a	https://data.fujian.gov.cn/#/oportal/index	数据开放	link	no	no
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/	重点领域信息公开	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ztzl/	专题专栏	link	yes	yes
+a	https://www.pingtan.gov.cn/jdhy/zcjd/	平潭政策解读	link	yes	no
+a	https://www.pingtan.gov.cn/jdhy/xwfbh/	新闻发布会	link	yes	no
+a	https://www.pingtan.gov.cn/jdhy/hygq/	回应关切	link	yes	no
+a	https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105	福建网上办事大厅	link	no	no
+a	https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false	平潭行政服务中心	link	yes	no
+a	https://www.fujian.gov.cn/bsfw/mztapp/	闽政通APP	link	no	no
+a	https://www.pingtan.gov.cn/zjpt/cypt/	畅游平潭	link	yes	no
+a	https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/	政务地图	link	yes	no
+a	https://12345.pingtan.gov.cn/	12345便民惠企服务平台	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/zxft/	在线访谈	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/wsdc/	网上调查	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/myzj/	民意征集	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/hdjlzsk/	互动交流知识库	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zxwj/bmwj/	部门文件	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zxwj/bmwj/202304/share.sina	微博	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zxwj/bmwj/202304/share.qzone	QQ空间	link	yes	yes
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc31164	一、幼有所育 ？PAGEREF _Toc31164 \h 5	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc12049	1.优孕优生服务 ？PAGEREF _Toc12049 \h 5	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc14938	2.儿童健康服务 ？PAGEREF _Toc14938 \h 7	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc19347	3.儿童关爱服务 ？PAGEREF _Toc19347 \h 9	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc8149	二、学有所教 ？PAGEREF _Toc8149 \h 11	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc26555	4.学前教育助学服务 ？PAGEREF _Toc26555 \h 11	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc27831	5.义务教育服务 ？PAGEREF _Toc27831 \h 11	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc1958	6.普通高中助学服务 ？PAGEREF _Toc1958 \h 14	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc14689	7.中等职业教育助学服务 ？PAGEREF _Toc14689 \h 15	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc23558	三、劳有所得 ？PAGEREF _Toc23558 \h 16	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc20042	8.就业创业服务 ？PAGEREF _Toc20042 \h 16	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc9175	9.工伤失业保险服务 ？PAGEREF _Toc9175 \h 21	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc11602	四、病有所医 ？PAGEREF _Toc11602 \h 22	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc1260	10.公共卫生服务 ？PAGEREF _Toc1260 \h 22	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc10926	11.医疗保险服务 ？PAGEREF _Toc10926 \h 28	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc22949	12.计划生育扶助服务 ？PAGEREF _Toc22949 \h 29	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc14904	五、老有所养 ？PAGEREF _Toc14904 \h 30	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc9610	13.养老助老服务 ？PAGEREF _Toc9610 \h 30	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc31777	14.养老保险服务 ？PAGEREF _Toc31777 \h 32	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc12200	六、住有所居 ？PAGEREF _Toc12200 \h 33	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc11354	15.公租房服务 ？PAGEREF _Toc11354 \h 33	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc30942	16.住房改造服务 ？PAGEREF _Toc30942 \h 34	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc29238	七、弱有所扶 ？PAGEREF _Toc29238 \h 35	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc13688	17.社会救助服务 ？PAGEREF _Toc13688 \h 35	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc14854	18.公共法律服务 ？PAGEREF _Toc14854 \h 39	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc27855	19.扶残助残服务 ？PAGEREF _Toc27855 \h 39	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc20682	八、优军服务保障 ？PAGEREF _Toc20682 \h 44	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc14026	20.优军优抚服务 ？PAGEREF _Toc14026 \h 44	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc31269	九、文体服务保障 ？PAGEREF _Toc31269 \h 47	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc3693	21.公共文化服务 ？PAGEREF _Toc3693 \h 47	file	no	no
+a	file:///E:/360MoveData/Users/Administrator/Desktop/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E5%B1%80%E7%AD%89%E5%8D%81%E4%B8%83%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E5%8C%BA%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.doc#_Toc15160	22.公共体育服务 ？PAGEREF _Toc15160 \h 50	file	no	no
+a	https://g.eqxiu.com/s/EGungi4V?eip=true	H5解读	link	no	no
+a	https://g.eqxiu.com/s/EGungi4V?eip=true	《平潭综合实验区基本公共服务标准》	link	no	no
+a	https://www.pingtan.gov.cn/attachFiles/myfile/DATE_20230419/402802528796d5ac0187975fb1f60007.pdf	平潭综合实验区经济发展局等十七部门关于印发《平潭综合实验区基本公共服务标准》的通知.pdf	file	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zxwj/bmwj/202304/el.url		link	yes	yes
+a	http://www.fj.gov.cn/	福建省人民政府	link	no	no
+a	https://www.fuzhou.gov.cn/	福州市政府网站	link	no	no
+a	http://www.xm.gov.cn/	厦门市政府网站	link	no	no
+a	http://www.quanzhou.gov.cn/	泉州市政府网站	link	no	no
+a	http://www.zhangzhou.gov.cn/	漳州市政府网站	link	no	no
+a	https://www.putian.gov.cn/	莆田市政府网站	link	no	no
+a	https://www.sm.gov.cn/	三明市政府网站	link	no	no
+a	https://www.np.gov.cn/	南平市政府网站	link	no	no
+a	http://www.longyan.gov.cn/	龙岩市政府网站	link	no	no
+a	http://www.ningde.gov.cn/	宁德市政府网站	link	no	no
+a	http://www.people.com.cn/	人民网	link	no	no
+a	http://www.xinhuanet.com/	新华网	link	no	no
+a	https://www.chinanews.com.cn/	中国新闻网	link	no	no
+a	https://www.cctv.com/	央视国际	link	no	no
+a	https://www.ptnet.cn/	平潭网	link	no	no
+a	http://fjptq.wenming.cn/	平潭文明网	link	no	no
+a	http://www.acas.org.cnx7a72966e53868.ipv6best.cn/	海峡两岸仲裁中心	link	no	no
+a	http://fujian.chinatax.gov.cn/pingtanswj/	国家税务总局平潭综合实验区税务局	link	no	no
+a	http://pt.fjbz.org.cnx1e49966e53868.ipv6best.cn:8060/	福建省标准信息服务平台	link	no	no
+a	http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm	人民日报	link	no	no
+a	https://fjrb-fjdaily-comx2d93966e53868xx.ipv6best.cn/pc/col/202311/02/node_01.html	福建日报	link	no	no
+a	http://www.zznews.cn/	闽南日报	link	no	no
+a	https://mbrb.greatwuyi.com/202311/02/node_1.html	闽北日报	link	no	no
+a	http://www.mxrb.cn/	闽西日报	link	no	no
+a	http://www.ndwww.cn/	闽东日报	link	no	no
+a	https://www.qzwb.com/	泉州晚报	link	no	no
+a	http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html	三明日报	link	no	no
+a	http://www.taihainet.com/	海峡导报	link	no	no
+a	http://fj.sina.com.cn/	新浪福建	link	no	no
+a	https://www.163.com/	网易	link	no	no
+a	https://www.sohu.com/	搜狐	link	no	no
+a	https://www.creditchina.gov.cn/	信用中国	link	no	no
+a	https://xy.fujian.gov.cn/#/home	信用福建	link	no	no
+a	https://27-151-80-61xe076966e53868xx.ipv6best.cn:91/#/double-publicity-info	信用平潭	link	no	no
+a	https://credit-xm-gov-cnxd4a4966e53868xx.ipv6best.cn/	信用厦门	link	no	no
+a	http://www.szzg.gov.cn/	数字中国建设峰会	link	no	no
+a	http://www.hxrc.com/	中国海峡人才市场	link	no	no
+a	https://www.pingtan.gov.cn/zwzdb/sybz/	使用帮助	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/lxwm/	联系我们	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/ysbh/	隐私保护	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/xmtjz/	新媒体矩阵	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/gywm/	关于我们	link	yes	no
+a	https://www-beian-gov-cnx45c8966e53868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002	公安备案号：35012899001-19002	link	no	no
+a	https://beian.miit.gov.cn/	闽ICP备09032658号	link	no	no
+a	https://bszs-conac-cnxe103966e53868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D		link	no	no
+img	https://www.pingtan.gov.cn/images/gh_logo.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/site_logo.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/20xmszf_mzt_ewm.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/babs.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/20231118ptfb.jpg	平潭发布	image	yes	no
+img	https://www.pingtan.gov.cn/images/20231118ptt.png	平潭通	image	yes	no
+img	https://www.pingtan.gov.cn/images/foot-icon4.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/foot-icon4-a.png	平潭文旅	image	yes	no
+img	https://www.pingtan.gov.cn/images/20231119ptVly.jpg		image	yes	no
+img	https://www.pingtan.gov.cn/images/red.png	党政机关	image	yes	no
+img	https://www.pingtan.gov.cn/images/img11.png		image	yes	no

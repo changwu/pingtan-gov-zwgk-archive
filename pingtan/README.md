@@ -7,11 +7,11 @@
 ## 统计
 
 - 枚举范围(站点文档库 channelid=200210): 72744 条中,符合范围(/zwgk/ 同域) 72744 条
-- 已完成文档(page.txt+page.html+links.tsv): 9380
-- 失败: 1 | 待抓取: 63363
-- 附件: 记录 5145 | 已下载 5144 | 失败 1
-- 站外链接记录: 441137 | 列表页存档: 0
-- 本地体积: 11134 MB
+- 已完成文档(page.txt+page.html+links.tsv): 10535
+- 失败: 1 | 待抓取: 62208
+- 附件: 记录 5731 | 已下载 5730 | 失败 1
+- 站外链接记录: 495467 | 列表页存档: 0
+- 本地体积: 11513 MB
 
 ## 分栏目进度
 
@@ -19,23 +19,23 @@
 |---|---|---|---|---|---|
 | 公示公告 | zwgk/gsgg | | 9270 | 9270 | 0 |
 | zwgk/zfxxgk/gwhwj/cxjshgldzd | zwgk/zfxxgk/gwhwj/cxjshgldzd | | 6 | 0 | 0 |
-| zwgk/zfxxgk/gwhwj/dfxfgzfgzh | zwgk/zfxxgk/gwhwj/dfxfgzfgzh | | 151 | 2 | 0 |
+| zwgk/zfxxgk/gwhwj/dfxfgzfgzh | zwgk/zfxxgk/gwhwj/dfxfgzfgzh | | 151 | 16 | 0 |
 | zwgk/zfxxgk/gwhwj/fpjyylylsh | zwgk/zfxxgk/gwhwj/fpjyylylsh | | 9 | 0 | 0 |
-| zwgk/zfxxgk/gwhwj/gmjjhshfzg | zwgk/zfxxgk/gwhwj/gmjjhshfzg | | 18 | 2 | 0 |
-| zwgk/zfxxgk/gwhwj/gzdt | zwgk/zfxxgk/gwhwj/gzdt | | 159 | 2 | 0 |
-| zwgk/zfxxgk/gwhwj/hjbhggwsaq | zwgk/zfxxgk/gwhwj/hjbhggwsaq | | 51 | 1 | 0 |
-| zwgk/zfxxgk/gwhwj/hzgfxwj | zwgk/zfxxgk/gwhwj/hzgfxwj | | 101 | 18 | 1 |
+| zwgk/zfxxgk/gwhwj/gmjjhshfzg | zwgk/zfxxgk/gwhwj/gmjjhshfzg | | 18 | 12 | 0 |
+| zwgk/zfxxgk/gwhwj/gzdt | zwgk/zfxxgk/gwhwj/gzdt | | 159 | 5 | 0 |
+| zwgk/zfxxgk/gwhwj/hjbhggwsaq | zwgk/zfxxgk/gwhwj/hjbhggwsaq | | 51 | 15 | 0 |
+| zwgk/zfxxgk/gwhwj/hzgfxwj | zwgk/zfxxgk/gwhwj/hzgfxwj | | 101 | 31 | 1 |
 | zwgk/zfxxgk/gwhwj/hzxkdsxyjt | zwgk/zfxxgk/gwhwj/hzxkdsxyjt | | 25 | 0 | 0 |
-| zwgk/zfxxgk/gwhwj/jgszzyznbs | zwgk/zfxxgk/gwhwj/jgszzyznbs | | 12 | 0 | 0 |
-| zwgk/zfxxgk/gwhwj/qtyzdgkdzf | zwgk/zfxxgk/gwhwj/qtyzdgkdzf | | 124 | 13 | 0 |
+| zwgk/zfxxgk/gwhwj/jgszzyznbs | zwgk/zfxxgk/gwhwj/jgszzyznbs | | 12 | 1 | 0 |
+| zwgk/zfxxgk/gwhwj/qtyzdgkdzf | zwgk/zfxxgk/gwhwj/qtyzdgkdzf | | 124 | 20 | 0 |
 | zwgk/zfxxgk/gwhwj/qxjzyfjjsh | zwgk/zfxxgk/gwhwj/qxjzyfjjsh | | 3 | 1 | 0 |
-| zwgk/zfxxgk/gwhwj/tfggsjdyjy | zwgk/zfxxgk/gwhwj/tfggsjdyjy | | 17 | 0 | 0 |
-| zwgk/zfxxgk/gwhwj/zdjsxmdpzh | zwgk/zfxxgk/gwhwj/zdjsxmdpzh | | 13 | 1 | 0 |
-| zwgk/zfxxgk/gwhwj/zshzzytdfw | zwgk/zfxxgk/gwhwj/zshzzytdfw | | 148 | 64 | 0 |
-| zwgk/zfxxgk/zc/xzgfxwjk | zwgk/zfxxgk/zc/xzgfxwjk | | 1 | 0 | 0 |
-| zwgk/zxwj/bmwj | zwgk/zxwj/bmwj | | 3424 | 5 | 0 |
-| zwgk/zxwj/qgwhbgswj | zwgk/zxwj/qgwhbgswj | | 459 | 0 | 0 |
-| zwgk/zxwj/qgwhwj | zwgk/zxwj/qgwhwj | | 353 | 1 | 0 |
+| zwgk/zfxxgk/gwhwj/tfggsjdyjy | zwgk/zfxxgk/gwhwj/tfggsjdyjy | | 17 | 1 | 0 |
+| zwgk/zfxxgk/gwhwj/zdjsxmdpzh | zwgk/zfxxgk/gwhwj/zdjsxmdpzh | | 13 | 2 | 0 |
+| zwgk/zfxxgk/gwhwj/zshzzytdfw | zwgk/zfxxgk/gwhwj/zshzzytdfw | | 148 | 72 | 0 |
+| zwgk/zfxxgk/zc/xzgfxwjk | zwgk/zfxxgk/zc/xzgfxwjk | | 1 | 1 | 0 |
+| zwgk/zxwj/bmwj | zwgk/zxwj/bmwj | | 3424 | 989 | 0 |
+| zwgk/zxwj/qgwhbgswj | zwgk/zxwj/qgwhbgswj | | 459 | 43 | 0 |
+| zwgk/zxwj/qgwhwj | zwgk/zxwj/qgwhwj | | 353 | 56 | 0 |
 | 政府工作报告 | zwgk/zfgzbg | | 10 | 0 | 0 |
 | zwgk/zfxxgk/fdzdgknr/hzcfhzqz/bljggs | zwgk/zfxxgk/fdzdgknr/hzcfhzqz/bljggs | | 6 | 0 | 0 |
 | zwgk/zfxxgk/fdzdgknr/hzcfhzqz/bszn | zwgk/zfxxgk/fdzdgknr/hzcfhzqz/bszn | | 4 | 0 | 0 |
