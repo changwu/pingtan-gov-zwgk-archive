@@ -7,17 +7,17 @@
 ## 统计
 
 - 枚举范围(站点文档库 channelid=200210): 72744 条中,符合范围(/zwgk/ 同域) 72744 条
-- 已完成文档(page.txt+page.html+links.tsv): 4075
-- 失败: 0 | 待抓取: 68669
-- 附件: 记录 1409 | 已下载 1408 | 失败 0
-- 站外链接记录: 191556 | 列表页存档: 0
-- 本地体积: 5055 MB
+- 已完成文档(page.txt+page.html+links.tsv): 5013
+- 失败: 0 | 待抓取: 67731
+- 附件: 记录 2281 | 已下载 2280 | 失败 0
+- 站外链接记录: 235704 | 列表页存档: 0
+- 本地体积: 6933 MB
 
 ## 分栏目进度
 
 | 栏目 | 栏目路径 | 标题样例 | 总数 | 完成 | 失败 |
 |---|---|---|---|---|---|
-| 公示公告 | zwgk/gsgg | | 9270 | 4075 | 0 |
+| 公示公告 | zwgk/gsgg | | 9270 | 5013 | 0 |
 | zwgk/zfxxgk/gwhwj/cxjshgldzd | zwgk/zfxxgk/gwhwj/cxjshgldzd | | 6 | 0 | 0 |
 | zwgk/zfxxgk/gwhwj/dfxfgzfgzh | zwgk/zfxxgk/gwhwj/dfxfgzfgzh | | 151 | 0 | 0 |
 | zwgk/zfxxgk/gwhwj/fpjyylylsh | zwgk/zfxxgk/gwhwj/fpjyylylsh | | 9 | 0 | 0 |
