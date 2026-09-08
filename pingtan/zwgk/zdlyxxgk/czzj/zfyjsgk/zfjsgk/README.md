@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk
 
 栏目路径: zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk
-文档总数: 31 | 已完成: 22 | 失败: 0 | 排队: 9
+文档总数: 31 | 已完成: 30 | 失败: 0 | 排队: 1
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -25,14 +25,14 @@
 | 2019年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202008/22050_2019年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况/page.txt | done |
 | 共青团平潭综合实验区委员会 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202008/22272_共青团平潭综合实验区委员会/page.txt | done |
 | 2020年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202108/27386_2020年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况/page.txt | done |
-| 2018年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况 |  |  | queued |
+| 2018年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202105/26192_2018年度平潭综合实验区本级一般公共预算“三公”经费支出决算情况/page.txt | done |
 | 2019年度平潭综合实验区（平潭县） 财政决算收支情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202008/22045_2019年度平潭综合实验区（平潭县） 财政决算收支情况/page.txt | done |
-| 平潭综合实验区财政金融局关于做好部门预决算公开工作的通知 |  |  | queued |
-| 平潭综合实验区财政金融局关于做好部门预决算公开工作的通知 |  |  | queued |
-| 平潭县人民政府关于呈送2018年平潭财政决算情况的报告 |  |  | queued |
-| 2018年度平潭综合实验区财政决算收支情况 |  |  | queued |
-| 关于做好2018年度地方预决算公开有关数据核对工作的通知 |  |  | queued |
-| 2017年度平潭综合实验区财政决算收支情况 |  |  | queued |
-| 关于2017年平潭财政决算情况的报告 |  |  | queued |
+| 平潭综合实验区财政金融局关于做好部门预决算公开工作的通知 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202001/19108_平潭综合实验区财政金融局关于做好部门预决算公开工作的通知/page.txt | done |
+| 平潭综合实验区财政金融局关于做好部门预决算公开工作的通知 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202001/19107_平潭综合实验区财政金融局关于做好部门预决算公开工作的通知/page.txt | done |
+| 平潭县人民政府关于呈送2018年平潭财政决算情况的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201908/15300_平潭县人民政府关于呈送2018年平潭财政决算情况的报告/page.txt | done |
+| 2018年度平潭综合实验区财政决算收支情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201908/15261_2018年度平潭综合实验区财政决算收支情况/page.txt | done |
+| 关于做好2018年度地方预决算公开有关数据核对工作的通知 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201904/13594_关于做好2018年度地方预决算公开有关数据核对工作的通知/page.txt | done |
+| 2017年度平潭综合实验区财政决算收支情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201807/10393_2017年度平潭综合实验区财政决算收支情况/page.txt | done |
+| 关于2017年平潭财政决算情况的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201808/10555_关于2017年平潭财政决算情况的报告/page.txt | done |
 | 2020年度平潭综合实验区（平潭县）财政决算收支情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202108/27377_2020年度平潭综合实验区（平潭县）财政决算收支情况/page.txt | done |
 | 2015年度财政收支决算表公开及区对下转移支付执行情况说明 |  |  | queued |

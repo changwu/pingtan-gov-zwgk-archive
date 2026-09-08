@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
 
 栏目路径: zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
-文档总数: 167 | 已完成: 96 | 失败: 0 | 排队: 71
+文档总数: 167 | 已完成: 130 | 失败: 0 | 排队: 37
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -27,8 +27,8 @@
 | 2025年3月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202504/98211_2025年3月预算执行情况分析/page.txt | done |
 | 2025年2月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202503/97800_2025年2月预算执行情况分析/page.txt | done |
 | 2025年1月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202502/97189_2025年1月预算执行情况分析/page.txt | done |
-| 平潭综合实验区发展研究中心2019年预算说明 |  |  | queued |
-| 关于平潭2018年预算执行情况及2019年预算草案的报告 |  |  | queued |
+| 平潭综合实验区发展研究中心2019年预算说明 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/201902/12430_平潭综合实验区发展研究中心2019年预算说明/page.txt | done |
+| 关于平潭2018年预算执行情况及2019年预算草案的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/201902/12400_关于平潭2018年预算执行情况及2019年预算草案的报告/page.txt | done |
 | 2024年12月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202501/96707_2024年12月预算执行情况分析/page.txt | done |
 | 2024年11月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202412/96055_2024年11月预算执行情况分析/page.txt | done |
 | 2024年8月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202409/93438_2024年8月预算执行情况分析/page.txt | done |
