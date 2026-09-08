@@ -1,33 +1,33 @@
 # zwgk/zdlyxxgk/shbz/shjz/cxdb
 
 栏目路径: zwgk/zdlyxxgk/shbz/shjz/cxdb
-文档总数: 56 | 已完成: 0 | 失败: 0 | 排队: 56
+文档总数: 56 | 已完成: 22 | 失败: 0 | 排队: 34
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
-| 2025年9月城乡低保及特困发放明细 |  |  | queued |
-| 2025年8月城乡低保及特困发放明细 |  |  | queued |
-| 2025年7月城乡低保及特困发放明细 |  |  | queued |
-| 2025年6月城乡低保及特困发放明细 |  |  | queued |
-| 平潭综合实验区慈善文化“进机关、进企业、进乡村、进社区、进家庭”活动方案 |  |  | queued |
+| 2025年9月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202510/101988_2025年9月城乡低保及特困发放明细/page.txt | done |
+| 2025年8月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202510/101987_2025年8月城乡低保及特困发放明细/page.txt | done |
+| 2025年7月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202510/101986_2025年7月城乡低保及特困发放明细/page.txt | done |
+| 2025年6月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202510/101985_2025年6月城乡低保及特困发放明细/page.txt | done |
+| 平潭综合实验区慈善文化“进机关、进企业、进乡村、进社区、进家庭”活动方案 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202509/101426_平潭综合实验区慈善文化“进机关、进企业、进乡村、进社区、进家庭”活动方案/page.txt | done |
 | 2023年08月城乡低保及特困人员发放花名册 |  |  | queued |
-| 2025年5月城乡低保及特困发放明细 |  |  | queued |
-| 2025年4月城乡低保及特困发放明细 |  |  | queued |
-| 2025年3月城乡低保及特困发放明细 |  |  | queued |
-| 2025年2月城乡低保及特困发放明细 |  |  | queued |
-| 2025年1月城乡低保及特困发放明细 |  |  | queued |
-| 2024年12月城乡低保及特困发放明细 |  |  | queued |
-| 2024年2月城乡低保及特困发放明细 |  |  | queued |
-| 2024年11月城乡低保及特困发放明细 |  |  | queued |
-| 2024年10月城乡低保及特困发放明细 |  |  | queued |
-| 2024年9月城乡低保及特困发放明细 |  |  | queued |
-| 平潭社会救助服务热线 |  |  | queued |
-| 2024年8月城乡低保及特困发放明细 |  |  | queued |
-| 2024年7月城乡低保及特困发放明细 |  |  | queued |
-| 2024年6月城乡低保及特困发放明细 |  |  | queued |
-| 2024年5月城乡低保及特困发放明细 |  |  | queued |
-| 2024年4月城乡低保及特困发放明细 |  |  | queued |
-| 2024年3月城乡低保及特困发放明细 |  |  | queued |
+| 2025年5月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202505/99265_2025年5月城乡低保及特困发放明细/page.txt | done |
+| 2025年4月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202505/99264_2025年4月城乡低保及特困发放明细/page.txt | done |
+| 2025年3月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202505/99263_2025年3月城乡低保及特困发放明细/page.txt | done |
+| 2025年2月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202505/99262_2025年2月城乡低保及特困发放明细/page.txt | done |
+| 2025年1月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202505/99261_2025年1月城乡低保及特困发放明细/page.txt | done |
+| 2024年12月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202505/99259_2024年12月城乡低保及特困发放明细/page.txt | done |
+| 2024年2月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202402/87552_2024年2月城乡低保及特困发放明细/page.txt | done |
+| 2024年11月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202412/95579_2024年11月城乡低保及特困发放明细/page.txt | done |
+| 2024年10月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202410/94573_2024年10月城乡低保及特困发放明细/page.txt | done |
+| 2024年9月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202410/94572_2024年9月城乡低保及特困发放明细/page.txt | done |
+| 平潭社会救助服务热线 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202409/93405_平潭社会救助服务热线/page.txt | done |
+| 2024年8月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202409/93404_2024年8月城乡低保及特困发放明细/page.txt | done |
+| 2024年7月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202409/93403_2024年7月城乡低保及特困发放明细/page.txt | done |
+| 2024年6月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202407/91828_2024年6月城乡低保及特困发放明细/page.txt | done |
+| 2024年5月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202406/91028_2024年5月城乡低保及特困发放明细/page.txt | done |
+| 2024年4月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202406/91026_2024年4月城乡低保及特困发放明细/page.txt | done |
+| 2024年3月城乡低保及特困发放明细 |  | zwgk/zdlyxxgk/shbz/shjz/cxdb/202403/88521_2024年3月城乡低保及特困发放明细/page.txt | done |
 | 2023年10月城乡低保及特困人员发放花名册 |  |  | queued |
 | 2023年09月城乡低保及特困人员发放花名册 |  |  | queued |
 | 2023年07月城乡低保及特困人员发放花名册 |  |  | queued |

@@ -1,0 +1,153 @@
+type	href	text	kind	samehost	inscope
+a	https://www.pingtan.gov.cn/		link	yes	no
+a	https://www.gov.cn/	国务院	link	no	no
+a	https://www.fujian.gov.cn/	省政府	link	no	no
+a	https://www.fjrd.gov.cn/	省人大	link	no	no
+a	http://www.fjzx.gov.cn/	省政协	link	no	no
+a	https://www.pingtan.gov.cn/uc/indexs/index	你好，	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/ggtywh/wlxx/202509/logoutUrl	注销	link	yes	yes
+a	https://www.pingtan.gov.cn/	首页	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/	政务公开	link	yes	yes
+a	https://www.pingtan.gov.cn/jdhy/	解读回应	link	yes	no
+a	https://www.pingtan.gov.cn/bsfw/	办事服务	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/	互动交流	link	yes	no
+a	https://www.pingtan.gov.cn/zjpt/	走进平潭	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zfxxgk/	政府信息公开	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ldzc/	领导之窗	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zzjg/	政府机构	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/yw/	要闻	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zfhy/	政府会议	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zxwj/	最新文件	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zcwjk/	政策文件库	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zfgzbg/	政府工作报告	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/gsgg/	公示公告	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ghxx/	规划信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/rsxx/	人事信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/tjxx/	统计信息	link	yes	yes
+a	https://data.fujian.gov.cn/#/oportal/index	数据开放	link	no	no
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/	重点领域信息公开	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ztzl/	专题专栏	link	yes	yes
+a	https://www.pingtan.gov.cn/jdhy/zcjd/	平潭政策解读	link	yes	no
+a	https://www.pingtan.gov.cn/jdhy/xwfbh/	新闻发布会	link	yes	no
+a	https://www.pingtan.gov.cn/jdhy/hygq/	回应关切	link	yes	no
+a	https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105	福建网上办事大厅	link	no	no
+a	https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false	平潭行政服务中心	link	yes	no
+a	https://www.fujian.gov.cn/bsfw/mztapp/	闽政通APP	link	no	no
+a	https://www.pingtan.gov.cn/zjpt/cypt/	畅游平潭	link	yes	no
+a	https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/	政务地图	link	yes	no
+a	https://12345.pingtan.gov.cn/	12345便民惠企服务平台	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/zxft/	在线访谈	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/wsdc/	网上调查	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/myzj/	民意征集	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/hdjlzsk/	互动交流知识库	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/ggtywh/	公共体育文化	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/ggtywh/wlxx/	文旅信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/ggtywh/wlxx/202509/share.sina	微博	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/ggtywh/wlxx/202509/share.qzone	QQ空间	link	yes	yes
+a	https://mp.weixin.qq.com/s/1dE6GIhy5AGYrzrTD2pZDA		link	no	no
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/ggtywh/wlxx/202509/el.url		link	yes	yes
+a	http://www.fj.gov.cn/	福建省人民政府	link	no	no
+a	https://www.fuzhou.gov.cn/	福州市政府网站	link	no	no
+a	http://www.xm.gov.cn/	厦门市政府网站	link	no	no
+a	http://www.quanzhou.gov.cn/	泉州市政府网站	link	no	no
+a	http://www.zhangzhou.gov.cn/	漳州市政府网站	link	no	no
+a	https://www.putian.gov.cn/	莆田市政府网站	link	no	no
+a	https://www.sm.gov.cn/	三明市政府网站	link	no	no
+a	https://www.np.gov.cn/	南平市政府网站	link	no	no
+a	http://www.longyan.gov.cn/	龙岩市政府网站	link	no	no
+a	http://www.ningde.gov.cn/	宁德市政府网站	link	no	no
+a	http://www.people.com.cn/	人民网	link	no	no
+a	http://www.xinhuanet.com/	新华网	link	no	no
+a	https://www.chinanews.com.cn/	中国新闻网	link	no	no
+a	https://www.cctv.com/	央视国际	link	no	no
+a	https://www.ptnet.cn/	平潭网	link	no	no
+a	http://fjptq.wenming.cn/	平潭文明网	link	no	no
+a	http://www.acas.org.cnx7a72966ff3868.ipv6best.cn/	海峡两岸仲裁中心	link	no	no
+a	http://fujian.chinatax.gov.cn/pingtanswj/	国家税务总局平潭综合实验区税务局	link	no	no
+a	http://pt.fjbz.org.cnx1e49966ff3868.ipv6best.cn:8060/	福建省标准信息服务平台	link	no	no
+a	http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm	人民日报	link	no	no
+a	https://fjrb-fjdaily-comx2d93966ff3868xx.ipv6best.cn/pc/col/202311/02/node_01.html	福建日报	link	no	no
+a	http://www.zznews.cn/	闽南日报	link	no	no
+a	https://mbrb.greatwuyi.com/202311/02/node_1.html	闽北日报	link	no	no
+a	http://www.mxrb.cn/	闽西日报	link	no	no
+a	http://www.ndwww.cn/	闽东日报	link	no	no
+a	https://www.qzwb.com/	泉州晚报	link	no	no
+a	http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html	三明日报	link	no	no
+a	http://www.taihainet.com/	海峡导报	link	no	no
+a	http://fj.sina.com.cn/	新浪福建	link	no	no
+a	https://www.163.com/	网易	link	no	no
+a	https://www.sohu.com/	搜狐	link	no	no
+a	https://www.creditchina.gov.cn/	信用中国	link	no	no
+a	https://xy.fujian.gov.cn/#/home	信用福建	link	no	no
+a	https://27-151-80-61xe076966ff3868xx.ipv6best.cn:91/#/double-publicity-info	信用平潭	link	no	no
+a	https://credit-xm-gov-cnxd4a4966ff3868xx.ipv6best.cn/	信用厦门	link	no	no
+a	http://www.szzg.gov.cn/	数字中国建设峰会	link	no	no
+a	http://www.hxrc.com/	中国海峡人才市场	link	no	no
+a	https://www.pingtan.gov.cn/zwzdb/sybz/	使用帮助	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/lxwm/	联系我们	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/ysbh/	隐私保护	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/xmtjz/	新媒体矩阵	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/gywm/	关于我们	link	yes	no
+a	https://www-beian-gov-cnx45c8966ff3868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002	公安备案号：35012899001-19002	link	no	no
+a	https://beian.miit.gov.cn/	闽ICP备09032658号	link	no	no
+a	https://bszs-conac-cnxe103966ff3868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D		link	no	no
+img	https://www.pingtan.gov.cn/images/gh_logo.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/site_logo.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/20xmszf_mzt_ewm.png		image	yes	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_eb30d322-b1a2-41ef-9299-119ac2a25721.png	image.png	image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_8090173b-915b-452c-990f-e501672082bc.png		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_84048b5f-56d8-454b-91af-45719cf6caf1.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_6fc651ba-4447-4659-88f2-c69c0c569930.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_8e02e2e6-1758-4baa-a13b-918f22cf6c87.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_b725819a-a000-4413-97b8-15c40b8d3191.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_40b61200-9b5b-41d3-b8f4-1c894d0a2e54.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_0a8f04f6-3ec1-40e4-8eba-c4f7afb60835.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_c7ada6ec-3af4-4af7-9bd6-1e676e27f38b.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_d38d9e2f-8acc-4823-b9a9-312552eb41c3.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_d3d80f68-008e-497f-81d7-459a57d6fe48.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_98e960bd-1cdc-45c5-ad3e-5c1e9214f37b.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_f5978c94-73ae-4204-9787-0f397cd74e7b.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_3e246e50-3354-44dc-960c-cff8e9e56489.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_237d3485-6121-46fa-b2db-e51e5fbe03ac.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_1da22a2c-2ff1-4304-a5d2-9689f13942f6.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_58398f28-0903-4143-836f-82ef58ba38dd.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_a2663a50-e853-463d-8997-12a6f3c3a26a.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_8ed7e441-43bf-4429-a8fb-1d35c06d8810.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_4030d5d6-64bb-42eb-9496-06fc40da3767.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_b0f5de61-9b1f-4953-a60e-8e0a9055fb38.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_d3e19b55-1feb-450f-9b78-d5798b002175.png		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_31a1150a-3343-4f08-b538-b0c7dcf6789b.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_1ca0ca66-ba89-48e1-9d42-a093dc175f60.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_ebf6f6e3-1c5f-4b1a-96d4-589c0cc95ef9.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_99ef1a44-1c26-4a3a-8ec9-df90fd848d19.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_d727e009-2e8d-4474-aaf3-b88c078f98c6.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_c0e1ba8a-6b4c-4049-bf7a-1ab92d4d4126.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_1191b0e4-fd5f-43aa-bf7b-e985a225591e.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_dc84ab28-6154-4ae7-ae31-10f5c30f1a4e.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_4cc7476e-0b73-4a44-ac28-45f1abf210a8.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_da35c493-f320-434c-acf1-963a6d3e7d13.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_043c00b4-56c6-47dc-aad5-c5ac13e5c4da.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_769036ca-7d4e-46ae-b6e5-869e68aa9610.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_b2c5937e-e1cd-4e31-884d-e1db255dfb0e.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_fb1aa2e8-ade9-4097-9bba-fad59d4207e0.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_3d591199-7c1b-4c6b-aa2f-f19d4c8be81d.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_54333c11-47ac-4591-808c-616236046158.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_aa2d0e88-8995-4b7e-8ced-e06175a5c012.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_daf85c07-e772-4976-bae8-e30cdb813b10.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_c24d5756-4a9c-4e01-890b-92e812aab3aa.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_9a652cf2-1875-4886-b09b-3196a6170344.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_41609a0f-19ec-4ef1-a380-5cc4a0194a14.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_42b6b7be-8677-48a7-bb7a-35498219f9b2.gif		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_628aced7-1613-4d67-9940-b2d2a8cb6f8b.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_2e4bedc3-2d80-4c62-9a0d-916d15abecb9.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_cacffae5-3a7a-4b68-90ff-bf80419c1c29.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_9ce6b2e9-ee67-46ed-a6dc-1d815814cbda.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2025-09/15/2110546_7ec9d3f9-6d5b-4a1d-99de-6c0d742cd83d.jpg		image	no	no
+img	https://www.pingtan.gov.cn/images/babs.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/20231118ptfb.jpg	平潭发布	image	yes	no
+img	https://www.pingtan.gov.cn/images/20231118ptt.png	平潭通	image	yes	no
+img	https://www.pingtan.gov.cn/images/foot-icon4.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/foot-icon4-a.png	平潭文旅	image	yes	no
+img	https://www.pingtan.gov.cn/images/20231119ptVly.jpg		image	yes	no
+img	https://www.pingtan.gov.cn/images/red.png	党政机关	image	yes	no
+img	https://www.pingtan.gov.cn/images/img11.png		image	yes	no
