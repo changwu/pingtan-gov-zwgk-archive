@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
 
 栏目路径: zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
-文档总数: 167 | 已完成: 34 | 失败: 0 | 排队: 133
+文档总数: 167 | 已完成: 56 | 失败: 0 | 排队: 111
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -18,7 +18,7 @@
 | 平潭综合实验区2024年预算执行情况和2025年预算草案的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202501/96949_平潭综合实验区2024年预算执行情况和2025年预算草案的报告/page.txt | done |
 | 2025年9月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202510/102189_2025年9月预算执行情况分析/page.txt | done |
 | 2025年10月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202511/103458_2025年10月预算执行情况分析/page.txt | done |
-| 平潭综合实验区2023年预算执行情况和2024年预算草案的报告 |  |  | queued |
+| 平潭综合实验区2023年预算执行情况和2024年预算草案的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202402/86888_平潭综合实验区2023年预算执行情况和2024年预算草案的报告/page.txt | done |
 | 2025年8月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202509/101348_2025年8月预算执行情况分析/page.txt | done |
 | 2025年7月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202508/100778_2025年7月预算执行情况分析/page.txt | done |
 | 2025年6月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202507/100198_2025年6月预算执行情况分析/page.txt | done |
@@ -44,14 +44,14 @@
 | 关于2024年平潭综合实验区（平潭县）预算调整方案的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202406/90908_关于2024年平潭综合实验区（平潭县）预算调整方案的报告/page.txt | done |
 | 2024年2月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202403/87836_2024年2月预算执行情况分析/page.txt | done |
 | 2024年3月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202404/88939_2024年3月预算执行情况分析/page.txt | done |
-| 平潭综合实验区2024年1月预算执行情况分析 |  |  | queued |
-| 2023年12月预算执行情况分析 |  |  | queued |
-| 2023年11月预算执行情况分析 |  |  | queued |
-| 平潭综合实验区2023年10月预算执行情况分析 |  |  | queued |
+| 平潭综合实验区2024年1月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202402/86893_平潭综合实验区2024年1月预算执行情况分析/page.txt | done |
+| 2023年12月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202401/85944_2023年12月预算执行情况分析/page.txt | done |
+| 2023年11月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202312/82937_2023年11月预算执行情况分析/page.txt | done |
+| 平潭综合实验区2023年10月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202311/81818_平潭综合实验区2023年10月预算执行情况分析/page.txt | done |
 | 平潭综合实验区2020年2月预算执行情况分析 |  |  | queued |
 | 平潭综合实验区2022年6月预算执行情况分析 |  |  | queued |
-| 平潭综合实验区2023年8月预算执行情况分析 |  |  | queued |
-| 关于2023年平潭综合实验区（平潭县） 预算调整方案（草案）的报告 |  |  | queued |
-| 平潭综合实验区2022年9月预算执行情况分析 |  |  | queued |
-| 平潭综合实验区2023年9月预算执行情况分析 |  |  | queued |
-| 平潭综合实验区2023年7月预算执行情况分析 |  |  | queued |
+| 平潭综合实验区2023年8月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202309/49943_平潭综合实验区2023年8月预算执行情况分析/page.txt | done |
+| 关于2023年平潭综合实验区（平潭县） 预算调整方案（草案）的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202310/51477_关于2023年平潭综合实验区（平潭县） 预算调整方案（草案）的报告/page.txt | done |
+| 平潭综合实验区2022年9月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202210/36590_平潭综合实验区2022年9月预算执行情况分析/page.txt | done |
+| 平潭综合实验区2023年9月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202310/50808_平潭综合实验区2023年9月预算执行情况分析/page.txt | done |
+| 平潭综合实验区2023年7月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202308/49026_平潭综合实验区2023年7月预算执行情况分析/page.txt | done |
