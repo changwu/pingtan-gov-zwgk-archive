@@ -1,18 +1,18 @@
 # zwgk/ztzl/xfaq/xfaqjzchgjdzz
 
 栏目路径: zwgk/ztzl/xfaq/xfaqjzchgjdzz
-文档总数: 26 | 已完成: 2 | 失败: 0 | 排队: 24
+文档总数: 26 | 已完成: 7 | 失败: 0 | 排队: 19
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
 | 未通过消防开业检查擅自营业 平潭一酒店违规被处罚 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202607/107658_未通过消防开业检查擅自营业 平潭一酒店违规被处罚/page.txt | done |
 | 平潭一酒店存在消防安全隐患，责令限期改 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202605/106646_平潭一酒店存在消防安全隐患，责令限期改/page.txt | done |
-| 曝光！平潭一家酒店存在消防安全隐患 |  |  | queued |
-| 两家单位存在消防隐患！平潭最新公布 |  |  | queued |
-| 平潭两小区存在安全隐患被查 |  |  | queued |
-| 曝光！平潭这些电动自行车违规停放、充电！ |  |  | queued |
+| 曝光！平潭一家酒店存在消防安全隐患 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202604/105959_曝光！平潭一家酒店存在消防安全隐患/page.txt | done |
+| 两家单位存在消防隐患！平潭最新公布 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202511/103543_两家单位存在消防隐患！平潭最新公布/page.txt | done |
+| 平潭两小区存在安全隐患被查 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202509/101248_平潭两小区存在安全隐患被查/page.txt | done |
+| 曝光！平潭这些电动自行车违规停放、充电！ |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202506/99470_曝光！平潭这些电动自行车违规停放、充电！/page.txt | done |
 | 平潭8月电动自行车火灾曝光！ |  |  | queued |
-| 平潭消防联合多部门开展打通“生命通道” 暨电动自行车消防安全专项整治行动 |  |  | queued |
+| 平潭消防联合多部门开展打通“生命通道” 暨电动自行车消防安全专项整治行动 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202504/98331_平潭消防联合多部门开展打通“生命通道” 暨电动自行车消防安全专项整治行动/page.txt | done |
 | 平潭支队联合多部门持续开展打通“生命通道”和电动自行车专项整治行动 |  |  | queued |
 | 曝光台丨亟待整改！平潭这些场所存在消防安全隐患 |  |  | queued |
 | 曝光台丨亟待整改！平潭这些场所存在消防安全隐患 |  |  | queued |

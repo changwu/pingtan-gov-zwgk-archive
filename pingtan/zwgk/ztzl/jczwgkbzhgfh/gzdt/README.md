@@ -1,14 +1,14 @@
 # zwgk/ztzl/jczwgkbzhgfh/gzdt
 
 栏目路径: zwgk/ztzl/jczwgkbzhgfh/gzdt
-文档总数: 1048 | 已完成: 0 | 失败: 0 | 排队: 1048
+文档总数: 1048 | 已完成: 4 | 失败: 0 | 排队: 1044
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
-| 循法而治兴统计 以数为基谋发展 |  |  | queued |
-| 平潭：产业提质加速跑 释放发展新动能 |  |  | queued |
-| 平潭文旅热力足 多元体验引客来 |  |  | queued |
-| 平潭调整汽车置换更新补贴申领方式 |  |  | queued |
+| 循法而治兴统计 以数为基谋发展 |  | zwgk/ztzl/jczwgkbzhgfh/gzdt/202512/104154_循法而治兴统计 以数为基谋发展/page.txt | done |
+| 平潭：产业提质加速跑 释放发展新动能 |  | zwgk/ztzl/jczwgkbzhgfh/gzdt/202508/101120_平潭：产业提质加速跑 释放发展新动能/page.txt | done |
+| 平潭文旅热力足 多元体验引客来 |  | zwgk/ztzl/jczwgkbzhgfh/gzdt/202508/101119_平潭文旅热力足 多元体验引客来/page.txt | done |
+| 平潭调整汽车置换更新补贴申领方式 |  | zwgk/ztzl/jczwgkbzhgfh/gzdt/202508/101116_平潭调整汽车置换更新补贴申领方式/page.txt | done |
 | 学习新修改《统计法》绘就统计“有为”亮色 |  |  | queued |
 | 推动教育融合发展 平潭迈出坚实步伐 |  |  | queued |
 | 平潭多部门开展节前检查 |  |  | queued |
