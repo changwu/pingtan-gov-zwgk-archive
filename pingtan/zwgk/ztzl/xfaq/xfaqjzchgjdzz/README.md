@@ -1,7 +1,7 @@
 # zwgk/ztzl/xfaq/xfaqjzchgjdzz
 
 栏目路径: zwgk/ztzl/xfaq/xfaqjzchgjdzz
-文档总数: 26 | 已完成: 7 | 失败: 0 | 排队: 19
+文档总数: 26 | 已完成: 10 | 失败: 0 | 排队: 16
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -11,12 +11,12 @@
 | 两家单位存在消防隐患！平潭最新公布 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202511/103543_两家单位存在消防隐患！平潭最新公布/page.txt | done |
 | 平潭两小区存在安全隐患被查 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202509/101248_平潭两小区存在安全隐患被查/page.txt | done |
 | 曝光！平潭这些电动自行车违规停放、充电！ |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202506/99470_曝光！平潭这些电动自行车违规停放、充电！/page.txt | done |
-| 平潭8月电动自行车火灾曝光！ |  |  | queued |
+| 平潭8月电动自行车火灾曝光！ |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202412/95608_平潭8月电动自行车火灾曝光！/page.txt | done |
 | 平潭消防联合多部门开展打通“生命通道” 暨电动自行车消防安全专项整治行动 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202504/98331_平潭消防联合多部门开展打通“生命通道” 暨电动自行车消防安全专项整治行动/page.txt | done |
-| 平潭支队联合多部门持续开展打通“生命通道”和电动自行车专项整治行动 |  |  | queued |
+| 平潭支队联合多部门持续开展打通“生命通道”和电动自行车专项整治行动 |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202502/97088_平潭支队联合多部门持续开展打通“生命通道”和电动自行车专项整治行动/page.txt | done |
 | 曝光台丨亟待整改！平潭这些场所存在消防安全隐患 |  |  | queued |
 | 曝光台丨亟待整改！平潭这些场所存在消防安全隐患 |  |  | queued |
-| 平潭8月电动自行车火灾曝光！ |  |  | queued |
+| 平潭8月电动自行车火灾曝光！ |  | zwgk/ztzl/xfaq/xfaqjzchgjdzz/202502/97283_平潭8月电动自行车火灾曝光！/page.txt | done |
 | 曝光！违规储存、使用液化气瓶？平潭一餐饮店被临时查封 |  |  | queued |
 | 大曝光！亟待整改！平潭这些场所存在消防安全隐患 |  |  | queued |
 | 曝光！面临关停处罚！平潭一酒店未经许可擅自投入使用、营业 |  |  | queued |

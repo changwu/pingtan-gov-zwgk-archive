@@ -1,5 +1,9 @@
 # 超过 25MB 未推入 GitHub 的附件(本地完整副本保留在 output/pingtan)
 # 格式: 大小(bytes)	相对路径
+28180447	zwgk/000000/doc_经济和社会发展/attachments/file/40280252845f570401845f5a817c0003.pdf
+28306797	zwgk/000000/doc_经济和社会发展/attachments/file/40280252845f570401845f5d1cfd0007.pdf
+31822026	zwgk/000000/doc_经济和社会发展/attachments/file/P020231206375157226649.pdf
+53340521	zwgk/000000/doc_经济和社会发展/attachments/file/P020260113391333909432.pdf
 50438506	zwgk/gsgg/201908/15698_平潭综合实验区规划局关于南北街历史文化街区保护规划公示/attachments/file/2c90b38b6ccbed75016cd25397460064.zip
 38742725	zwgk/gsgg/201912/18733_气体充装站建设工程规划许可证批后公示/attachments/file/2c90b38b6f1cf191016f55cb2fd10072.zip
 26908547	zwgk/gsgg/202003/19672_鑫澳园建设工程规划许可证批后公示/attachments/file/2c90b38b709a378201709f8a07830039.zip
