@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/yata/rdya
 
 栏目路径: zwgk/zdlyxxgk/yata/rdya
-文档总数: 43 | 已完成: 15 | 失败: 0 | 排队: 28
+文档总数: 43 | 已完成: 43 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -17,34 +17,34 @@
 | 关于提升改造屿头乡南北主干道的建议 |  | zwgk/zdlyxxgk/yata/rdya/202402/87534_关于提升改造屿头乡南北主干道的建议/page.txt | done |
 | 关于优质教育、医疗资源向金井新城倾斜的建议 |  | zwgk/zdlyxxgk/yata/rdya/202402/87533_关于优质教育、医疗资源向金井新城倾斜的建议/page.txt | done |
 | 关于原305省道（跨海路）损坏路面修复的建议 |  | zwgk/zdlyxxgk/yata/rdya/202402/87531_关于原305省道（跨海路）损坏路面修复的建议/page.txt | done |
-| 关于迫切要求增加养老金的建议 |  |  | queued |
-| 关于完善城建信息归集管理，推进城市数字化建设的建议 |  |  | queued |
-| 关于提高社区干部待遇的建议 |  |  | queued |
-| 关于协调收购流水地区自来水供水公司的相关建议 |  |  | queued |
-| 关于解决屿头群众饮水困难的建议 |  |  | queued |
-| 关于解决狼山机制砂场粉尘污染整治的建议 |  |  | queued |
-| 关于遏制苏平片区江楼村（老区基点村）返贫问题的建议 |  |  | queued |
-| 关于引导设立平潭综合实验区“岚商银行”的建议 |  |  | queued |
+| 关于迫切要求增加养老金的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37949_关于迫切要求增加养老金的建议/page.txt | done |
+| 关于完善城建信息归集管理，推进城市数字化建设的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37947_关于完善城建信息归集管理，推进城市数字化建设的建议/page.txt | done |
+| 关于提高社区干部待遇的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37945_关于提高社区干部待遇的建议/page.txt | done |
+| 关于协调收购流水地区自来水供水公司的相关建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37942_关于协调收购流水地区自来水供水公司的相关建议/page.txt | done |
+| 关于解决屿头群众饮水困难的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37923_关于解决屿头群众饮水困难的建议/page.txt | done |
+| 关于解决狼山机制砂场粉尘污染整治的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37925_关于解决狼山机制砂场粉尘污染整治的建议/page.txt | done |
+| 关于遏制苏平片区江楼村（老区基点村）返贫问题的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37920_关于遏制苏平片区江楼村（老区基点村）返贫问题的建议/page.txt | done |
+| 关于引导设立平潭综合实验区“岚商银行”的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37912_关于引导设立平潭综合实验区“岚商银行”的建议/page.txt | done |
 | 关于建设国彩村至大嵩岛客运码头的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37906_关于建设国彩村至大嵩岛客运码头的建议/page.txt | done |
-| 关于统一规划建设大型建筑垃圾堆放场的建议 |  |  | queued |
-| 关于加快危紧房建设审批和适当放开改造标准的建议 |  |  | queued |
-| 关于重新调整规划苏平片区永久基本农田的建议 |  |  | queued |
-| 关于延长白胜村渔港码头的建议 |  |  | queued |
+| 关于统一规划建设大型建筑垃圾堆放场的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37954_关于统一规划建设大型建筑垃圾堆放场的建议/page.txt | done |
+| 关于加快危紧房建设审批和适当放开改造标准的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37922_关于加快危紧房建设审批和适当放开改造标准的建议/page.txt | done |
+| 关于重新调整规划苏平片区永久基本农田的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37919_关于重新调整规划苏平片区永久基本农田的建议/page.txt | done |
+| 关于延长白胜村渔港码头的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37915_关于延长白胜村渔港码头的建议/page.txt | done |
 | 关于将马腿村打造成岚岛乡村全域旅游新样板的建议 |  | zwgk/zdlyxxgk/yata/rdya/202301/42953_关于将马腿村打造成岚岛乡村全域旅游新样板的建议/page.txt | done |
-| 关于“东海陵园”区域内旧墓拆迁的建议 |  |  | queued |
-| 关于建立完善老年健康服务体系的建议 |  |  | queued |
-| 关于给离岛游客与群众提供更便捷服务的建议 |  |  | queued |
-| 关于对屿头环岛旅游公路建设的建议 |  |  | queued |
-| 关于缓解农村群众饮用水困难的建议 |  |  | queued |
-| 关于恢复平潭二中高一招生的建议 |  |  | queued |
-| 关于建设青峰村自来水工程的建议 |  |  | queued |
-| 关于在苏澳区域规划、设计京台高速出口的建议 |  |  | queued |
-| 关于建设国彩村至大嵩岛客运码头的建议 |  |  | queued |
-| 关于青峰村电力网络等线路落地的建议 |  |  | queued |
-| 关于加强卫生所建设的建议 |  |  | queued |
-| 关于进一步放宽平潭户籍落户政策的建议 |  |  | queued |
-| 关于加强我区疫情常态化下的食品卫生安全的建议 |  |  | queued |
-| 关于加快推进青峰山地质公园建设的建议 |  |  | queued |
-| 关于延长白胜村渔港码头的建议 |  |  | queued |
+| 关于“东海陵园”区域内旧墓拆迁的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37953_关于“东海陵园”区域内旧墓拆迁的建议/page.txt | done |
+| 关于建立完善老年健康服务体系的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37946_关于建立完善老年健康服务体系的建议/page.txt | done |
+| 关于给离岛游客与群众提供更便捷服务的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37926_关于给离岛游客与群众提供更便捷服务的建议/page.txt | done |
+| 关于对屿头环岛旅游公路建设的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37924_关于对屿头环岛旅游公路建设的建议/page.txt | done |
+| 关于缓解农村群众饮用水困难的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37921_关于缓解农村群众饮用水困难的建议/page.txt | done |
+| 关于恢复平潭二中高一招生的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37918_关于恢复平潭二中高一招生的建议/page.txt | done |
+| 关于建设青峰村自来水工程的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37913_关于建设青峰村自来水工程的建议/page.txt | done |
+| 关于在苏澳区域规划、设计京台高速出口的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37909_关于在苏澳区域规划、设计京台高速出口的建议/page.txt | done |
+| 关于建设国彩村至大嵩岛客运码头的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37914_关于建设国彩村至大嵩岛客运码头的建议/page.txt | done |
+| 关于青峰村电力网络等线路落地的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37911_关于青峰村电力网络等线路落地的建议/page.txt | done |
+| 关于加强卫生所建设的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37955_关于加强卫生所建设的建议/page.txt | done |
+| 关于进一步放宽平潭户籍落户政策的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37952_关于进一步放宽平潭户籍落户政策的建议/page.txt | done |
+| 关于加强我区疫情常态化下的食品卫生安全的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37943_关于加强我区疫情常态化下的食品卫生安全的建议/page.txt | done |
+| 关于加快推进青峰山地质公园建设的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37917_关于加快推进青峰山地质公园建设的建议/page.txt | done |
+| 关于延长白胜村渔港码头的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37907_关于延长白胜村渔港码头的建议/page.txt | done |
 | 关于修改完善征迁补偿方案的建议 |  | zwgk/zdlyxxgk/yata/rdya/202301/42952_关于修改完善征迁补偿方案的建议/page.txt | done |
-| 关于在国彩村建设环白青东部生态廊道驿站的建议 |  |  | queued |
+| 关于在国彩村建设环白青东部生态廊道驿站的建议 |  | zwgk/zdlyxxgk/yata/rdya/202211/37916_关于在国彩村建设环白青东部生态廊道驿站的建议/page.txt | done |

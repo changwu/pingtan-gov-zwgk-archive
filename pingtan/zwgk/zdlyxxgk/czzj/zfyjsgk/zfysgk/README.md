@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
 
 栏目路径: zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
-文档总数: 167 | 已完成: 56 | 失败: 0 | 排队: 111
+文档总数: 167 | 已完成: 73 | 失败: 0 | 排队: 94
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -49,7 +49,7 @@
 | 2023年11月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202312/82937_2023年11月预算执行情况分析/page.txt | done |
 | 平潭综合实验区2023年10月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202311/81818_平潭综合实验区2023年10月预算执行情况分析/page.txt | done |
 | 平潭综合实验区2020年2月预算执行情况分析 |  |  | queued |
-| 平潭综合实验区2022年6月预算执行情况分析 |  |  | queued |
+| 平潭综合实验区2022年6月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202207/34890_平潭综合实验区2022年6月预算执行情况分析/page.txt | done |
 | 平潭综合实验区2023年8月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202309/49943_平潭综合实验区2023年8月预算执行情况分析/page.txt | done |
 | 关于2023年平潭综合实验区（平潭县） 预算调整方案（草案）的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202310/51477_关于2023年平潭综合实验区（平潭县） 预算调整方案（草案）的报告/page.txt | done |
 | 平潭综合实验区2022年9月预算执行情况分析 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk/202210/36590_平潭综合实验区2022年9月预算执行情况分析/page.txt | done |
