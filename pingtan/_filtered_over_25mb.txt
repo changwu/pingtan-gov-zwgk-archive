@@ -117,6 +117,10 @@
 38345053	zwgk/gsgg/202511/103491_平潭综合实验区自然资源与生态环境局关于福鑫大厦项目总平面图批前公示/attachments/file/W020251121562306424888.pdf
 31822026	zwgk/tjxx/tjnj/202312/020231206375157226649_平潭统计年鉴2022/attachments/file/P020231206375157226649.pdf
 53340521	zwgk/tjxx/tjnj/202601/020260113391333909432_平潭统计年鉴2025/attachments/file/P020260113391333909432.pdf
+33410288	zwgk/zdlyxxgk/czzj/bmyjsgk/bmjsgk/202108/27383_平潭综合实验区财政金融局关于做好2020年部门及所属单位决算批复和公开工作的通知/attachments/file/2c90b38b7af66a1e017b05daff8f0047.pdf
+33410288	zwgk/zdlyxxgk/czzj/dwyjsgk/dwjsgk/202108/27385_平潭综合实验区财政金融局关于做好2020年部门及所属单位决算批复和公开工作的通知/attachments/file/2c90b38b7af66a1e017b05e683bd004b.pdf
+34266643	zwgk/zdlyxxgk/hjbh_1/202003/19655_平潭综合实验区自然资源与生态环境局关于拟作出平潭综合实验区自来水厂工程（二期）项/attachments/file/2c90b38b709a378201709dd01ce5000b.pdf
+26608679	zwgk/zdlyxxgk/hjbh_1/202003/20139_平潭综合实验区自然资源与生态环境局关于拟作出奥园鼎新·钻石海等四个项目环评审批的/attachments/file/2c90b38b7114cb0b01712fb4e31d0239.pdf
 28716684	zwgk/zdlyxxgk/hjbh_1/202210/36838_平潭综合实验区关于鹿原北路（盛业路-君山路） 项目环境影响评价报告表审批前公示/attachments/file/4028025284022dd801840da25178002d.pdf
 44980817	zwgk/zdlyxxgk/hjbh_1/202211/40626_平潭综合实验区关于建筑产业化基地周边路网项目环境影响评价报告表审批前公示/attachments/file/40280252848348e2018483b64f6b0005.pdf
 48420776	zwgk/zdlyxxgk/hjbh_1/202212/42378_平潭综合实验区行政审批局关于鹿原北路（君山路-民主路）项目环境影响报告表的公示/attachments/file/402802528505798d01850f92d36e001f.pdf
@@ -128,4 +132,5 @@
 63378300	zwgk/zdlyxxgk/wgjy/202307/48245_平潭综合实验区社会事业局关于公开征集办公耗材、 图文广告服务、办公用水、办公家具/attachments/file/402802528967f285018967f88f28000b.xlsx
 63378300	zwgk/zdlyxxgk/wgjy/202307/48427_平潭综合实验区社会事业局关于公开征集办公耗材、 图文广告服务、办公用水、办公家具/attachments/file/402802528986b90d018986ba4aac000b.xlsx
 30433865	zwgk/zdlyxxgk/ylws_1/202311/81810_平潭综合实验区医院2023立式灭菌器、遥控心电监护系统、手术器械等采购项目方案征/attachments/file/402802528ba8c0d0018ba9060c2a0007.zip
+33713184	zwgk/zdlyxxgk/zdxx/202102/24701_平潭县2013年第17批次城市建设用地/attachments/file/2c90b38b7761934501776c455cb40180.zip
 26301037	zwgk/zxwj/bmwj/202009/22543_平潭综合实验区农业农村局关于开展平潭综合实验区农业产业化区级重点龙头企业申报工作/attachments/file/2c90b38b7456ecee0174691cde7300c6.zip

@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/czzj/czzjzdjc
 
 栏目路径: zwgk/zdlyxxgk/czzj/czzjzdjc
-文档总数: 82 | 已完成: 45 | 失败: 0 | 排队: 37
+文档总数: 82 | 已完成: 82 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -13,8 +13,8 @@
 | 平潭综合实验区2025年2月转移支付  （含直达资金）预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202503/97737_平潭综合实验区2025年2月转移支付 （含直达资金）预算执行和监控分析报告/page.txt | done |
 | 平潭综合实验区2024年12月直达资金 预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202501/96618_平潭综合实验区2024年12月直达资金 预算执行和监控分析报告/page.txt | done |
 | 平潭综合实验区2024年11月直达资金 预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202412/96057_平潭综合实验区2024年11月直达资金 预算执行和监控分析报告/page.txt | done |
-| 关于印发《中央财政支持应急物资保障体系建设资金（直达资金）管理细则》的通知 |  |  | queued |
-| 关于下达2020年海岛及沿海地区转移支付资金（直达资金）的通知 |  |  | queued |
+| 关于印发《中央财政支持应急物资保障体系建设资金（直达资金）管理细则》的通知 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25668_关于印发《中央财政支持应急物资保障体系建设资金（直达资金）管理细则》的通知/page.txt | done |
+| 关于下达2020年海岛及沿海地区转移支付资金（直达资金）的通知 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25666_关于下达2020年海岛及沿海地区转移支付资金（直达资金）的通知/page.txt | done |
 | 平潭综合实验区2024年10月直达资金预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202411/94986_平潭综合实验区2024年10月直达资金预算执行和监控分析报告/page.txt | done |
 | 平潭综合实验区2024年9月直达资金预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202410/94496_平潭综合实验区2024年9月直达资金预算执行和监控分析报告/page.txt | done |
 | 平潭综合实验区2024年6月直达资金预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202407/91851_平潭综合实验区2024年6月直达资金预算执行和监控分析报告/page.txt | done |
@@ -49,9 +49,9 @@
 | 平潭综合实验区2022年1-2月直达资金预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202203/32149_平潭综合实验区2022年1-2月直达资金预算执行和监控分析报告/page.txt | done |
 | 平潭综合实验区2021年11月直达资金预算执行和监控分析报告 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202203/32154_平潭综合实验区2021年11月直达资金预算执行和监控分析报告/page.txt | done |
 | 平潭综合实验区2021年直达资金工作总结 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202203/32146_平潭综合实验区2021年直达资金工作总结/page.txt | done |
-| 关于举办财政资金直达机制有关政策宣讲的通知 |  |  | queued |
-| 直达资金使用情况 |  |  | queued |
-| 直达资金管理工作计划 |  |  | queued |
-| 关于进一步做好直达资金有关工作的通知 |  |  | queued |
-| 1-4月直达资金预算执行情况 |  |  | queued |
-| 直达资金常见问题解答 |  |  | queued |
+| 关于举办财政资金直达机制有关政策宣讲的通知 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25683_关于举办财政资金直达机制有关政策宣讲的通知/page.txt | done |
+| 直达资金使用情况 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25679_直达资金使用情况/page.txt | done |
+| 直达资金管理工作计划 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25677_直达资金管理工作计划/page.txt | done |
+| 关于进一步做好直达资金有关工作的通知 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25661_关于进一步做好直达资金有关工作的通知/page.txt | done |
+| 1-4月直达资金预算执行情况 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202105/26098_1-4月直达资金预算执行情况/page.txt | done |
+| 直达资金常见问题解答 |  | zwgk/zdlyxxgk/czzj/czzjzdjc/202104/25707_直达资金常见问题解答/page.txt | done |
