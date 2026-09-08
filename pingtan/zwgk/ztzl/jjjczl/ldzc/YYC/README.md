@@ -1,8 +1,8 @@
 # zwgk/ztzl/jjjczl/ldzc/YYC
 
 栏目路径: zwgk/ztzl/jjjczl/ldzc/YYC
-文档总数: 1 | 已完成: 0 | 失败: 0 | 排队: 1
+文档总数: 1 | 已完成: 1 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
-| 俞永春   平潭综合实验区监察工委委员 |  |  | queued |
+| 俞永春   平潭综合实验区监察工委委员 |  | zwgk/ztzl/jjjczl/ldzc/YYC/202606/107439_俞永春 平潭综合实验区监察工委委员/page.txt | done |
