@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/spypaqun/ypaq
 
 栏目路径: zwgk/zdlyxxgk/spypaqun/ypaq
-文档总数: 382 | 已完成: 289 | 失败: 0 | 排队: 93
+文档总数: 382 | 已完成: 363 | 失败: 0 | 排队: 19
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -9,8 +9,8 @@
 | 平潭综合实验区民生部分药品价格(2026年8月31日） |  | zwgk/zdlyxxgk/spypaqun/ypaq/202608/108651_平潭综合实验区民生部分药品价格(2026年8月31日）/page.txt | done |
 | 平潭综合实验区民生部分药品价格(2026年8月24日） |  | zwgk/zdlyxxgk/spypaqun/ypaq/202608/108562_平潭综合实验区民生部分药品价格(2026年8月24日）/page.txt | done |
 | 平潭综合实验区民生部分药品价格(2026年8月10日） |  | zwgk/zdlyxxgk/spypaqun/ypaq/202608/108334_平潭综合实验区民生部分药品价格(2026年8月10日）/page.txt | done |
-| 第一类医疗器械备案信息公示 |  |  | queued |
-| 平潭综合实验区企业信用评级结果 |  |  | queued |
+| 第一类医疗器械备案信息公示 |  | zwgk/zdlyxxgk/spypaqun/ypaq/201706/7351_第一类医疗器械备案信息公示/page.txt | done |
+| 平潭综合实验区企业信用评级结果 |  | zwgk/zdlyxxgk/spypaqun/ypaq/201701/6608_平潭综合实验区企业信用评级结果/page.txt | done |
 | 平潭综合实验区民生部分药品价格(2026年8月4日） |  | zwgk/zdlyxxgk/spypaqun/ypaq/202608/108224_平潭综合实验区民生部分药品价格(2026年8月4日）/page.txt | done |
 | 平潭综合实验区民生部分药品价格(2026年7月20日） |  | zwgk/zdlyxxgk/spypaqun/ypaq/202607/108002_平潭综合实验区民生部分药品价格(2026年7月20日）/page.txt | done |
 | 平潭综合实验区民生部分药品价格(2026年7月6日） |  | zwgk/zdlyxxgk/spypaqun/ypaq/202607/107728_平潭综合实验区民生部分药品价格(2026年7月6日）/page.txt | done |

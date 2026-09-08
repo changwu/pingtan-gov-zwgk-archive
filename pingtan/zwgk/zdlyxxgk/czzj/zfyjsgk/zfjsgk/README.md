@@ -1,7 +1,7 @@
 # zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk
 
 栏目路径: zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk
-文档总数: 31 | 已完成: 30 | 失败: 0 | 排队: 1
+文档总数: 31 | 已完成: 31 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
@@ -35,4 +35,4 @@
 | 2017年度平潭综合实验区财政决算收支情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201807/10393_2017年度平潭综合实验区财政决算收支情况/page.txt | done |
 | 关于2017年平潭财政决算情况的报告 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201808/10555_关于2017年平潭财政决算情况的报告/page.txt | done |
 | 2020年度平潭综合实验区（平潭县）财政决算收支情况 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/202108/27377_2020年度平潭综合实验区（平潭县）财政决算收支情况/page.txt | done |
-| 2015年度财政收支决算表公开及区对下转移支付执行情况说明 |  |  | queued |
+| 2015年度财政收支决算表公开及区对下转移支付执行情况说明 |  | zwgk/zdlyxxgk/czzj/zfyjsgk/zfjsgk/201610/5719_2015年度财政收支决算表公开及区对下转移支付执行情况说明/page.txt | done |
