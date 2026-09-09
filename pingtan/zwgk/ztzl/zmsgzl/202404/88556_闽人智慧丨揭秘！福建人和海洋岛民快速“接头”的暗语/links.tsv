@@ -1,0 +1,121 @@
+type	href	text	kind	samehost	inscope
+a	https://www.pingtan.gov.cn/		link	yes	no
+a	https://www.gov.cn/	国务院	link	no	no
+a	https://www.fujian.gov.cn/	省政府	link	no	no
+a	https://www.fjrd.gov.cn/	省人大	link	no	no
+a	http://www.fjzx.gov.cn/	省政协	link	no	no
+a	https://www.pingtan.gov.cn/uc/indexs/index	你好，	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/ztzl/zmsgzl/202404/logoutUrl	注销	link	yes	yes
+a	https://www.pingtan.gov.cn/	首页	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/	政务公开	link	yes	yes
+a	https://www.pingtan.gov.cn/jdhy/	解读回应	link	yes	no
+a	https://www.pingtan.gov.cn/bsfw/	办事服务	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/	互动交流	link	yes	no
+a	https://www.pingtan.gov.cn/zjpt/	走进平潭	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/zfxxgk/	政府信息公开	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ldzc/	领导之窗	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zzjg/	政府机构	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/yw/	要闻	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zfhy/	政府会议	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zxwj/	最新文件	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zcwjk/	政策文件库	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/zfgzbg/	政府工作报告	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/gsgg/	公示公告	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ghxx/	规划信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/rsxx/	人事信息	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/tjxx/	统计信息	link	yes	yes
+a	https://data.fujian.gov.cn/#/oportal/index	数据开放	link	no	no
+a	https://www.pingtan.gov.cn/zwgk/zdlyxxgk/	重点领域信息公开	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ztzl/	专题专栏	link	yes	yes
+a	https://www.pingtan.gov.cn/jdhy/zcjd/	平潭政策解读	link	yes	no
+a	https://www.pingtan.gov.cn/jdhy/xwfbh/	新闻发布会	link	yes	no
+a	https://www.pingtan.gov.cn/jdhy/hygq/	回应关切	link	yes	no
+a	https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105	福建网上办事大厅	link	no	no
+a	https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false	平潭行政服务中心	link	yes	no
+a	https://www.fujian.gov.cn/bsfw/mztapp/	闽政通APP	link	no	no
+a	https://www.pingtan.gov.cn/zjpt/cypt/	畅游平潭	link	yes	no
+a	https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/	政务地图	link	yes	no
+a	https://12345.pingtan.gov.cn/	12345便民惠企服务平台	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/zxft/	在线访谈	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/wsdc/	网上调查	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/myzj/	民意征集	link	yes	no
+a	https://www.pingtan.gov.cn/hdjl/hdjlzsk/	互动交流知识库	link	yes	no
+a	https://www.pingtan.gov.cn/zwgk/ztzl/zmsgzl/	自贸深改专栏	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ztzl/zmsgzl/202404/share.sina	微博	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ztzl/zmsgzl/202404/share.qzone	QQ空间	link	yes	yes
+a	https://www.pingtan.gov.cn/zwgk/ztzl/zmsgzl/202404/el.url		link	yes	yes
+a	http://www.fj.gov.cn/	福建省人民政府	link	no	no
+a	https://www.fuzhou.gov.cn/	福州市政府网站	link	no	no
+a	http://www.xm.gov.cn/	厦门市政府网站	link	no	no
+a	http://www.quanzhou.gov.cn/	泉州市政府网站	link	no	no
+a	http://www.zhangzhou.gov.cn/	漳州市政府网站	link	no	no
+a	https://www.putian.gov.cn/	莆田市政府网站	link	no	no
+a	https://www.sm.gov.cn/	三明市政府网站	link	no	no
+a	https://www.np.gov.cn/	南平市政府网站	link	no	no
+a	http://www.longyan.gov.cn/	龙岩市政府网站	link	no	no
+a	http://www.ningde.gov.cn/	宁德市政府网站	link	no	no
+a	http://www.people.com.cn/	人民网	link	no	no
+a	http://www.xinhuanet.com/	新华网	link	no	no
+a	https://www.chinanews.com.cn/	中国新闻网	link	no	no
+a	https://www.cctv.com/	央视国际	link	no	no
+a	https://www.ptnet.cn/	平潭网	link	no	no
+a	http://fjptq.wenming.cn/	平潭文明网	link	no	no
+a	http://www.acas.org.cnx7a72967c43868.ipv6best.cn/	海峡两岸仲裁中心	link	no	no
+a	http://fujian.chinatax.gov.cn/pingtanswj/	国家税务总局平潭综合实验区税务局	link	no	no
+a	http://pt.fjbz.org.cnx1e49967c43868.ipv6best.cn:8060/	福建省标准信息服务平台	link	no	no
+a	http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm	人民日报	link	no	no
+a	https://fjrb-fjdaily-comx2d93967c43868xx.ipv6best.cn/pc/col/202311/02/node_01.html	福建日报	link	no	no
+a	http://www.zznews.cn/	闽南日报	link	no	no
+a	https://mbrb.greatwuyi.com/202311/02/node_1.html	闽北日报	link	no	no
+a	http://www.mxrb.cn/	闽西日报	link	no	no
+a	http://www.ndwww.cn/	闽东日报	link	no	no
+a	https://www.qzwb.com/	泉州晚报	link	no	no
+a	http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html	三明日报	link	no	no
+a	http://www.taihainet.com/	海峡导报	link	no	no
+a	http://fj.sina.com.cn/	新浪福建	link	no	no
+a	https://www.163.com/	网易	link	no	no
+a	https://www.sohu.com/	搜狐	link	no	no
+a	https://www.creditchina.gov.cn/	信用中国	link	no	no
+a	https://xy.fujian.gov.cn/#/home	信用福建	link	no	no
+a	https://27-151-80-61xe076967c43868xx.ipv6best.cn:91/#/double-publicity-info	信用平潭	link	no	no
+a	https://credit-xm-gov-cnxd4a4967c43868xx.ipv6best.cn/	信用厦门	link	no	no
+a	http://www.szzg.gov.cn/	数字中国建设峰会	link	no	no
+a	http://www.hxrc.com/	中国海峡人才市场	link	no	no
+a	https://www.pingtan.gov.cn/zwzdb/sybz/	使用帮助	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/lxwm/	联系我们	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/ysbh/	隐私保护	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/xmtjz/	新媒体矩阵	link	yes	no
+a	https://www.pingtan.gov.cn/zwzdb/gywm/	关于我们	link	yes	no
+a	https://www-beian-gov-cnx45c8967c43868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002	公安备案号：35012899001-19002	link	no	no
+a	https://beian.miit.gov.cn/	闽ICP备09032658号	link	no	no
+a	https://bszs-conac-cnxe103967c43868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D		link	no	no
+img	https://www.pingtan.gov.cn/images/gh_logo.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/site_logo.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/20xmszf_mzt_ewm.png		image	yes	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_aaa03b9d-69ef-41c7-bc44-4769b6c2b2d9.png	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_a0c239ea-2f05-4ebe-9dcc-254e920c07ae.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_b134a1b7-df83-400b-89d2-da6a7a783178.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_7bf4b260-9a01-4e15-8f5f-a2b68f85015c.png	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_3da1af04-4f34-4b80-8b4a-c25414f078ad.jpg		image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_c84dc81d-1751-464b-a4bf-65b02242251f.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_5e7ec2ed-1aa8-4eda-9c92-36c525b0c935.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_4756f0d8-ae71-4f78-ad4c-3ba8bc9afca5.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_0d2b1c35-634a-4597-b70f-f011a8032107.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_c8f54b88-7884-4d31-891c-778c2a9e8934.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_c317bd9f-1a36-4165-b461-f215553cc0f9.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_7a9ce3e1-fb01-4d90-b3a0-b5d02f1bca6e.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_fef5731c-c2f0-4259-accc-acae70be008b.gif	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_c37456a0-3681-467c-9f46-9f9feac77c47.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_0300864f-6f93-4733-b6cf-8ad49cea190b.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_e03212bc-f955-49ff-9b78-dcda7169ab66.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_78b4e8a9-1a36-43af-85cf-9a8d40a12b1b.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_c44b4b16-2789-4ce5-a2b0-882db2b90bf5.jpg	图片	image	no	no
+img	https://www.ptnet.cn/pic/2024-04/01/2073983_f50440d1-a67a-4913-a724-8f4140272a97.jpg	图片	image	no	no
+img	https://www.pingtan.gov.cn/images/babs.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/20231118ptfb.jpg	平潭发布	image	yes	no
+img	https://www.pingtan.gov.cn/images/20231118ptt.png	平潭通	image	yes	no
+img	https://www.pingtan.gov.cn/images/foot-icon4.png		image	yes	no
+img	https://www.pingtan.gov.cn/images/foot-icon4-a.png	平潭文旅	image	yes	no
+img	https://www.pingtan.gov.cn/images/20231119ptVly.jpg		image	yes	no
+img	https://www.pingtan.gov.cn/images/red.png	党政机关	image	yes	no
+img	https://www.pingtan.gov.cn/images/img11.png		image	yes	no
