@@ -1,4 +1,4 @@
-# zwgk/zdlyxxgk/ssjygk
+# 双随机、一公开
 
 栏目路径: zwgk/zdlyxxgk/ssjygk
 文档总数: 4 | 已完成: 4 | 失败: 0 | 排队: 0

@@ -1,4 +1,4 @@
-# zwgk/zfxxgk/gwhwj/tfggsjdyjy
+# 突发公共事件的应急预案、预警信息及应对情况
 
 栏目路径: zwgk/zfxxgk/gwhwj/tfggsjdyjy
 文档总数: 17 | 已完成: 17 | 失败: 0 | 排队: 0

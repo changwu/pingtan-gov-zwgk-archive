@@ -1,7 +1,7 @@
-# zwgk/ztzl/xjpxsdzgtsshzysxjddesdjsxxzl/xxzl
+# 学习专栏
 
 栏目路径: zwgk/ztzl/xjpxsdzgtsshzysxjddesdjsxxzl/xxzl
-文档总数: 424 | 已完成: 121 | 失败: 0 | 排队: 303
+文档总数: 424 | 已完成: 424 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|

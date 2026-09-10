@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<html ms-controller="windowRoot" ms-class="slb:isSlb">
+<head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="x-UA-Compatible" content="IE=Edge,Chrome=1" />
+	<meta name="SiteName" content="平潭综合实验区党工委管委会"/>
+<meta name="SiteDomain" content="www.pingtan.gov.cn">
+<meta name="SiteIDCode" content="3590000001"/>
+<meta name="ColumnName" content="综合信息"/>
+<meta name="ColumnDescription" content="综合信息"/>
+<meta name="ColumnKeywords" content="综合信息"/>
+<meta name="ColumnType" content="综合信息"/>
+<meta name="Keywords" content="平潭，中国平潭，福建平潭，平潭综合实验区党工委管委会"/>
+<meta name="Description" content="中国平潭，福建平潭，平潭综合实验区党工委管委会，平潭综合实验区党工委管委会门户网站是平潭综合实验区党工委管委会在国际互联网上发布政务信息、提供在线服务和公众参与的综合服务平台。"/>
+<meta name="ChnlId" content="618">
+<meta name="SiteId" content="4"/>
+	<title>
+		综合信息_平潭综合实验区党工委管委会
+	</title>
+	<link rel="stylesheet" type="text/css" href="/images/trt_iconfont_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_ui_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_component_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_media_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/230214_laydate.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_header.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_footer.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_style.css">
+<link rel="stylesheet" type="text/css" href="/images/23pingtan.css">
+
+</head>
+<body>
+	<div class="wrap">
+		<!--头部开始-->
+		<div class="header menu_hov">
+	<div class="row">
+		<div class="logo trt-col-9">
+			<img src="/images/gh_logo.png" />
+			<a href="/"><img src="/images/site_logo.png" /></a>
+		</div>
+		<div class="header_line clearflx" role="serve" des="头部信息">
+			<div class="header_link_01">
+				<a href="https://www.gov.cn/" Target="_blank" title="国务院" class="btn_base btn_outline btn_outline_primary btn_small">国务院</a>
+				<a href="https://www.fujian.gov.cn/" Target="_blank" title="省政府" class="btn_base btn_outline btn_outline_primary btn_small">省政府</a>
+				<a href="https://www.fjrd.gov.cn/" Target="_blank" title="省人大" class="btn_base btn_outline btn_outline_primary btn_small">省人大</a>
+				<a href="http://www.fjzx.gov.cn/" Target="_blank" title="省政协" class="btn_base btn_outline btn_outline_primary btn_small">省政协</a>
+			</div>
+			<div class="header_link_02">
+				<!-- <a href="#">繁体版</a> -->
+				<script src="/images/pt-langBig5.js" type="text/javascript"></script>
+				<a href="javascript:;" class="none_sm">移动版</a>
+				<div class="mzt_ewm">
+					<div><img src="/images/20xmszf_mzt_ewm.png" /></div>
+					<p>闽政通APP</p>
+				</div>
+			</div>
+			<div class="header_link_02 none_sm">				
+				<em ms-visible="!isLogin">
+					<a id="logined" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$login" target="_blank" >登录</a>
+					<a id="logined" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()">登录</a>
+					<a id="registered" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$register" >注册</a>
+					<a id="registered" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()" >注册</a>
+				</em>
+				<em ms-visible="isLogin" style="display:none;">
+					<a href="/uc/indexs/index" ms-attr-title='loginInfo.showname'>你好，<font ms-text="loginInfo.showname | truncate(12)"></font></a>
+					<a ms-attr-href="logoutUrl">注销</a>
+				</em>
+			</div>
+			<span>网站支持IPV6</span>
+		</div>
+		<div class="menu_base menu_right menu_hd">
+			<ul class="clearflx" role="navigation" des="站点主目录">
+				<!--有下拉菜单的li加上parentNode-->
+				<li ms-class="on:RootPath==''"><a href="/">首页</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='zwgk' || paths[4]=='zfxxgk'"><a href="https://www.pingtan.gov.cn/zwgk/">政务公开</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='jdhy'"><a href="https://www.pingtan.gov.cn/jdhy/">解读回应</a></li>
+				<li class="parentNode"  ms-class="on:paths[3]=='bsfw'"><a href="https://www.pingtan.gov.cn/bsfw/">办事服务</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='hdjl'"><a href="https://www.pingtan.gov.cn/hdjl/">互动交流</a></li>
+				<li ms-class="on:paths[3]=='zjpt'"><a href="https://www.pingtan.gov.cn/zjpt/">走进平潭</a></li>
+			</ul>
+		</div>
+		<div class="search_fixed">
+			<form method="get" action="/ssp/main/index.html" target="_blank">
+				<input type="hidden" name="siteId" value="402804278b376967018b3771d3370002" />
+				<input type="text" placeholder="请输入搜索内容" name="key" required="required" class="form-control" />
+				<button class="btn_base"><i class="trt-iconfont trt-icon-sousuo"></i></button>
+			</form>
+		</div>
+	</div>
+	<div class="submenu menu_bd">
+		<div class="row">
+			<div></div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfxxgk/" target="_blank" title="政府信息公开">政府信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ldzc/" target="_blank" title="领导之窗">领导之窗</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zzjg/" target="_blank" title="政府机构">政府机构</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/yw/" target="_blank" title="要闻">要闻</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfhy/" target="_blank" title="政府会议">政府会议</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zxwj/" target="_blank" title="最新文件">最新文件</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zcwjk/" target="_blank" title="政策文件库">政策文件库</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfgzbg/" target="_blank" title="政府工作报告">政府工作报告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/gsgg/" target="_blank" title="公示公告">公示公告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ghxx/" target="_blank" title="规划信息">规划信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/rsxx/" target="_blank" title="人事信息">人事信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/tjxx/" target="_blank" title="统计信息">统计信息</a>
+                 
+                    <a href="https://data.fujian.gov.cn/#/oportal/index" target="_blank" title="数据开放">数据开放</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zdlyxxgk/" target="_blank" title="重点领域信息公开">重点领域信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ztzl/" target="_blank" title="专题专栏">专题专栏</a>
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/jdhy/zcjd/" target="_blank" title="平潭政策解读">平潭政策解读</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/xwfbh/" target="_blank" title="新闻发布会">新闻发布会</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/hygq/" target="_blank" title="回应关切">回应关切</a>  
+                
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105" target="_blank" title="福建网上办事大厅">福建网上办事大厅</a>  
+                 
+                    <a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>  
+                 
+                    <a href="https://www.fujian.gov.cn/bsfw/mztapp/" target="_blank" title="闽政通APP">闽政通APP</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/zjpt/cypt/" target="_blank" title="畅游平潭">畅游平潭</a>  
+                
+				<a href="https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/" target="_blank" title="政务地图">政务地图</a>  
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://12345.pingtan.gov.cn/" target="_blank" title="12345便民惠企服务平台">12345便民惠企服务平台</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/zxft/" target="_blank" title="在线访谈">在线访谈</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/wsdc/" target="_blank" title="网上调查">网上调查</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/myzj/" target="_blank" title="民意征集">民意征集</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/hdjlzsk/" target="_blank" title="互动交流知识库">互动交流知识库</a>  
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div></div>
+		</div>
+	</div>
+</div>
+<div class="banner_header">
+	<div class="row">
+		<div class="trt-row">
+			<div class="trt-col-7 trt-col-sm-0">
+				<div class="area_weather">
+					<p><font ms-text="now|date('yyyy年MM月dd日 EEEE')"></font></p>
+					<p font ms-text="weather+''+temp"></p>
+					<p id="weather-box"><iframe id="tianqi" class='tianqi-box' width="260" height="26"  scrolling="no"  frameborder="0" allowtransparency="true" src="https://i-tianqi-comx3211968723868xx.ipv6best.cn?c=code&id=26&color=%23FFFFFF&icon=1&py=pingtan&site=16"></iframe></p>
+				</div>
+			</div>
+			<div class="trt-col-10 trt-col-sm-18" role="interaction" des="搜索">
+				<div class="search_area" id="header">
+					<form ms-attr-action="searchAction" ms-blur="$togLinkkey" target="_blank" ms-submit="$setHistoryList()" ms-if="!avalon.vmodels.windowRoot.isStatic" > 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>
+					<form onkeydown="avalon.vmodels.windowRoot.staticDialog()" ms-if="avalon.vmodels.windowRoot.isStatic" style="display: none" ms-visible="avalon.vmodels.windowRoot.isStatic"> 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>					
+					<div class="search_content shadow_base" Id="searchTag" ms-if="!avalon.vmodels.windowRoot.isStatic" >
+						<div class="search_history" ms-visible="searchTips.historyKeys.length > 0" style="display: none">
+							<span>历史搜索：</span>
+							<a ms-if-loop="$index<4" ms-repeat="searchTips.historyKeys" href="javascript:;" ms-text="el" ms-click="$setPost(el)"> <i class="trt-iconfont trt-icon-dacha"></i></a>
+						</div>
+						<div class="search_top">
+							<span>热门搜索：</span>
+							<a ms-repeat="hotWords" href="javascript:;" ms-text="el.title" ms-click="$setPost(el.title)"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="trt-col-7 trt-col-sm-6 slb-trt-col-sm-24 text_align_right">
+				<div class="aged_link">
+                    <a href="javascript:void(0);" class="aged_link_01" ms-click="$inSlb()" ms-visible="!isSlb">长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_01 none" ms-click="$outSlb()" ms-visible="isSlb">退出长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_02" Id="barrierFreeBtn"><font id="WzaStatus">无障碍浏览</font></a>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+		<!--头部结束-->
+		<div class="main">
+			<div class="content mar_t_large mar_t_base_sm">
+				<div class="row content_bg_02 pad_large pad_base_sm shadow_base border_radius_large">
+					<!--模板从这边开始拷贝-->
+					<div class="breadcrumb" role='navigation' des="当前位置">
+						<span><i class="trt-iconfont trt-icon-weizhi"></i>当前位置：</span>
+						<ul>
+							<li><a href="../../../../" title="首页" class="active">首页</a></li><li><a href="../../../" title="政务公开" class="active">政务公开</a></li><li><a href="../../" title="重点领域信息公开" class="active">重点领域信息公开</a></li><li><a href="../" title="重点项目建设" class="active">重点项目建设</a></li><li><a href="./" title="综合信息" class="active">综合信息</a></li>
+						</ul>
+					</div>
+					<div class="pad_l_base pad_r_base pad_l_base0_sm pad_r_base0_sm pingtgl">
+						<div class="title_extend clearflx mar_t_small mar_t_base0_sm">
+							<div class="title_extend_left">
+								<div class="title_base current_title clearflx">
+									<div class="title_name">综合信息</div>
+								</div>
+							</div>
+							<div class="title_extend_right">
+								<div class="title_more">
+									<button type="button" class="btn_base btn_outline btn_outline_info dropdown_toggle"><i class="trt-iconfont trt-icon-caidan caret"></i><span>更多栏目</span></button>
+									<ul class="dropdown_menu dropdown_menu-right">
+										
+											
+											
+												<li>
+													<a href="../xmmd/" title="项目名单">项目名单</a>
+												</li>
+											
+										
+											
+												<li class="on">
+													<a href="./" title="综合信息">综合信息</a>
+												</li>
+											
+											
+										
+											
+											
+												<li>
+													<a href="../pzjgxx/" title="批准结果信息">批准结果信息</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../zbtbxx/" title="招标投标信息">招标投标信息</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../zstdxx/" title="征收土地信息">征收土地信息</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../zdsjbgxx/" title="重大设计变更信息">重大设计变更信息</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../sgygxx/" title="施工有关信息">施工有关信息</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../zlaqjdxx/" title="质量安全监督信息">质量安全监督信息</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../jgygxx/" title="竣工有关信息">竣工有关信息</a>
+												</li>
+											
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+						<div class="filter_area content_bg_01 mar_t_small mar_t_xs_sm pad_t_small pad_b_small pad_l_large pad_r_large pad_t_xs_sm pad_small_sm" ms-controller="list" role="interaction" des="搜索">
+							<div class="tag_group">
+								<label>发布时间:</label>
+								<div class="tag_base">
+									<span class="on" ms-repeat="helps.publishyearItems" ms-class="on:el.value==searchForm.publishyear">
+										<a ms-click="$setVal('publishyear',el.value,$event)" href="javascript:void(0);">
+										  <font ms-text="el.name"></font>
+										  <em ms-visible="el.count" ms-text="'('+el.count + ')'"></em>
+										</a>
+									</span>
+								</div>
+							</div>
+							<div class="border_b_solid_01 mar_t_xs mar_b_small mar_t_small_sm"></div>
+							<div class="trt-row tag_group">
+								<div class="none_sm"><label>关键字:</label></div>
+								<div class="input_group trt-col-14 trt-col-sm-24 slb-trt-col-20 slb-trt-col-sm-24">
+									<input type="text" class="form_control" placeholder="请输入关键字搜索" ms-duplex="searchForm.key" />
+									<div class="input_group_btn">
+                      <button type="button" class="btn_base btn_primary" ms-click="$search" alt="搜索">搜索</button>
+										<!-- <button type="button" class="btn_base btn_primary" ms-visible="!avalon.vmodels.list.searchFlag" ms-click="$search" alt="搜索">搜索</button> -->
+										<button type="button" class="btn_base btn_warning" ms-visible="searchFlag"  ms-click="$cancalSearch" alt="取消搜索">取消搜索</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!--有文件类型的概览-->
+						<div class="list_base list_base_date_01 list_base_file_type mar_t_base mar_t_small_sm" ms-controller="list" role="viewlist" des='综合信息'>
+							<div ms-visible="showStatic">
+								
+									<div ms-visible="$showStatic(1)">
+									  <ul>
+										
+										  <li>
+											<a href="./202607/t20260703_107702.htm" target="_blank" title="2026年平潭为民办实事项目建设“进度条”过半">2026年平潭为民办实事项目建设“进度条”过半</a>
+											<em id="rel_107702"></em>
+											<span class="bf-pass">2026-06-29</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107697.htm" target="_blank" title="壳丘头考古遗址公园文化广场及配套工程预计下月完工">壳丘头考古遗址公园文化广场及配套工程预计下月完工</a>
+											<em id="rel_107697"></em>
+											<span class="bf-pass">2026-06-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107696.htm" target="_blank" title="平潭金井新城绿道一期贯通工程通过竣工验收">平潭金井新城绿道一期贯通工程通过竣工验收</a>
+											<em id="rel_107696"></em>
+											<span class="bf-pass">2026-06-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107695.htm" target="_blank" title="多点开花提质效 平潭一批民生项目 提速落地">多点开花提质效 平潭一批民生项目 提速落地</a>
+											<em id="rel_107695"></em>
+											<span class="bf-pass">2026-05-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107694.htm" target="_blank" title="平潭龙王头水上运动及海上救援中心项目进入收尾阶段">平潭龙王头水上运动及海上救援中心项目进入收尾阶段</a>
+											<em id="rel_107694"></em>
+											<span class="bf-pass">2026-05-18</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(6)">
+									  <ul>
+										
+										  <li>
+											<a href="./202607/t20260703_107693.htm" target="_blank" title="月底完工！白玉蜗牛要“住”上新家啦~">月底完工！白玉蜗牛要“住”上新家啦~</a>
+											<em id="rel_107693"></em>
+											<span class="bf-pass">2026-05-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107690.htm" target="_blank" title="月底完工！白玉蜗牛要“住”上新家啦~">月底完工！白玉蜗牛要“住”上新家啦~</a>
+											<em id="rel_107690"></em>
+											<span class="bf-pass">2026-04-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107689.htm" target="_blank" title="平潭浪涌丨项目齐推进，产业升级与民生提质双提速">平潭浪涌丨项目齐推进，产业升级与民生提质双提速</a>
+											<em id="rel_107689"></em>
+											<span class="bf-pass">2026-04-20</span>
+										  </li>
+										
+										  <li>
+											<a href="./202607/t20260703_107687.htm" target="_blank" title="平潭浪涌丨竹屿湾游艇码头建设迎来关键节点">平潭浪涌丨竹屿湾游艇码头建设迎来关键节点</a>
+											<em id="rel_107687"></em>
+											<span class="bf-pass">2026-04-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260403_106014.htm" target="_blank" title="打卡好去处！平潭瑜伽疗愈村项目一期建成投用！">打卡好去处！平潭瑜伽疗愈村项目一期建成投用！</a>
+											<em id="rel_106014"></em>
+											<span class="bf-pass">2026-03-30</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(11)">
+									  <ul>
+										
+										  <li>
+											<a href="./202604/t20260403_106013.htm" target="_blank" title="进度超70%！平潭壳丘头文化广场将于今年7月验收！">进度超70%！平潭壳丘头文化广场将于今年7月验收！</a>
+											<em id="rel_106013"></em>
+											<span class="bf-pass">2026-03-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260403_106012.htm" target="_blank" title="平潭浪涌丨两岸融合渔业设施工程提升项目竣工">平潭浪涌丨两岸融合渔业设施工程提升项目竣工</a>
+											<em id="rel_106012"></em>
+											<span class="bf-pass">2026-03-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260403_106011.htm" target="_blank" title="春节不停工！平潭重点项目建设火热推进中">春节不停工！平潭重点项目建设火热推进中</a>
+											<em id="rel_106011"></em>
+											<span class="bf-pass">2026-02-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260403_106010.htm" target="_blank" title="平潭浪涌丨提前封顶+省级认证！平潭再传捷报">平潭浪涌丨提前封顶+省级认证！平潭再传捷报</a>
+											<em id="rel_106010"></em>
+											<span class="bf-pass">2026-02-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260403_106009.htm" target="_blank" title="2026年平潭为民办实事项目出炉">2026年平潭为民办实事项目出炉</a>
+											<em id="rel_106009"></em>
+											<span class="bf-pass">2026-01-29</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(16)">
+									  <ul>
+										
+										  <li>
+											<a href="./202604/t20260403_106008.htm" target="_blank" title="民生实事进度条拉满！ 2025年平潭13个项目全部完工">民生实事进度条拉满！ 2025年平潭13个项目全部完工</a>
+											<em id="rel_106008"></em>
+											<span class="bf-pass">2026-01-21</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260403_106007.htm" target="_blank" title="平潭浪涌丨一开工一冲刺！平潭两大产业项目齐提速">平潭浪涌丨一开工一冲刺！平潭两大产业项目齐提速</a>
+											<em id="rel_106007"></em>
+											<span class="bf-pass">2026-01-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202601/t20260116_104641.htm" target="_blank" title="平潭浪涌丨整体进度提前20天！ 平潭这个重点项目建设按下“快进键”">平潭浪涌丨整体进度提前20天！ 平潭这个重点项目建设按下“快进键”</a>
+											<em id="rel_104641"></em>
+											<span class="bf-pass">2025-12-29</span>
+										  </li>
+										
+										  <li>
+											<a href="./202601/t20260116_104640.htm" target="_blank" title="商贸物流丨两岸物流枢纽+立体创新设计！平潭金井国际智慧物流园火热招商中">商贸物流丨两岸物流枢纽+立体创新设计！平潭金井国际智慧物流园火热招商中</a>
+											<em id="rel_104640"></em>
+											<span class="bf-pass">2025-12-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202601/t20260116_104638.htm" target="_blank" title="平潭浪涌丨8项关键领域协议签署！ 低空经济，平潭独特优势在">平潭浪涌丨8项关键领域协议签署！ 低空经济，平潭独特优势在</a>
+											<em id="rel_104638"></em>
+											<span class="bf-pass">2025-12-08</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(21)">
+									  <ul>
+										
+										  <li>
+											<a href="./202511/t20251128_103652.htm" target="_blank" title="平潭新增一处瞭望塔旅游打卡点 预计12月对外开放">平潭新增一处瞭望塔旅游打卡点 预计12月对外开放</a>
+											<em id="rel_103652"></em>
+											<span class="bf-pass">2025-11-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103651.htm" target="_blank" title="乡村有颜又有料！平潭两个民生项目落地">乡村有颜又有料！平潭两个民生项目落地</a>
+											<em id="rel_103651"></em>
+											<span class="bf-pass">2025-11-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103650.htm" target="_blank" title="平潭浪涌 火力全开！平潭两个文旅项目全力冲刺">平潭浪涌 火力全开！平潭两个文旅项目全力冲刺</a>
+											<em id="rel_103650"></em>
+											<span class="bf-pass">2025-11-07</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103648.htm" target="_blank" title="平潭项目建设火力全开，发展活力澎湃">平潭项目建设火力全开，发展活力澎湃</a>
+											<em id="rel_103648"></em>
+											<span class="bf-pass">2025-10-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103647.htm" target="_blank" title="平潭肉联加工厂项目（二期）预计10月底完工">平潭肉联加工厂项目（二期）预计10月底完工</a>
+											<em id="rel_103647"></em>
+											<span class="bf-pass">2025-10-20</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(26)">
+									  <ul>
+										
+										  <li>
+											<a href="./202511/t20251128_103646.htm" target="_blank" title="假期不停工 平潭重点项目建设忙">假期不停工 平潭重点项目建设忙</a>
+											<em id="rel_103646"></em>
+											<span class="bf-pass">2025-10-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103641.htm" target="_blank" title="冲刺年底完工！平潭一智慧物流园A区2026年将投用">冲刺年底完工！平潭一智慧物流园A区2026年将投用</a>
+											<em id="rel_103641"></em>
+											<span class="bf-pass">2025-09-29</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103640.htm" target="_blank" title="平潭浪涌丨封关运作进行时：核心硬件配套设施提升改造加速推进中">平潭浪涌丨封关运作进行时：核心硬件配套设施提升改造加速推进中</a>
+											<em id="rel_103640"></em>
+											<span class="bf-pass">2025-09-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103639.htm" target="_blank" title="平潭浪涌丨智算、物流、赛车！平潭三大项目齐头并进">平潭浪涌丨智算、物流、赛车！平潭三大项目齐头并进</a>
+											<em id="rel_103639"></em>
+											<span class="bf-pass">2025-09-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251128_103638.htm" target="_blank" title="实验区领导调研为民办实事项目">实验区领导调研为民办实事项目</a>
+											<em id="rel_103638"></em>
+											<span class="bf-pass">2025-08-28</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(31)">
+									  <ul>
+										
+										  <li>
+											<a href="./202510/t20251013_101994.htm" target="_blank" title="封关运作进行时｜平潭新一轮封关运作的重点展示窗口——分线管理展示中心 基本完成建设">封关运作进行时｜平潭新一轮封关运作的重点展示窗口——分线管理展示中心 基本完成建设</a>
+											<em id="rel_101994"></em>
+											<span class="bf-pass">2025-08-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202510/t20251013_101993.htm" target="_blank" title="平潭浪涌丨总投资8776万元，平潭旅游再添硬核配套！">平潭浪涌丨总投资8776万元，平潭旅游再添硬核配套！</a>
+											<em id="rel_101993"></em>
+											<span class="bf-pass">2025-08-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202510/t20251013_101991.htm" target="_blank" title="路畅校新民心暖，平潭为民办实事 项目按下加速键">路畅校新民心暖，平潭为民办实事 项目按下加速键</a>
+											<em id="rel_101991"></em>
+											<span class="bf-pass">2025-07-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202510/t20251013_101990.htm" target="_blank" title="预计年底投用！周裕藩纪念馆项目一期完工">预计年底投用！周裕藩纪念馆项目一期完工</a>
+											<em id="rel_101990"></em>
+											<span class="bf-pass">2025-07-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202510/t20251013_101989.htm" target="_blank" title="平潭西楼村海滩道路修复项目开工">平潭西楼村海滩道路修复项目开工</a>
+											<em id="rel_101989"></em>
+											<span class="bf-pass">2025-07-08</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(36)">
+									  <ul>
+										
+										  <li>
+											<a href="./202507/t20250704_100078.htm" target="_blank" title="坐拥无敌海景！大练岛月亮湾度假村一期7月试运营">坐拥无敌海景！大练岛月亮湾度假村一期7月试运营</a>
+											<em id="rel_100078"></em>
+											<span class="bf-pass">2025-06-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250704_100075.htm" target="_blank" title="金井国际邮轮中心负压隔离室正在建设中">金井国际邮轮中心负压隔离室正在建设中</a>
+											<em id="rel_100075"></em>
+											<span class="bf-pass">2025-06-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250704_100074.htm" target="_blank" title="火力全开！平潭这个项目7月底 将迎关键节点！">火力全开！平潭这个项目7月底 将迎关键节点！</a>
+											<em id="rel_100074"></em>
+											<span class="bf-pass">2025-05-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250704_100070.htm" target="_blank" title="火力全开！平潭两大项目迎新进展！">火力全开！平潭两大项目迎新进展！</a>
+											<em id="rel_100070"></em>
+											<span class="bf-pass">2025-05-19</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250704_100067.htm" target="_blank" title="变废为宝！平潭这个项目建设，淤泥派上大用场！">变废为宝！平潭这个项目建设，淤泥派上大用场！</a>
+											<em id="rel_100067"></em>
+											<span class="bf-pass">2025-05-08</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(41)">
+									  <ul>
+										
+										  <li>
+											<a href="./202507/t20250704_100064.htm" target="_blank" title="城市大脑+档案管理！这个省重点项目最新进展来了……">城市大脑+档案管理！这个省重点项目最新进展来了……</a>
+											<em id="rel_100064"></em>
+											<span class="bf-pass">2025-04-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250704_100062.htm" target="_blank" title="通过预验收！逾2万平方米智算中心厂房将投用！">通过预验收！逾2万平方米智算中心厂房将投用！</a>
+											<em id="rel_100062"></em>
+											<span class="bf-pass">2025-04-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98326.htm" target="_blank" title="平潭浪涌丨2025年实验区为民办实事项目公布">平潭浪涌丨2025年实验区为民办实事项目公布</a>
+											<em id="rel_98326"></em>
+											<span class="bf-pass">2025-04-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98325.htm" target="_blank" title="开足马力“赶春光” 平潭多个项目建设新进展">开足马力“赶春光” 平潭多个项目建设新进展</a>
+											<em id="rel_98325"></em>
+											<span class="bf-pass">2025-03-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98324.htm" target="_blank" title="平潭浪涌丨创3A 壳丘头考古遗址公园打造平潭文化新IP">平潭浪涌丨创3A 壳丘头考古遗址公园打造平潭文化新IP</a>
+											<em id="rel_98324"></em>
+											<span class="bf-pass">2025-03-18</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(46)">
+									  <ul>
+										
+										  <li>
+											<a href="./202504/t20250408_98323.htm" target="_blank" title="平潭浪涌丨总投资超百亿元的项目进入建设快车道">平潭浪涌丨总投资超百亿元的项目进入建设快车道</a>
+											<em id="rel_98323"></em>
+											<span class="bf-pass">2025-03-07</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98322.htm" target="_blank" title="平潭再添一商场！泰元中心广场预计5月对外开放">平潭再添一商场！泰元中心广场预计5月对外开放</a>
+											<em id="rel_98322"></em>
+											<span class="bf-pass">2025-02-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98320.htm" target="_blank" title="节后干劲足，平潭“项”前冲！">节后干劲足，平潭“项”前冲！</a>
+											<em id="rel_98320"></em>
+											<span class="bf-pass">2025-02-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98319.htm" target="_blank" title="坚守岗位“不打烊” 平潭多个项目建设“加速跑”">坚守岗位“不打烊” 平潭多个项目建设“加速跑”</a>
+											<em id="rel_98319"></em>
+											<span class="bf-pass">2025-02-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250408_98317.htm" target="_blank" title="平潭浪涌丨金井作业区泊位岸电设施实现全覆盖">平潭浪涌丨金井作业区泊位岸电设施实现全覆盖</a>
+											<em id="rel_98317"></em>
+											<span class="bf-pass">2025-01-17</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(51)">
+									  <ul>
+										
+										  <li>
+											<a href="./202501/t20250110_96624.htm" target="_blank" title="平潭北港村景观游步道美丽升级">平潭北港村景观游步道美丽升级</a>
+											<em id="rel_96624"></em>
+											<span class="bf-pass">2025-01-10</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241225_96268.htm" target="_blank" title="全面开工！平潭这栋旧建筑翻新中">全面开工！平潭这栋旧建筑翻新中</a>
+											<em id="rel_96268"></em>
+											<span class="bf-pass">2024-12-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241212_95935.htm" target="_blank" title="向“绿”而行，向“新”发力！ 平潭这样“玩”风！">向“绿”而行，向“新”发力！ 平潭这样“玩”风！</a>
+											<em id="rel_95935"></em>
+											<span class="bf-pass">2024-12-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241212_95934.htm" target="_blank" title="提升排洪排涝能力！平潭这项工程进度过半！">提升排洪排涝能力！平潭这项工程进度过半！</a>
+											<em id="rel_95934"></em>
+											<span class="bf-pass">2024-11-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241212_95933.htm" target="_blank" title="2024年实验区为民办实事项目，进度条即将拉满">2024年实验区为民办实事项目，进度条即将拉满</a>
+											<em id="rel_95933"></em>
+											<span class="bf-pass">2024-11-18</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(56)">
+									  <ul>
+										
+										  <li>
+											<a href="./202411/t20241114_95051.htm" target="_blank" title="平潭浪涌丨风中掘“金”！22亿千瓦时发电量＝85.76万吨碳排放">平潭浪涌丨风中掘“金”！22亿千瓦时发电量＝85.76万吨碳排放</a>
+											<em id="rel_95051"></em>
+											<span class="bf-pass">2024-11-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202410/t20241017_94362.htm" target="_blank" title="平潭旧城区背街小巷提升改造项目进度过半">平潭旧城区背街小巷提升改造项目进度过半</a>
+											<em id="rel_94362"></em>
+											<span class="bf-pass">2024-10-17</span>
+										  </li>
+										
+										  <li>
+											<a href="./202410/t20241017_94360.htm" target="_blank" title="平潭浪涌丨重点项目“加速跑”！">平潭浪涌丨重点项目“加速跑”！</a>
+											<em id="rel_94360"></em>
+											<span class="bf-pass">2024-08-08</span>
+										  </li>
+										
+										  <li>
+											<a href="./202410/t20241012_94264.htm" target="_blank" title="平潭浪涌丨壳丘头遗址博物馆揭开神秘面纱，预计12月中旬开馆！">平潭浪涌丨壳丘头遗址博物馆揭开神秘面纱，预计12月中旬开馆！</a>
+											<em id="rel_94264"></em>
+											<span class="bf-pass">2024-10-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202410/t20241012_94263.htm" target="_blank" title="再刷新↻！平潭多个项目迎来新进展→">再刷新↻！平潭多个项目迎来新进展→</a>
+											<em id="rel_94263"></em>
+											<span class="bf-pass">2024-09-29</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(61)">
+									  <ul>
+										
+										  <li>
+											<a href="./202409/t20240918_93671.htm" target="_blank" title="平潭浪涌丨又一个文旅项目开工！平潭开辟离岛旅游新版图">平潭浪涌丨又一个文旅项目开工！平潭开辟离岛旅游新版图</a>
+											<em id="rel_93671"></em>
+											<span class="bf-pass">2024-09-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202409/t20240918_93670.htm" target="_blank" title="与智算中心有关！平潭这一项目预计10月交付！">与智算中心有关！平潭这一项目预计10月交付！</a>
+											<em id="rel_93670"></em>
+											<span class="bf-pass">2024-09-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202408/t20240828_93230.htm" target="_blank" title="完工验收！市民游玩又添新去处啦~">完工验收！市民游玩又添新去处啦~</a>
+											<em id="rel_93230"></em>
+											<span class="bf-pass">2024-08-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202408/t20240828_93229.htm" target="_blank" title="占地约55.1亩 | 平潭要建南部湾房车营地！">占地约55.1亩 | 平潭要建南部湾房车营地！</a>
+											<em id="rel_93229"></em>
+											<span class="bf-pass">2024-08-19</span>
+										  </li>
+										
+										  <li>
+											<a href="./202408/t20240805_92512.htm" target="_blank" title="平潭新建高标准农田10000亩正式开工！涉及30个行政村">平潭新建高标准农田10000亩正式开工！涉及30个行政村</a>
+											<em id="rel_92512"></em>
+											<span class="bf-pass">2024-07-28</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(66)">
+									  <ul>
+										
+										  <li>
+											<a href="./202407/t20240724_92155.htm" target="_blank" title="预计9月底完工！平潭这个项目施工进度过半！">预计9月底完工！平潭这个项目施工进度过半！</a>
+											<em id="rel_92155"></em>
+											<span class="bf-pass">2024-07-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202407/t20240711_91855.htm" target="_blank" title="更便利！平潭陆岛交通码头正在施工中……">更便利！平潭陆岛交通码头正在施工中……</a>
+											<em id="rel_91855"></em>
+											<span class="bf-pass">2024-07-11</span>
+										  </li>
+										
+										  <li>
+											<a href="./202406/t20240628_91449.htm" target="_blank" title="9月投用！平潭大卫幼儿园竣工验收">9月投用！平潭大卫幼儿园竣工验收</a>
+											<em id="rel_91449"></em>
+											<span class="bf-pass">2024-06-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202406/t20240621_91208.htm" target="_blank" title="预计8月底完工！平潭磹水村闲置石头厝即将华丽变身……">预计8月底完工！平潭磹水村闲置石头厝即将华丽变身……</a>
+											<em id="rel_91208"></em>
+											<span class="bf-pass">2024-06-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202406/t20240612_90894.htm" target="_blank" title="平潭一国际游艇码头正式开业，看看在哪里……">平潭一国际游艇码头正式开业，看看在哪里……</a>
+											<em id="rel_90894"></em>
+											<span class="bf-pass">2024-06-08</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(71)">
+									  <ul>
+										
+										  <li>
+											<a href="./202405/t20240510_89818.htm" target="_blank" title="“五一”假期施工忙，项目建设“不打烊”">“五一”假期施工忙，项目建设“不打烊”</a>
+											<em id="rel_89818"></em>
+											<span class="bf-pass">2024-05-10</span>
+										  </li>
+										
+										  <li>
+											<a href="./202404/t20240418_89170.htm" target="_blank" title="预计年底完工！平潭这个项目一期热火朝天施工中">预计年底完工！平潭这个项目一期热火朝天施工中</a>
+											<em id="rel_89170"></em>
+											<span class="bf-pass">2024-04-18</span>
+										  </li>
+										
+										  <li>
+											<a href="../../../zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqjjf/fdzdgknr/gzdt/202404/t20240409_88889.htm" target="_blank" title="已动工！平潭将再添一家中高端酒店">已动工！平潭将再添一家中高端酒店</a>
+											<em id="rel_88889"></em>
+											<span class="bf-pass">2024-04-08</span>
+										  </li>
+										
+										  <li>
+											<a href="../../../zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqjjf/fdzdgknr/gzdt/202402/t20240218_87232.htm" target="_blank" title="平潭浪涌｜平潭18个项目入选2024年度省重点项目！">平潭浪涌｜平潭18个项目入选2024年度省重点项目！</a>
+											<em id="rel_87232"></em>
+											<span class="bf-pass">2024-02-18</span>
+										  </li>
+										
+										  <li>
+											<a href="./202401/t20240129_86619.htm" target="_blank" title="平潭浪涌丨12900万元！2024年为民办实事项目出炉！">平潭浪涌丨12900万元！2024年为民办实事项目出炉！</a>
+											<em id="rel_86619"></em>
+											<span class="bf-pass">2024-01-29</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+							</div>
+							<div ms-visible="!showStatic">
+								<ul ms-if="list.length==0">
+								  <div ms-if="!error" style="text-align: center; padding: 30px">
+									<img src="/images/loading.gif" />
+								  </div>
+								  <div ms-if="error" style="text-align: center; padding: 30px">暂无数据</div>
+								</ul>
+								<ul ms-if="list.length>0">
+								  <li ms-repeat="list" ms-if-loop="$index<5">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+			  
+								<ul ms-if="list.length>5">
+								  <li ms-repeat="list" ms-if-loop="$index>4 && $index<10">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+			  
+								<ul ms-if="list.length>9">
+								  <li ms-repeat="list" ms-if-loop="$index>9 && $index<15">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+							  </div>
+						</div>
+						<div class="page_base mar_t_base" ms-controller="list_pagebar" ms-include-src="pgTemp" ></div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<!--底部开始-->
+	<div class="footer">
+	<div class="border_t_solid_01"></div>
+	<div class="row">
+		<div class="out_links" role="navigation" des="网站链接">
+			<ul class="trt-row" ms-controller="tabYqlj">
+				
+					<li class="trt-col-6" ms-click="$tog2(1)" ms-class="on:curr===1">
+						<p>省市政府网站</p>
+						<div class="shadow_base" Id="yqlj_1">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.fj.gov.cn/" target="_blank" title="福建省人民政府">福建省人民政府</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.fuzhou.gov.cn/" target="_blank" title="福州市政府网站">福州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xm.gov.cn/" target="_blank" title="厦门市政府网站">厦门市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.quanzhou.gov.cn/" target="_blank" title="泉州市政府网站">泉州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zhangzhou.gov.cn/" target="_blank" title="漳州市政府网站">漳州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.putian.gov.cn/" target="_blank" title="莆田市政府网站">莆田市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sm.gov.cn/" target="_blank" title="三明市政府网站">三明市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.np.gov.cn/" target="_blank" title="南平市政府网站">南平市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.longyan.gov.cn/" target="_blank" title="龙岩市政府网站">龙岩市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ningde.gov.cn/" target="_blank" title="宁德市政府网站">宁德市政府网站</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(2)" ms-class="on:curr===2">
+						<p>友情链接</p>
+						<div class="shadow_base" Id="yqlj_2">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.people.com.cn/" target="_blank" title="人民网">人民网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xinhuanet.com/" target="_blank" title="新华网">新华网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.chinanews.com.cn/" target="_blank" title="中国新闻网">中国新闻网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.cctv.com/" target="_blank" title="央视国际">央视国际</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.ptnet.cn/" target="_blank" title="平潭网">平潭网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fjptq.wenming.cn/" target="_blank" title="平潭文明网">平潭文明网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.acas.org.cnx7a72968723868.ipv6best.cn/" target="_blank" title="海峡两岸仲裁中心">海峡两岸仲裁中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fujian.chinatax.gov.cn/pingtanswj/" target="_blank" title="国家税务总局平潭综合实验区税务局">国家税务总局平潭综合实验区税务局</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://pt.fjbz.org.cnx1e49968723868.ipv6best.cn:8060/" target="_blank" title="福建省标准信息服务平台">福建省标准信息服务平台</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(3)" ms-class="on:curr===3">
+						<p>新闻媒体</p>
+						<div class="shadow_base" Id="yqlj_3">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm" target="_blank" title="人民日报">人民日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://fjrb-fjdaily-comx2d93968723868xx.ipv6best.cn/pc/col/202311/02/node_01.html" target="_blank" title="福建日报">福建日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zznews.cn/" target="_blank" title="闽南日报">闽南日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://mbrb.greatwuyi.com/202311/02/node_1.html" target="_blank" title="闽北日报">闽北日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.mxrb.cn/" target="_blank" title="闽西日报">闽西日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ndwww.cn/" target="_blank" title="闽东日报">闽东日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.qzwb.com/" target="_blank" title="泉州晚报">泉州晚报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html" target="_blank" title="三明日报">三明日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.taihainet.com/" target="_blank" title="海峡导报">海峡导报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fj.sina.com.cn/" target="_blank" title="新浪福建">新浪福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.163.com/" target="_blank" title="网易">网易</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sohu.com/" target="_blank" title="搜狐">搜狐</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(4)" ms-class="on:curr===4">
+						<p>其他</p>
+						<div class="shadow_base" Id="yqlj_4">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.creditchina.gov.cn/" target="_blank" title="信用中国">信用中国</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xy.fujian.gov.cn/#/home" target="_blank" title="信用福建">信用福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://27-151-80-61xe076968723868xx.ipv6best.cn:91/#/double-publicity-info" target="_blank" title="信用平潭">信用平潭</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://credit-xm-gov-cnxd4a4968723868xx.ipv6best.cn/" target="_blank" title="信用厦门">信用厦门</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.szzg.gov.cn/" target="_blank" title="数字中国建设峰会">数字中国建设峰会</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.hxrc.com/" target="_blank" title="中国海峡人才市场">中国海峡人才市场</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+			</ul>
+			<div class="out_links_close shadow_base"><i class="trt-iconfont trt-icon-dacha"></i></div>
+		</div>
+	</div>
+	<div class="border_b_solid_01"></div>
+	<div class="row mar_t_base mar_t_small_sm" role="serve" des="网站信息">
+		<div class="trt-row clearflx">
+			<div class="trt-col-11 trt-col-sm-24 website_info">
+				<p>
+					
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/sybz/" target="_blank" title="使用帮助">使用帮助</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/lxwm/" target="_blank" title="联系我们">联系我们</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/ysbh/" target="_blank" title="隐私保护">隐私保护</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/gywm/" target="_blank" title="关于我们">关于我们</a>
+						  <em>|</em>
+						
+					  
+				<p>
+					<span>网站标识码：3590000001</span>
+					<span><img src="/images/babs.png" /> <a href="https://www-beian-gov-cnx45c8968723868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002" Target="_blank">公安备案号：35012899001-19002</a></span>
+					<span><a href="https://beian.miit.gov.cn" Target="_blank" title="闽ICP备09032658号">闽ICP备09032658号</a></span>
+				</p>
+				<p><span>版权所有：平潭综合实验区党工委管委会网站</span></p>
+			</div>
+			<div class="trt-col-7 trt-col-sm-24 media_info">
+				<h3><a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>  </h3>
+				<ul class="trt-row">
+					<li class="trt-col-12"><a hhref="javascript:;" title="平潭发布"><span class="trt-iconfont trt-icon-weixin1"></span>平潭发布</a>
+						<div class="ewm_tu"><img src="/images/20231118ptfb.jpg" alt="平潭发布" /></div>
+					</li>
+					<li class="trt-col-12"><a href="javascript:;" title="闽政通APP"><span
+								class="trt-iconfont trt-icon-minzhengtong"></span>闽政通APP</a>
+						<div class="ewm_tu"><img src="/images/20xmszf_mzt_ewm.png" alt="闽政通APP" /></div>
+					</li>
+                                   
+					<!--li class="trt-col-12"><a href="javascript:;" title="平潭通"><span class="trt-iconfont trt-icon-qrcode-1-copy"></span>平潭通</a>
+						<div class="ewm_tu"><img src="/images/20231118ptt.png" alt="平潭通" /></div>
+					</li-->
+					<li class="trt-col-12 on"><a href="javascript:;" title="平潭文旅"><span><img src="/images/foot-icon4.png" alt="" /><img src="/images/foot-icon4-a.png" alt="平潭文旅" /></span>平潭文旅</a>
+						<div class="ewm_tu"><img src="/images/20231119ptVly.jpg" /></div>
+					</li>
+				</ul>
+			</div>
+			<div class="trt-col-6 trt-col-sm-24 error_img">
+				<span id="_ideConac" class="foot-icon02 pho-none">
+					<a href="https://bszs-conac-cnxe103968723868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="/images/red.png" alt="党政机关" /></a>                    
+				</span>
+				<span id="_span_jiucuo" title="政府网站找错"></span>
+				<span><a href="javascript:;"><img src="/images/img11.png" /></a></span>
+			</div>
+		</div>
+	</div>
+	<div class="copyright_info">
+		<div class="row">
+			<p><span>主办单位：福建省平潭综合实验区管理委员会办公室</span></p>
+			<p>为确保最佳浏览效果，建议您使用以下浏览器版本：IE浏览器9.0版本及以上； Google Chrome浏览器 63版本及以上； 360浏览器9.1版本及以上，且IE内核9.0及以上。
+			</p>
+		</div>
+	</div>
+</div>
+	<!--底部结束-->
+	</div>
+	<!--全站嵌套-->
+	<script>
+    var SiteInfo = {
+        //was4doc: 290792,  //文档检索的was频道号
+        itpSiteId: 21,    //互动站点ID
+        itp4advice: 41,  //意见征集栏目ID
+        itp4poll: 43,   //网上调查栏目ID
+        //itp4ztzj: ,    //主题征集栏目ID
+        itp4zxft: 44,    //主题征集栏目ID
+        itpStatus:true,
+        itpMassage:'系统正在升级，预计于晚上20时恢复，为此对您造成的不便敬请谅解。',
+        // CommentId: ,  //细览评论功能对应的互动新建栏目ID
+        searchId: 200210, //默认的文档检索频道的ID
+        defaultPgTemp: "pgBar_pt.html",  //本站点默认的分页模板名
+        defaultPgTempMobile: "pgBar_pt.html",  //本站点默认的分页模板名，移动端
+        siteMsgType: "govSite",  //非政府网站提醒规则   currSite 非本站提醒 、govSite  非政府网站提醒
+        siteWriteList: ["www.ptnet.cn"],  //站点白名单
+        initWindowRoot: false,  //false表示，引入model.js时，不自动生成windowRoot
+        initPageview: true,  //执行windowRoot 时自动执行pageview
+        defaultHotWords: '旅游;渔业;保障性住房',  //通过嵌套栏目的替换内容，热搜词，设置默认的热搜词
+        //registerUrl: "https://mztapp.fujian.gov.cn:8304/dataset/UnifiedController/goRegist.do?callerCode=2c9bbe6975c2a76a0175de55aa73023d2c9bbe6975c2a76a&returnurl=",
+        registerUrl : "https://iam.e-govt.cn:8901/register?appId=8976f209-c26f-4155-a5a1-f469d75bc4a5&redirect_uri=",
+        loginUrl: "http://www.pingtan.gov.cn/uc/login/login?redirtUrl=https://www.pingtan.gov.cn/uc/login/noseLogin?redirtUrl=",
+        logoutUrl: "https://www.pingtan.gov.cn/uc/login/logout?redirtUrl=",
+        mapkey:"492cf207f3857e830673602a39a2ff78",
+        openSlb: true,//是否开启适老版
+        openWza: true, //是否开启无障碍
+        // redirtUrl: "",
+        // homeUrl: ""
+        myzj:{
+            listUrlPre:'/staticitp/pingtan/myzj/',
+            detailUrlPre:'/staticitp/pingtan/17_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/myzj/detail.htm'
+        },
+        wsdc:{
+            listUrlPre:'/staticitp/pingtan/wsdc/',
+            detailUrlPre:'/staticitp/pingtan/24_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/wsdc/detail.htm'
+        }
+    };
+</script>
+<script src="/images/barrier.free.min.js" id="barrierFree" sn="6597475200690549"></script>
+<!-- <script src="/images/model.v2.min.js"></script> -->
+<script src="/images/model.min.js"></script>
+<script type="text/javascript" src="/images/js_rem.min.js"></script>
+<script type="text/javascript" src="/images/23pingtan.js"></script>
+	<!--全站嵌套-结束-->
+	
+	<script>
+		var pageChnlInfo={
+		  quickMode:"动静结合",
+		  maxStaticIndex: 5,
+		  classsql: "" || "chnlid=618",
+		  recordCount:'2179',
+		  sortfield:'-docorderpri,-docreltime',
+		  prepage:15,
+		  cache:true
+		}
+		// By Jcl
+		var ColumnName = document.getElementsByTagName('meta')['ColumnName'].content || "";
+		if(ColumnName.indexOf("图")>-1){
+		  pageChnlInfo.prepage = 12;
+		}
+		if(ColumnName.indexOf("解读")>-1){
+		  pageChnlInfo.maxStaticIndex = 1;
+		  pageChnlInfo.cache = false;
+		}
+	</script>
+	<script type="text/javascript">
+
+		if(!window['pageChnlInfo']){
+			avalon.log("获取pageChnlInfo失败，分页功能启动失败");
+			
+		}else{
+			require(['list2.trsapi'], function(listModel) {
+				listModel({
+					quickMode:pageChnlInfo.quickMode,
+					maxStaticIndex: pageChnlInfo.maxStaticIndex,
+					listArgs: {
+						channelid: SiteInfo.searchId,
+						classsql: pageChnlInfo.classsql,
+						sortfield: pageChnlInfo.sortfield||'-docorderpri,-docreltime',
+						classcol: 'publishyear', //需要获取发布年份的统计分类数据
+						classsort: 0
+					},
+					cache: pageChnlInfo.cache||true,
+					listApi: {
+						url: "/fjdzapp/search"
+					},
+					pagebar: {
+						recordCount: pageChnlInfo.recordCount,
+						pgTemp: 'pgBar_pt.html',
+						prepage: pageChnlInfo.prepage||15,
+						pgCountMode: 'recordCount'
+					},
+					injGetOrCache: list_reldoc,
+					//callToPage: function (p) {//翻页后自动滚屏到栏目名称的位置，注意根据页面修改jquery对象的类名或ID名
+					//	$('html,body').animate({ scrollTop: $('.breadcrumb').offset().top }, 800);
+					//},
+					searchArgs: {
+						publishyear: {
+							type: 'classsql',
+							compare: "=",
+							value: '',
+							items: [],
+							SyncItems: true //设置从列表分类统计中进行同步
+							// , SyncItemsOrder: "-count"
+						},
+						key: {
+							type: 'classsql',
+							field: 'doctitle',
+							compare: "like",
+							value: '',
+							isKey: true
+						}
+					}
+				})
+			})
+		}
+
+	</script>
+</body>
+
+</html>

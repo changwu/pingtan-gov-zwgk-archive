@@ -1,0 +1,1729 @@
+<!DOCTYPE html>
+<html ms-controller="windowRoot" ms-class="slb:isSlb">
+
+<head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="x-UA-Compatible" content="IE=Edge,Chrome=1" />
+	<meta name="SiteName" content="平潭综合实验区党工委管委会"/>
+<meta name="SiteDomain" content="www.pingtan.gov.cn">
+<meta name="SiteIDCode" content="3590000001"/>
+<meta name="ColumnName" content="可视化图表"/>
+<meta name="ColumnDescription" content="可视化图表"/>
+<meta name="ColumnKeywords" content="可视化图表"/>
+<meta name="ColumnType" content="可视化图表"/>
+<meta name="Keywords" content="平潭，中国平潭，福建平潭，平潭综合实验区党工委管委会"/>
+<meta name="Description" content="中国平潭，福建平潭，平潭综合实验区党工委管委会，平潭综合实验区党工委管委会门户网站是平潭综合实验区党工委管委会在国际互联网上发布政务信息、提供在线服务和公众参与的综合服务平台。"/>
+<meta name="ChnlId" content="998">
+<meta name="SiteId" content="4"/>
+	<title>
+		可视化图表_平潭综合实验区党工委管委会
+	</title>
+	<link rel="stylesheet" type="text/css" href="/images/trt_iconfont_v2.css">
+    <link rel="stylesheet" type="text/css" href="/images/trt_ui_v2.css">
+    <link rel="stylesheet" type="text/css" href="/images/trt_component_v2.css">
+    <link rel="stylesheet" type="text/css" href="/images/trt_media_v2.css">
+	<link rel="stylesheet" type="text/css" href="/images/221111_fq_tjxx_style.css">
+    <link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_header.css">
+    <link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_footer.css">
+	<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_style.css">
+	<link rel="stylesheet" type="text/css" href="/images/23pingtan.css">
+	<style>
+
+#echartsBox {
+            width: auto;
+            height: 450px;
+            position: relative;
+            margin: 0 auto;
+            margin-top: 20px;
+        }
+.list_no_6_10,.shortdate,.shortdate2,.longdate2,.longdate3{
+			display:none !important;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="wrap">
+		<!--头部开始-->
+		<div class="header menu_hov">
+	<div class="row">
+		<div class="logo trt-col-9">
+			<img src="/images/gh_logo.png" />
+			<a href="/"><img src="/images/site_logo.png" /></a>
+		</div>
+		<div class="header_line clearflx" role="serve" des="头部信息">
+			<div class="header_link_01">
+				<a href="https://www.gov.cn/" Target="_blank" title="国务院" class="btn_base btn_outline btn_outline_primary btn_small">国务院</a>
+				<a href="https://www.fujian.gov.cn/" Target="_blank" title="省政府" class="btn_base btn_outline btn_outline_primary btn_small">省政府</a>
+				<a href="https://www.fjrd.gov.cn/" Target="_blank" title="省人大" class="btn_base btn_outline btn_outline_primary btn_small">省人大</a>
+				<a href="http://www.fjzx.gov.cn/" Target="_blank" title="省政协" class="btn_base btn_outline btn_outline_primary btn_small">省政协</a>
+			</div>
+			<div class="header_link_02">
+				<!-- <a href="#">繁体版</a> -->
+				<script src="/images/pt-langBig5.js" type="text/javascript"></script>
+				<a href="javascript:;" class="none_sm">移动版</a>
+				<div class="mzt_ewm">
+					<div><img src="/images/20xmszf_mzt_ewm.png" /></div>
+					<p>闽政通APP</p>
+				</div>
+			</div>
+			<div class="header_link_02 none_sm">				
+				<em ms-visible="!isLogin">
+					<a id="logined" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$login" target="_blank" >登录</a>
+					<a id="logined" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()">登录</a>
+					<a id="registered" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$register" >注册</a>
+					<a id="registered" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()" >注册</a>
+				</em>
+				<em ms-visible="isLogin" style="display:none;">
+					<a href="/uc/indexs/index" ms-attr-title='loginInfo.showname'>你好，<font ms-text="loginInfo.showname | truncate(12)"></font></a>
+					<a ms-attr-href="logoutUrl">注销</a>
+				</em>
+			</div>
+			<span>网站支持IPV6</span>
+		</div>
+		<div class="menu_base menu_right menu_hd">
+			<ul class="clearflx" role="navigation" des="站点主目录">
+				<!--有下拉菜单的li加上parentNode-->
+				<li ms-class="on:RootPath==''"><a href="/">首页</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='zwgk' || paths[4]=='zfxxgk'"><a href="https://www.pingtan.gov.cn/zwgk/">政务公开</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='jdhy'"><a href="https://www.pingtan.gov.cn/jdhy/">解读回应</a></li>
+				<li class="parentNode"  ms-class="on:paths[3]=='bsfw'"><a href="https://www.pingtan.gov.cn/bsfw/">办事服务</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='hdjl'"><a href="https://www.pingtan.gov.cn/hdjl/">互动交流</a></li>
+				<li ms-class="on:paths[3]=='zjpt'"><a href="https://www.pingtan.gov.cn/zjpt/">走进平潭</a></li>
+			</ul>
+		</div>
+		<div class="search_fixed">
+			<form method="get" action="/ssp/main/index.html" target="_blank">
+				<input type="hidden" name="siteId" value="402804278b376967018b3771d3370002" />
+				<input type="text" placeholder="请输入搜索内容" name="key" required="required" class="form-control" />
+				<button class="btn_base"><i class="trt-iconfont trt-icon-sousuo"></i></button>
+			</form>
+		</div>
+	</div>
+	<div class="submenu menu_bd">
+		<div class="row">
+			<div></div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfxxgk/" target="_blank" title="政府信息公开">政府信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ldzc/" target="_blank" title="领导之窗">领导之窗</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zzjg/" target="_blank" title="政府机构">政府机构</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/yw/" target="_blank" title="要闻">要闻</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfhy/" target="_blank" title="政府会议">政府会议</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zxwj/" target="_blank" title="最新文件">最新文件</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zcwjk/" target="_blank" title="政策文件库">政策文件库</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfgzbg/" target="_blank" title="政府工作报告">政府工作报告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/gsgg/" target="_blank" title="公示公告">公示公告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ghxx/" target="_blank" title="规划信息">规划信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/rsxx/" target="_blank" title="人事信息">人事信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/tjxx/" target="_blank" title="统计信息">统计信息</a>
+                 
+                    <a href="https://data.fujian.gov.cn/#/oportal/index" target="_blank" title="数据开放">数据开放</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zdlyxxgk/" target="_blank" title="重点领域信息公开">重点领域信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ztzl/" target="_blank" title="专题专栏">专题专栏</a>
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/jdhy/zcjd/" target="_blank" title="平潭政策解读">平潭政策解读</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/xwfbh/" target="_blank" title="新闻发布会">新闻发布会</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/hygq/" target="_blank" title="回应关切">回应关切</a>  
+                
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105" target="_blank" title="福建网上办事大厅">福建网上办事大厅</a>  
+                 
+                    <a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>  
+                 
+                    <a href="https://www.fujian.gov.cn/bsfw/mztapp/" target="_blank" title="闽政通APP">闽政通APP</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/zjpt/cypt/" target="_blank" title="畅游平潭">畅游平潭</a>  
+                
+				<a href="https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/" target="_blank" title="政务地图">政务地图</a>  
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://12345.pingtan.gov.cn/" target="_blank" title="12345便民惠企服务平台">12345便民惠企服务平台</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/zxft/" target="_blank" title="在线访谈">在线访谈</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/wsdc/" target="_blank" title="网上调查">网上调查</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/myzj/" target="_blank" title="民意征集">民意征集</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/hdjlzsk/" target="_blank" title="互动交流知识库">互动交流知识库</a>  
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div></div>
+		</div>
+	</div>
+</div>
+<div class="banner_header">
+	<div class="row">
+		<div class="trt-row">
+			<div class="trt-col-7 trt-col-sm-0">
+				<div class="area_weather">
+					<p><font ms-text="now|date('yyyy年MM月dd日 EEEE')"></font></p>
+					<p font ms-text="weather+''+temp"></p>
+					<p id="weather-box"><iframe id="tianqi" class='tianqi-box' width="260" height="26"  scrolling="no"  frameborder="0" allowtransparency="true" src="https://i-tianqi-comx3211968723868xx.ipv6best.cn?c=code&id=26&color=%23FFFFFF&icon=1&py=pingtan&site=16"></iframe></p>
+				</div>
+			</div>
+			<div class="trt-col-10 trt-col-sm-18" role="interaction" des="搜索">
+				<div class="search_area" id="header">
+					<form ms-attr-action="searchAction" ms-blur="$togLinkkey" target="_blank" ms-submit="$setHistoryList()" ms-if="!avalon.vmodels.windowRoot.isStatic" > 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>
+					<form onkeydown="avalon.vmodels.windowRoot.staticDialog()" ms-if="avalon.vmodels.windowRoot.isStatic" style="display: none" ms-visible="avalon.vmodels.windowRoot.isStatic"> 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>					
+					<div class="search_content shadow_base" Id="searchTag" ms-if="!avalon.vmodels.windowRoot.isStatic" >
+						<div class="search_history" ms-visible="searchTips.historyKeys.length > 0" style="display: none">
+							<span>历史搜索：</span>
+							<a ms-if-loop="$index<4" ms-repeat="searchTips.historyKeys" href="javascript:;" ms-text="el" ms-click="$setPost(el)"> <i class="trt-iconfont trt-icon-dacha"></i></a>
+						</div>
+						<div class="search_top">
+							<span>热门搜索：</span>
+							<a ms-repeat="hotWords" href="javascript:;" ms-text="el.title" ms-click="$setPost(el.title)"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="trt-col-7 trt-col-sm-6 slb-trt-col-sm-24 text_align_right">
+				<div class="aged_link">
+                    <a href="javascript:void(0);" class="aged_link_01" ms-click="$inSlb()" ms-visible="!isSlb">长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_01 none" ms-click="$outSlb()" ms-visible="isSlb">退出长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_02" Id="barrierFreeBtn"><font id="WzaStatus">无障碍浏览</font></a>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+		<!--头部结束-->
+		<div class="main">
+			<div class="content mar_t_large mar_t_base_sm">
+				<div class="row content_bg_02 pad_large pad_base_sm shadow_base border_radius_large">
+					<div class="breadcrumb" role='navigation' des="当前位置">
+						<span><i class="trt-iconfont trt-icon-weizhi"></i>当前位置：</span>
+						<ul>
+							<li class="active">
+								<a href="../../../" title="首页" class="CurrChnlCls">首页</a></li><li><a href="../../" title="政务公开" class="CurrChnlCls">政务公开</a></li><li><a href="../" title="统计信息" class="CurrChnlCls">统计信息</a></li><li><a href="./" title="可视化图表" class="CurrChnlCls">可视化图表</a>
+							</li>
+						</ul>
+					</div>
+					<div class="title_base current_title clearflx mar_t_small mar_t_base0_sm">
+						<div class="title_name">可视化图表</div>
+						<div class="title_more title_more1"  ms-controller="eChar" ms-if="currIndex < 2">
+							<img src="../../../images/20240424_ptjb.png" alt="" />
+						</div>
+						<div class="title_more title_more2"  ms-controller="eChar" ms-if="currIndex >= 2">
+							<img src="../../../images/20231122_ptjb.png" alt="" />
+						</div>
+					</div>
+
+					<!-- 主体 -->
+					<div role="viewlist" ms-controller="eChar">
+						<div class="gl-ej-tab clearflx">
+							<a ms-repeat="allData" ms-class="dd-on:currIndex==$index" ms-attr-value="el.dataId" ms-attr-title="el[0].title" ms-text="el[0].title" ms-click="$tabType($index)" href="javascript:void(0);"></a>
+						</div>
+						<div class="bd">
+							<div class="tjxx-echart-box" role="viewlist" ms-controller="eChar">
+								<div class="tjzq-cax-box clearflx">
+									<span>统计周期：</span>
+									<div class="nom-selc" ms-click="onChangeFlag( 'startYearFlag',$event)">
+										<p ms-text="searchObj.startYear">2019</p>
+										<ul ms-visible="startYearFlag">
+											<li ms-repeat="searchData" ms-class="lib:$key==searchObj.startYear">
+												<a  href="javascript:void(0);" ms-text="$key" ms-click="OnChangeSearchTime( 'startYear', $key)">2019</a>
+											</li>
+										</ul>
+									</div>
+									<div class="nom-selc" ms-click="onChangeFlag('startMonthFlag',$event)" ms-visible="dataType!==1">
+										<p ms-text="searchObj.startMonth">2</p>
+										<ul ms-visible="startMonthFlag">
+											<li ms-class="lib:searchObj.startMonth==el" ms-repeat="searchData[searchObj.startYear]" ms-if-loop="searchObj.startYear!=0">
+												<a href="javascript:void(0);" ms-text="el" ms-click="OnChangeSearchTime( 'startMonth', el)">2</a>
+											</li>
+										</ul>
+									</div>
+									<em>至</em>
+									<div class="nom-selc" ms-click="onChangeFlag('endYearFlag',$event)">
+										<p ms-text="searchObj.endYear">2019</p>
+										<ul ms-visible="endYearFlag">
+											<li ms-class="lib:$key==searchObj.endYear" ms-repeat="searchData" ms-click="OnChangeSearchTime( 'endYear', $key)">
+												<a href="javascript:void(0);" ms-text="$key">2019</a>
+											</li>
+										</ul>
+									</div>
+									<div class="nom-selc" ms-click="onChangeFlag( 'endMonthFlag',$event) " ms-visible="dataType !==1">
+										<p ms-text="searchObj.endMonth">2</p>
+										<ul ms-visible="endMonthFlag && dataType !==1">
+											<li ms-class="lib:searchObj.endMonth==el" ms-repeat="searchData[searchObj.endYear]" ms-if-loop="searchObj.endYear!=0" ms-click="OnChangeSearchTime( 'endMonth', el)"><a href="javascript:void(0);" ms-text="el">2</a></li>
+										</ul>
+									</div>
+									<button ms-click="onSearch()" alt="查询">查询</button>
+								</div>
+								<div id="echartsBox" class="ecbox"></div>
+							</div>
+						</div>
+					</div>
+					
+					
+				
+				</div>
+			</div>
+		</div>
+		<!--中间内容模块结束-->
+		<!--底部开始-->
+		<div class="footer">
+	<div class="border_t_solid_01"></div>
+	<div class="row">
+		<div class="out_links" role="navigation" des="网站链接">
+			<ul class="trt-row" ms-controller="tabYqlj">
+				
+					<li class="trt-col-6" ms-click="$tog2(1)" ms-class="on:curr===1">
+						<p>省市政府网站</p>
+						<div class="shadow_base" Id="yqlj_1">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.fj.gov.cn/" target="_blank" title="福建省人民政府">福建省人民政府</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.fuzhou.gov.cn/" target="_blank" title="福州市政府网站">福州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xm.gov.cn/" target="_blank" title="厦门市政府网站">厦门市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.quanzhou.gov.cn/" target="_blank" title="泉州市政府网站">泉州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zhangzhou.gov.cn/" target="_blank" title="漳州市政府网站">漳州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.putian.gov.cn/" target="_blank" title="莆田市政府网站">莆田市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sm.gov.cn/" target="_blank" title="三明市政府网站">三明市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.np.gov.cn/" target="_blank" title="南平市政府网站">南平市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.longyan.gov.cn/" target="_blank" title="龙岩市政府网站">龙岩市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ningde.gov.cn/" target="_blank" title="宁德市政府网站">宁德市政府网站</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(2)" ms-class="on:curr===2">
+						<p>友情链接</p>
+						<div class="shadow_base" Id="yqlj_2">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.people.com.cn/" target="_blank" title="人民网">人民网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xinhuanet.com/" target="_blank" title="新华网">新华网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.chinanews.com.cn/" target="_blank" title="中国新闻网">中国新闻网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.cctv.com/" target="_blank" title="央视国际">央视国际</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.ptnet.cn/" target="_blank" title="平潭网">平潭网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fjptq.wenming.cn/" target="_blank" title="平潭文明网">平潭文明网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.acas.org.cnx7a72968723868.ipv6best.cn/" target="_blank" title="海峡两岸仲裁中心">海峡两岸仲裁中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fujian.chinatax.gov.cn/pingtanswj/" target="_blank" title="国家税务总局平潭综合实验区税务局">国家税务总局平潭综合实验区税务局</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://pt.fjbz.org.cnx1e49968723868.ipv6best.cn:8060/" target="_blank" title="福建省标准信息服务平台">福建省标准信息服务平台</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(3)" ms-class="on:curr===3">
+						<p>新闻媒体</p>
+						<div class="shadow_base" Id="yqlj_3">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm" target="_blank" title="人民日报">人民日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://fjrb-fjdaily-comx2d93968723868xx.ipv6best.cn/pc/col/202311/02/node_01.html" target="_blank" title="福建日报">福建日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zznews.cn/" target="_blank" title="闽南日报">闽南日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://mbrb.greatwuyi.com/202311/02/node_1.html" target="_blank" title="闽北日报">闽北日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.mxrb.cn/" target="_blank" title="闽西日报">闽西日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ndwww.cn/" target="_blank" title="闽东日报">闽东日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.qzwb.com/" target="_blank" title="泉州晚报">泉州晚报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html" target="_blank" title="三明日报">三明日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.taihainet.com/" target="_blank" title="海峡导报">海峡导报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fj.sina.com.cn/" target="_blank" title="新浪福建">新浪福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.163.com/" target="_blank" title="网易">网易</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sohu.com/" target="_blank" title="搜狐">搜狐</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(4)" ms-class="on:curr===4">
+						<p>其他</p>
+						<div class="shadow_base" Id="yqlj_4">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.creditchina.gov.cn/" target="_blank" title="信用中国">信用中国</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xy.fujian.gov.cn/#/home" target="_blank" title="信用福建">信用福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://27-151-80-61xe076968723868xx.ipv6best.cn:91/#/double-publicity-info" target="_blank" title="信用平潭">信用平潭</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://credit-xm-gov-cnxd4a4968723868xx.ipv6best.cn/" target="_blank" title="信用厦门">信用厦门</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.szzg.gov.cn/" target="_blank" title="数字中国建设峰会">数字中国建设峰会</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.hxrc.com/" target="_blank" title="中国海峡人才市场">中国海峡人才市场</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+			</ul>
+			<div class="out_links_close shadow_base"><i class="trt-iconfont trt-icon-dacha"></i></div>
+		</div>
+	</div>
+	<div class="border_b_solid_01"></div>
+	<div class="row mar_t_base mar_t_small_sm" role="serve" des="网站信息">
+		<div class="trt-row clearflx">
+			<div class="trt-col-11 trt-col-sm-24 website_info">
+				<p>
+					
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/sybz/" target="_blank" title="使用帮助">使用帮助</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/lxwm/" target="_blank" title="联系我们">联系我们</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/ysbh/" target="_blank" title="隐私保护">隐私保护</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/gywm/" target="_blank" title="关于我们">关于我们</a>
+						  <em>|</em>
+						
+					  
+				<p>
+					<span>网站标识码：3590000001</span>
+					<span><img src="/images/babs.png" /> <a href="https://www-beian-gov-cnx45c8968723868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002" Target="_blank">公安备案号：35012899001-19002</a></span>
+					<span><a href="https://beian.miit.gov.cn" Target="_blank" title="闽ICP备09032658号">闽ICP备09032658号</a></span>
+				</p>
+				<p><span>版权所有：平潭综合实验区党工委管委会网站</span></p>
+			</div>
+			<div class="trt-col-7 trt-col-sm-24 media_info">
+				<h3><a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>  </h3>
+				<ul class="trt-row">
+					<li class="trt-col-12"><a hhref="javascript:;" title="平潭发布"><span class="trt-iconfont trt-icon-weixin1"></span>平潭发布</a>
+						<div class="ewm_tu"><img src="/images/20231118ptfb.jpg" alt="平潭发布" /></div>
+					</li>
+					<li class="trt-col-12"><a href="javascript:;" title="闽政通APP"><span
+								class="trt-iconfont trt-icon-minzhengtong"></span>闽政通APP</a>
+						<div class="ewm_tu"><img src="/images/20xmszf_mzt_ewm.png" alt="闽政通APP" /></div>
+					</li>
+                                   
+					<!--li class="trt-col-12"><a href="javascript:;" title="平潭通"><span class="trt-iconfont trt-icon-qrcode-1-copy"></span>平潭通</a>
+						<div class="ewm_tu"><img src="/images/20231118ptt.png" alt="平潭通" /></div>
+					</li-->
+					<li class="trt-col-12 on"><a href="javascript:;" title="平潭文旅"><span><img src="/images/foot-icon4.png" alt="" /><img src="/images/foot-icon4-a.png" alt="平潭文旅" /></span>平潭文旅</a>
+						<div class="ewm_tu"><img src="/images/20231119ptVly.jpg" /></div>
+					</li>
+				</ul>
+			</div>
+			<div class="trt-col-6 trt-col-sm-24 error_img">
+				<span id="_ideConac" class="foot-icon02 pho-none">
+					<a href="https://bszs-conac-cnxe103968723868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="/images/red.png" alt="党政机关" /></a>                    
+				</span>
+				<span id="_span_jiucuo" title="政府网站找错"></span>
+				<span><a href="javascript:;"><img src="/images/img11.png" /></a></span>
+			</div>
+		</div>
+	</div>
+	<div class="copyright_info">
+		<div class="row">
+			<p><span>主办单位：福建省平潭综合实验区管理委员会办公室</span></p>
+			<p>为确保最佳浏览效果，建议您使用以下浏览器版本：IE浏览器9.0版本及以上； Google Chrome浏览器 63版本及以上； 360浏览器9.1版本及以上，且IE内核9.0及以上。
+			</p>
+		</div>
+	</div>
+</div>
+		<!--底部结束-->
+	</div>
+	<!--全站嵌套-->
+	<script src="/images/echarts.min.js"></script>
+	<script>
+    var SiteInfo = {
+        //was4doc: 290792,  //文档检索的was频道号
+        itpSiteId: 21,    //互动站点ID
+        itp4advice: 41,  //意见征集栏目ID
+        itp4poll: 43,   //网上调查栏目ID
+        //itp4ztzj: ,    //主题征集栏目ID
+        itp4zxft: 44,    //主题征集栏目ID
+        itpStatus:true,
+        itpMassage:'系统正在升级，预计于晚上20时恢复，为此对您造成的不便敬请谅解。',
+        // CommentId: ,  //细览评论功能对应的互动新建栏目ID
+        searchId: 200210, //默认的文档检索频道的ID
+        defaultPgTemp: "pgBar_pt.html",  //本站点默认的分页模板名
+        defaultPgTempMobile: "pgBar_pt.html",  //本站点默认的分页模板名，移动端
+        siteMsgType: "govSite",  //非政府网站提醒规则   currSite 非本站提醒 、govSite  非政府网站提醒
+        siteWriteList: ["www.ptnet.cn"],  //站点白名单
+        initWindowRoot: false,  //false表示，引入model.js时，不自动生成windowRoot
+        initPageview: true,  //执行windowRoot 时自动执行pageview
+        defaultHotWords: '旅游;渔业;保障性住房',  //通过嵌套栏目的替换内容，热搜词，设置默认的热搜词
+        //registerUrl: "https://mztapp.fujian.gov.cn:8304/dataset/UnifiedController/goRegist.do?callerCode=2c9bbe6975c2a76a0175de55aa73023d2c9bbe6975c2a76a&returnurl=",
+        registerUrl : "https://iam.e-govt.cn:8901/register?appId=8976f209-c26f-4155-a5a1-f469d75bc4a5&redirect_uri=",
+        loginUrl: "http://www.pingtan.gov.cn/uc/login/login?redirtUrl=https://www.pingtan.gov.cn/uc/login/noseLogin?redirtUrl=",
+        logoutUrl: "https://www.pingtan.gov.cn/uc/login/logout?redirtUrl=",
+        mapkey:"492cf207f3857e830673602a39a2ff78",
+        openSlb: true,//是否开启适老版
+        openWza: true, //是否开启无障碍
+        // redirtUrl: "",
+        // homeUrl: ""
+        myzj:{
+            listUrlPre:'/staticitp/pingtan/myzj/',
+            detailUrlPre:'/staticitp/pingtan/17_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/myzj/detail.htm'
+        },
+        wsdc:{
+            listUrlPre:'/staticitp/pingtan/wsdc/',
+            detailUrlPre:'/staticitp/pingtan/24_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/wsdc/detail.htm'
+        }
+    };
+</script>
+<script src="/images/barrier.free.min.js" id="barrierFree" sn="6597475200690549"></script>
+<!-- <script src="/images/model.v2.min.js"></script> -->
+<script src="/images/model.min.js"></script>
+<script type="text/javascript" src="/images/js_rem.min.js"></script>
+<script type="text/javascript" src="/images/23pingtan.js"></script>
+	<!--全站嵌套-结束-->
+	<script>
+		require(["jquery", "dialog"], function($, dialog) {
+			var isMobile = window.innerWidth < 767;
+
+			var eCharLineStyle = {
+				labelFontSize: 12,
+				symbolSize: 12, // 标志大小
+				borderWidth: 5,
+				lineStyleWidth: 6 // 线宽
+			};
+
+			if (isMobile) {
+				// 移动端折线样式
+				eCharLineStyle.labelFontSize = 10;
+				eCharLineStyle.symbolSize = 2;
+				eCharLineStyle.borderWidth = 1;
+				eCharLineStyle.lineStyleWidth = 1;
+			}
+
+			var myChart = echarts.init(document.getElementById('echartsBox'));
+
+
+            var keyMap = [
+                
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "97329",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "97328",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "97325",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "97326",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "97330",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "97327",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "86397",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "81595",
+				
+				}, 
+			    
+				{
+					name:"",
+					currChild: 0,
+					metadataid: "81579",
+				
+				}, 
+			
+			]
+          
+            var staticData = {
+                "docs": [
+                
+                    {
+                    "s1": '农村居民人均消费支出',
+                    "s2": '国民经济主要统计指标',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["农村居民人均消费支出_累计值（元）","农村居民人均消费支出_累计同比增长（%）"],"name":["农村居民人均消费支出_累计值（元）","农村居民人均消费支出_累计同比增长（%）"],"periods":["2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/3","2026/6"],"periodTexts":["2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年3月","2026年6月"],"datas":[["6072","10956","16038","21090","6377","11500","16858","22306","6795","12205"],["8.6","8.4","7.5","6.0","5.0","5.0","5.1","5.8","6.5","6.1"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '农村居民人均可支配收入',
+                    "s2": '国民经济主要统计指标',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["农村居民人均可支配收入_累计值（元）","农村居民人均可支配收入_累计同比增长（%）"],"name":["农村居民人均可支配收入_累计值（元）","农村居民人均可支配收入_累计同比增长（%）"],"periods":["2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/3","2026/6"],"periodTexts":["2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年3月","2026年6月"],"datas":[["7178","13948","19412","25282","7523","14610","20442","26665","7989","15598"],["8.3","6.8","6.3","6.3","4.8","4.7","5.3","5.5","6.2","6.8"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '城镇居民人均可支配收入',
+                    "s2": '国民经济主要统计指标',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["城镇居民人均可支配收入_累计值（元）","城镇居民人均可支配收入_累计同比增长（%）"],"name":["城镇居民人均可支配收入_累计值（元）","城镇居民人均可支配收入_累计同比增长（%）"],"periods":["2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/3","2026/6"],"periodTexts":["2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年3月","2026年6月"],"datas":[["15519","28403","40729","52940","16081","29395","42080","54937","16734","30724"],["4.8","4.4","3.2","4.2","3.6","3.5","3.3","3.8","4.1","4.5"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '城镇居民人均消费支出',
+                    "s2": '国民经济主要统计指标',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["城镇居民人均消费支出_累计值（元）","城镇居民人均消费支出_累计同比增长（%）"],"name":["城镇居民人均消费支出_累计值（元）","城镇居民人均消费支出_累计同比增长（%）"],"periods":["2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/3","2026/6"],"periodTexts":["2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年3月","2026年6月"],"datas":[["8307","16380","24844","36385","8628","16944","25594","37705","9029","17641"],["6.1","7.3","6.1","7.8","3.9","3.4","3.0","3.6","4.6","4.1"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '全体居民人均消费支出',
+                    "s2": '国民经济主要统计指标',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["全体居民人均消费支出_累计值（元）","全体居民人均消费支出_累计同比增长（%）"],"name":["全体居民人均消费支出_累计值（元）","全体居民人均消费支出_累计同比增长（%）"],"periods":["2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/6"],"periodTexts":["2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年6月"],"datas":[["6868","13069","19615","26757","7223","13697","20528","28487","14491"],["6.6","9.3","7.4","7.9","5.2","4.8","4.7","6.5","5.8"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '全体居民人均可支配收入',
+                    "s2": '国民经济主要统计指标',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["全体居民人均可支配收入_累计值（元）","全体居民人均可支配收入_累计同比增长（%）"],"name":["全体居民人均可支配收入_累计值（元）","全体居民人均可支配收入_累计同比增长（%）"],"periods":["2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/3","2026/6"],"periodTexts":["2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年3月","2026年6月"],"datas":[["10195","19580","28070","36073","10738","20577","29534","38012","11398","21960"],["5.6","5.5","4.5","5.8","5.3","5.1","5.2","5.4","6.1","6.7"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '居民消费价格指数(CPI)',
+                    "s2": '居民消费价格主要数据-居民消费价格',
+                    "s3": '月度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["居民消费价格指数_当月环比（%）"],"name":["居民消费价格指数_当月环比（%）"],"periods":["2021/1","2021/2","2021/3","2021/4","2021/5","2021/6","2021/7","2021/8","2021/9","2021/10","2021/12","2022/1","2022/2","2022/3","2022/4","2022/5","2022/6","2022/7","2022/8","2022/9","2022/10","2022/11","2022/11","2022/12","2023/1","2023/2","2023/3","2023/4","2023/5","2023/6","2023/7","2023/8","2023/9","2023/10","2023/11","2023/12","2024/1","2024/2","2024/3","2024/4","2024/5","2024/6","2024/7","2024/8","2024/9","2024/10","2024/11","2024/12","2025/1","2025/2","2025/3","2025/4","2025/5","2025/6","2025/7","2025/8","2025/9","2025/10","2025/11","2025/12","2026/1","2026/2","2026/3","2026/4","2026/5","2026/6","2026/7","2026/8"],"periodTexts":["2021年1月","2021年2月","2021年3月","2021年4月","2021年5月","2021年6月","2021年7月","2021年8月","2021年9月","2021年10月","2021年12月","2022年1月","2022年2月","2022年3月","2022年4月","2022年5月","2022年6月","2022年7月","2022年8月","2022年9月","2022年10月","2022年11月","2022年11月","2022年12月","2023年1月","2023年2月","2023年3月","2023年4月","2023年5月","2023年6月","2023年7月","2023年8月","2023年9月","2023年10月","2023年11月","2023年12月","2024年1月","2024年2月","2024年3月","2024年4月","2024年5月","2024年6月","2024年7月","2024年8月","2024年9月","2024年10月","2024年11月","2024年12月","2025年1月","2025年2月","2025年3月","2025年4月","2025年5月","2025年6月","2025年7月","2025年8月","2025年9月","2025年10月","2025年11月","2025年12月","2026年1月","2026年2月","2026年3月","2026年4月","2026年5月","2026年6月","2026年7月","2026年8月"],"datas":[["101.1","100.5","99.3","99.8","99.9","99.7","100.1","100.1","100","100.6","99.7","100.8","101.1","99.4","100.2","99.7","100.2","100.5","99.4","100.3","100.1","100","99.4","100.5","101.5","99.2","99.6","99.8","99.7","99.6","100.2","101.3","100","99.7","98.4","100","100.1","100.9","99","100.4","100.1","99.8","100.6","100.2","99.7","99.9","99.5","100","100.8","99.7","99.3","100.1","99.7","99.7","100.5","100.2","100.0","100.4","99.8","100.1","100.4","102.0","98.8","100.3","99.8","99.7","99.7","100.4"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '固定资产投资',
+                    "s2": '固定资产投资主要数据',
+                    "s3": '月度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["固定资产投资_累计增长（%）"],"name":["固定资产投资_累计增长（%）"],"periods":["2018/2","2018/3","2018/4","2018/5","2018/6","2018/7","2018/8","2018/9","2018/10","2018/11","2018/12","2019/2","2019/3","2019/4","2019/5","2019/6","2019/7","2019/8","2019/9","2019/10","2019/11","2019/12","2020/2","2020/3","2020/4","2020/5","2020/6","2020/7","2020/8","2020/9","2020/10","2020/11","2020/12","2021/2","2021/3","2021/4","2021/5","2021/6","2021/7","2021/8","2021/9","2021/10","2021/11","2021/12","2022/2","2022/3","2022/4","2022/5","2022/6","2022/7","2022/8","2022/9","2022/10","2022/11","2022/12","2023/2","2023/3","2023/4","2023/5","2023/6","2023/7","2023/8","2023/9","2023/10","2023/11","2023/12","2024/2","2024/3","2024/4","2024/5","2024/6","2024/7","2024/8","2024/9","2024/10","2024/11","2024/12","2025/2","2025/3","2025/4","2025/5","2025/6","2025/7","2025/8","2025/9","2025/10","2025/11","2025/12","2026/2","2026/3","2026/4","2026/5","2026/6","2026/7"],"periodTexts":["2018年2月","2018年3月","2018年4月","2018年5月","2018年6月","2018年7月","2018年8月","2018年9月","2018年10月","2018年11月","2018年12月","2019年2月","2019年3月","2019年4月","2019年5月","2019年6月","2019年7月","2019年8月","2019年9月","2019年10月","2019年11月","2019年12月","2020年2月","2020年3月","2020年4月","2020年5月","2020年6月","2020年7月","2020年8月","2020年9月","2020年10月","2020年11月","2020年12月","2021年2月","2021年3月","2021年4月","2021年5月","2021年6月","2021年7月","2021年8月","2021年9月","2021年10月","2021年11月","2021年12月","2022年2月","2022年3月","2022年4月","2022年5月","2022年6月","2022年7月","2022年8月","2022年9月","2022年10月","2022年11月","2022年12月","2023年2月","2023年3月","2023年4月","2023年5月","2023年6月","2023年7月","2023年8月","2023年9月","2023年10月","2023年11月","2023年12月","2024年2月","2024年3月","2024年4月","2024年5月","2024年6月","2024年7月","2024年8月","2024年9月","2024年10月","2024年11月","2024年12月","2025年2月","2025年3月","2025年4月","2025年5月","2025年6月","2025年7月","2025年8月","2025年9月","2025年10月","2025年11月","2025年12月","2026年2月","2026年3月","2026年4月","2026年5月","2026年6月","2026年7月"],"datas":[["26.1","17.3","10.8","-0.3","8.2","8.5","9.0","9.2","9.5","10.4","10.1","13.8","3.4","-3.0","-2.2","1.1","-1.9","-1.2","-4.2","-4.5","-1.7","1.6","-55","-40.9","-43.7","-26.5","-9.2","-6.3","-8.3","-3.9","-3.2","-6.9","-9.6","37.6","40.6","31.3","23.5","10.2","0.2","-6.6","-13.4","-16.5","-17.2","-16.5","37.3","10.2","8.4","-8.3","-18","-11.7","-5.3","0.8","3.0","0.4","-4.2","-44.8","-55.8","-49.0","-43.9","-39.3","-38.9","-32.0","-19.4","-13.1","-5.5","3.8","-26.2","9.7","2.5","-8.5","3.3","2.5","-1.4","-2.6","0.8","-3.4","0.1","5.8","6.1","3.9","5.8","6.2","2.5","-7.2","-19.7","-23.3","-15.5","-15.5","12.8","14.6","8.5","4.0","-14.3","-16.3"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+                    {
+                    "s1": '地区生产总值',
+                    "s2": '地区生产总值数据',
+                    "s3": '季度指标',
+                    "s4": "180",
+                    "s5": "",
+                    "s6": "",
+                    "s7": "",
+                    "s8": "",
+                    "s9": "",
+                    "s10": "",
+                    "s11": "",
+                    "s12": "",
+                    "s13": "",
+                    "s14": "",
+                    "s15": "",
+                    "s16": "",
+                    "s17": "",
+                    "s18": "",
+                    "s19": "",
+                    "s20": "",
+                    "d1": "",
+                    "d2": "",
+                    "d3": "",
+                    "d4": "",
+                    "d5": "",
+                    "i1": "",
+                    "i2": "",
+                    "i3": "",
+                    "t1": '{"indicators":["地区生产总值_累计值（亿元）","地区生产总值_同比增长（%）"],"name":["地区生产总值_累计值（亿元）","地区生产总值_同比增长（%）"],"periods":["2018/3","2018/6","2018/9","2018/12","2019/3","2019/6","2019/9","2019/12","2020/3","2020/6","2020/9","2020/12","2021/3","2021/6","2021/9","2021/12","2022/3","2022/6","2022/9","2022/12","2023/3","2023/6","2023/9","2023/12","2024/3","2024/6","2024/9","2024/12","2025/3","2025/6","2025/9","2025/12","2026/3","2026/6"],"periodTexts":["2018年3月","2018年6月","2018年9月","2018年12月","2019年3月","2019年6月","2019年9月","2019年12月","2020年3月","2020年6月","2020年9月","2020年12月","2021年3月","2021年6月","2021年9月","2021年12月","2022年3月","2022年6月","2022年9月","2022年12月","2023年3月","2023年6月","2023年9月","2023年12月","2024年3月","2024年6月","2024年9月","2024年12月","2025年3月","2025年6月","2025年9月","2025年12月","2026年3月","2026年6月"],"datas":[["54.46","97.45","164.74","254.28","66.8","114.98","183.75","282.85","75.1","139.1","208.84","301.43","87.81","156.49","225.34","339.2","99.42","178.73","246.33","367.71","99.21","178.27","249.55","370.19","100.33","179.33","248.27","362.49","105.17","189.16","262.38","376.91","111.56","199.42"],["6.2","7.5","8.2","8.7","9.6","9.9","9.8","8.1","-2.6","2.0","3.2","5.4","15","11","6.6","5.8","7.4","2.1","4.5","3.6","-1.7","0.0","0.7","3.0","0.4","0.3","0.2","0.2","6.1","5.9","5.0","4.8","5.6","5.2"]]}',
+                    "t2": "",
+                    "f1": "",
+                    "f2": "",
+                    "f3": "",
+                    "f4": "",
+                    "f5": "",
+                    "f6": "",
+                    "f7": "",
+                    "f8": "",
+                    "f9": "",
+                    "f10": ""
+                }
+                , 
+            
+            {
+                    "recid": "id"
+                }]
+            };
+
+
+
+			function initData(res) {
+				var s = null;
+	            s = staticData;
+				// var dType = typeof res;
+				// if (dType != "object") {
+				//     var trimLeft = /^\s+/;
+				//     var trimRight = /\s+$/;
+				//     var str = res.toString().replace(trimLeft, "").replace(trimRight, "");
+				//     str = str.replace(new RegExp("[\n\r]", "gm"), "");
+				//     try {
+				//         s = (new Function('return' + str))(); //
+				//     } catch (e) {
+				//         avalon.log("ERROR：转换文本为对象失败; 将使用静态值", e)
+				//         s = staticData;
+				//     }
+				// } else {
+				//     s = res;
+				// }
+				return s
+			}
+
+			function getJson(obj, callback) {
+				// body...
+				var defUrl = "";
+				var tarObj = null;
+				$.ajax({
+						url: obj.url || defUrl,
+						type: obj.type || "GET",
+						data: obj.data || {},
+						success: function(res) {
+
+							tarObj = initData(res);
+							tarObj.docs = tarObj.docs.reverse();
+							callback(tarObj);
+						},
+						error: function(e) {
+							avalon.log("error", e);
+						}
+					})
+					// callback(tj_data);
+			}
+
+			function inAfterAjax(ajaxData) {
+				var docs = ajaxData.docs;
+				var data = [];
+				for (var i = 1; i < docs.length; i++) {
+					var item = docs[i];
+					var itemArr = [];
+
+					var s5Str = item.t1;
+					s5Str = s5Str.replace(/null月/ig, "");
+					// console.log(s5Str)
+					// var s5Arr = (new Function('return' + item.s5))();
+					// var s5Arr = (new Function('return' + item.t1))();
+					var s5Arr = (new Function('return' + s5Str))();
+					for (var j = 0; j < s5Arr.name.length; j++) {
+						var obj = {
+							title: item.s1,
+							name: s5Arr.name[j],
+							datas: s5Arr.datas[j],
+							periodTexts: s5Arr.periodTexts,
+							dateData: s5Arr.periods,
+							dataId: item.metadataid,
+							type: item.s3 === '年度指标' ? 1 : item.s3 === '月度指标' ? 2 : 3,
+							isNull: true
+						}
+						for (var x = 0; x < obj.datas.length; x++) {
+							if (obj.datas[x] != null) {
+								obj.isNull = false;
+								break;
+							}
+						}
+						itemArr.push(obj);
+					}
+					data.push(itemArr);
+				}
+				return data;
+			}
+
+			function initSearch(dateArr, dataType) {
+				var obj = {
+					dateData: {},
+					dateObj: {}
+				}
+				var jdDate = {
+					dateData: {},
+					dateObj: {}
+				}
+
+				for (var i = 0; i < dateArr.length; i++) {
+					var itemDateArr = dateArr[i].split('/');
+					var year = itemDateArr[0];
+					if (!obj.dateData[year]) {
+						obj.dateData[year] = [];
+					}
+					// 新增&& dataType !==3
+					if (dataType !== 1 && dataType !==3) {
+						obj.dateData[year].push(itemDateArr[1]);;
+					}else{
+						// 20240313
+						if(itemDateArr[1] == 3){ itemDateArr[1] = "第1季度", obj.dateData[year].push(itemDateArr[1]) }
+						if(itemDateArr[1] == 6){ itemDateArr[1] = "第2季度", obj.dateData[year].push(itemDateArr[1]) }
+						if(itemDateArr[1] == 9){ itemDateArr[1] = "第3季度", obj.dateData[year].push(itemDateArr[1]) }
+						if(itemDateArr[1] == 12){ itemDateArr[1] = "第4季度", obj.dateData[year].push(itemDateArr[1]) }
+					}
+
+					if (i === 0) {
+						obj.dateObj.startYear = year;
+						// 新增&& dataType !==3
+						if (dataType !== 1 && dataType !==3) {
+							obj.dateObj.startMonth = itemDateArr[1];
+						}else{
+							// 20240313
+							obj.dateObj.startMonth = itemDateArr[1];
+						}
+					}
+					if (i === dateArr.length - 1) {
+						obj.dateObj.endYear = year;
+						// 新增&& dataType !==3
+						if (dataType !== 1 && dataType !==3) {
+							obj.dateObj.endMonth = itemDateArr[1];
+						}else{
+							// 20240313
+							obj.dateObj.endMonth = itemDateArr[1];
+						}
+					}
+				}
+				return obj;
+			}
+
+			function filterData(data, searchObj, dataType) {
+				var arr = [];
+				var startTime = searchObj.startYear;
+				var endTime = searchObj.endYear;
+				var startIndex = 0;
+				var endIndex = 0;
+				var dateArr = data[0].dateData;
+
+				// 新增&& dataType !==3
+				if (dataType !== 1 && dataType !==3) {
+					startTime = startTime + (searchObj.startMonth.length < 2 ? '0' + searchObj.startMonth : searchObj.startMonth);
+					endTime = endTime + (searchObj.endMonth.length < 2 ? '0' + searchObj.endMonth : searchObj.endMonth);
+				}else{
+					// 20240313
+					if(searchObj.startMonth == "第1季度"){ searchObj.startMonth = '03'}
+					if(searchObj.startMonth == "第2季度"){ searchObj.startMonth = '06'}
+					if(searchObj.startMonth == "第3季度"){ searchObj.startMonth = '09'}
+					if(searchObj.startMonth == "第4季度"){ searchObj.startMonth = '12'}
+					startTime = startTime + searchObj.startMonth;
+					if(searchObj.endMonth == "第1季度"){ searchObj.endMonth = '03'}
+					if(searchObj.endMonth == "第2季度"){ searchObj.endMonth = '06'}
+					if(searchObj.endMonth == "第3季度"){ searchObj.endMonth = '09'}
+					if(searchObj.endMonth == "第4季度"){ searchObj.endMonth = '12'}
+					endTime = endTime + searchObj.endMonth;
+				}
+
+				startTime = parseInt(startTime);
+				endTime = parseInt(endTime);
+
+				for (var i = 0; i < dateArr.length; i++) {
+					var oDate = dateArr[i].split('/');
+					var oDateVal = oDate[0];
+					if (dataType !== 1) {
+						oDateVal = oDateVal + (oDate[1].length < 2 ? '0' + oDate[1] : oDate[1]);
+					}
+					oDateVal = parseInt(oDateVal);
+
+					if (startTime === oDateVal) {
+						startIndex = i;
+					}
+					if (endTime === oDateVal) {
+						endIndex = i + 1;
+					}
+				}
+				for (var i = 0; i < data.length; i++) {
+					var itemData = data[i];
+					var obj = {
+						dataId: itemData.dataId,
+						datas: itemData.datas.slice(startIndex, endIndex),
+						dateData: itemData.dateData.slice(startIndex, endIndex),
+						isNull: itemData.isNull,
+						name: itemData.name,
+						periodTexts: itemData.periodTexts.slice(startIndex, endIndex),
+						title: itemData.title,
+						type: itemData.type
+					}
+					arr.push(obj);
+				}
+				return arr;
+			}
+			var clearFlags = function(name) {
+				var flagsArr = [
+					// "statisticsClassFlag",
+					"startYearFlag",
+					// "startMonthFlag",
+					"endYearFlag",
+					// "endMonthFlag"
+				];
+				for (var i = 0; i < 5; i++) {
+					if (name && name === flagsArr[i]) {
+
+					} else {
+						echar[flagsArr[i]] = false;
+					}
+				}
+			}
+
+			var echar = avalon.define({
+				$id: "eChar",
+				currIndex: 0,
+				cType: 0,
+				dataType: -1, //指标类型: 年度-1 月度-2 季度-3
+				startYearFlag: false,
+				startMonthFlag: false,
+				endYearFlag: false,
+				endMonthFlag: false,
+				localid: "",
+				map: keyMap,
+				tabMenu: [], //切换数组
+				firstTabObj: {},
+				allData: {}, //数据集合对象
+				defData: null,
+				isBarAndLine: false,
+				searchData: {}, // 初始化查询
+				searchObj: {
+					startYear: 0,
+					startMonth: 0,
+					endYear: 0,
+					endMonth: 0
+				}, // 选中的查询时间
+				$setType: function(curr) {
+					if (curr != undefined && typeof curr == "number") {
+						echar.currIndex = curr;
+					}
+					// echar.firstTabObj = echar.map[echar.currIndex];
+
+					echar.firstTabObj = {
+						i: echar.currIndex
+					}
+
+					echar.$getdata(echar.firstTabObj)
+				},
+				$getdata: function(tabobj) {
+					var obj = tabobj;
+					getJson(obj, function(d) {
+						echar.allData = inAfterAjax(d);
+
+						echar.localid = echar.allData[0].metadataid;
+						echar.$tabType(obj.i);
+						// echar.$tabType(1);
+					})
+				},
+				$tabType: function(index, isOnSearch) {
+					// if(index == 1){
+                    //     echar.isBarAndLine = true;
+                    // }else{
+                    //     echar.isBarAndLine = false;
+                    // }
+					
+					echar.currIndex = index;
+
+					var d = echar.allData[index].$model;
+					echar.dataType = d[0].type;
+
+					var _obj = initSearch(d[0].dateData, d[0].type);
+
+					echar.searchData = _obj.dateData;
+					if (isOnSearch) {
+						d = filterData(d, echar.searchObj.$model, d[0].type);
+					} else {
+						echar.searchObj = _obj.dateObj;
+					}
+
+					var colors = ['#5793f3', '#d14a61', '#675bba', '#5793f3', '#d14a61', '#675bba'];
+					var showType = ['bar', 'line', 'bar', 'line']
+					var nameGap = [50, 30, 80, 80]
+					var offset = [0, 0, 80]
+
+					var ops = {};
+					ops = {
+						title: {
+							text: ''
+						},
+						tooltip: {
+							trigger: 'item',
+							axisPointer: {
+								type: 'cross'
+							}
+						},
+						legend: {
+							x: 'bottom',
+							left: '10%',
+							bottom: '0%',
+							data: []
+						},
+						toolbox: {
+							right: 40,
+							itemSize: 18,
+							itemGap: 10,
+							showTitle: true,
+							feature: {
+								restore: {},
+								saveAsImage: {
+									pixelRatio: 2
+								}
+							}
+						},
+						xAxis: {
+							type: 'category',
+							data: []
+						},
+						yAxis: [],
+						series: []
+					};
+
+					var dataType = [];
+					var dataUnitIndex = -1;
+					var dataLineNum = 0;
+					var flagIsLine = false;
+
+					var typeArr = [];
+					var search__obj = {};
+
+					var barNum = 0;
+					var lineNum = 0;
+
+					for (var i = 0; i < d.length; i++) {
+						var data = d[i];
+						console.log(data);
+						ops.title.text = data.title;
+
+						// 判断是否没有数值
+						if (data.isNull) {
+							continue;
+						}
+						ops.legend.data.push(d[i].name);
+
+						var barColorsArr = [
+							['#eb9f9f', '#d31a09'],
+							['#4d93de', '#1b5a9e'],
+							['#3dbd86', '#3dbd86'],
+							['#3dbd86', '#1b5a9e']
+						];
+						var lineColorsArr = ['#ff6619', '#2779C4', '#3dbd86', '#ffae00'];
+
+						var lineModel = {
+							name: data.name,
+							type: 'line',
+							smooth: true,
+							showAllSymbol: true,
+							symbol: 'emptyCircle',
+							symbolSize: eCharLineStyle.symbolSize,
+							itemStyle: {
+								normal: {
+									color: lineColorsArr[lineNum],
+									borderWidth: eCharLineStyle.borderWidth
+								}
+							},
+							label: {
+								normal: {
+									show: true,
+									position: 'top',
+									color: lineColorsArr[lineNum],
+									fontSize: eCharLineStyle.labelFontSize
+								}
+							},
+							lineStyle: {
+								normal: {
+									width: eCharLineStyle.lineStyleWidth,
+									color: lineColorsArr[lineNum]
+								}
+							},
+							yAxisIndex: 0,
+							data: data.datas
+						};
+						if (index==0) {
+							lineModel.yAxisIndex =1
+						}
+						var barModel = {
+							name: data.name,
+							type: 'bar',
+							barGap: '0%',
+							barWidth: '50%',
+							barMaxWidth: 30,
+							itemStyle: {
+								normal: {
+									color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
+										offset: 0,
+										color: barColorsArr[barNum][0]
+									}, {
+										offset: 1,
+										color: barColorsArr[barNum][1]
+									}])
+								}
+							},
+							data: data.datas
+						}
+
+
+						flagIsLine = data.name.indexOf('%') != -1;
+
+						if (flagIsLine) {
+							// %单位共用一条 y轴
+							dataType.push('%');
+							dataUnitIndex = dataType.indexOf('%');
+							lineModel.yAxisIndex = dataUnitIndex != -1 ? dataUnitIndex : 0;
+							// var yAxisIndex = dataUnitIndex != -1 ? dataUnitIndex : 0;
+							ser = lineModel;
+							lineNum++;
+						} else {
+							// 普通单位共用一条 y轴
+							dataType.push('n');
+							dataUnitIndex = dataType.indexOf('n');
+
+							if (echar.isBarAndLine) {
+								ser = [barModel, lineModel];
+								lineNum++;
+							} else {
+								ser = barModel;
+							}
+							barNum++;
+						}
+
+						// ser.data = data.datas;
+						// 20240426
+						if (data.type == 3) {
+							var jdArr = [];
+							var jdStr = ""
+							for (var j = 0; j < data.dateData.length; j++) {
+
+								if (data.dateData[j].split("/")[1] == "3") { jdStr = data.dateData[j].split("/")[0] + '年' + '第1季度', jdArr.push(jdStr) }
+								if (data.dateData[j].split("/")[1] == "6") { jdStr = data.dateData[j].split("/")[0] + '年' + '第2季度', jdArr.push(jdStr) }
+								if (data.dateData[j].split("/")[1] == "9") { jdStr = data.dateData[j].split("/")[0] + '年' + '第3季度', jdArr.push(jdStr) }
+								if (data.dateData[j].split("/")[1] == "12") { jdStr = data.dateData[j].split("/")[0] + '年' + '第4季度', jdArr.push(jdStr) }
+							}
+							ops.xAxis.data = jdArr;
+						}
+						// 20240426
+						else {
+							ops.xAxis.data = data.periodTexts;
+						}
+						if (echar.isBarAndLine) {
+							for (var serIndex = 0; serIndex < 2; serIndex++) {
+								ops.series.push(ser[serIndex]);
+							}
+						} else {
+							ops.series.push(ser)
+						}
+                                               if(dataUnitIndex === i && data.name.indexOf("人均消费支出_累计同比") !=-1 || dataUnitIndex === i && data.name.indexOf("人均可支配收入_累计同比") !=-1){
+							// 全体居民人均消费支出
+							ops.yAxis.push({
+								nameLocation: 'center',
+								nameGap: nameGap[i],
+								boundaryGap: true,
+								offset: offset[i],
+								type: 'value',
+								name: data.name,
+								min: 2,
+								max: 10,
+								interval:1,
+								splitLine: {
+									show: false
+								},
+								axisLabel: {
+									// interval: 1,
+									formatter: '{value}'
+								}
+							})
+						}else if (dataUnitIndex === i && data.name.indexOf("居民消费价格指数") ===-1) {
+							ops.yAxis.push({
+								nameLocation: 'center',
+								nameGap: nameGap[i],
+								boundaryGap: true,
+								offset: offset[i],
+								type: 'value',
+								name: data.name,
+								// min: m_d,
+								// max: datas[datas.length - 1],
+								splitLine: {
+									show: false
+								},
+								axisLabel: {
+									interval: 1,
+									formatter: '{value}'
+								}
+							})
+						}else if(dataUnitIndex === i && data.name.indexOf("居民消费价格指数") !=-1){
+							// 20240313
+							ops.yAxis.push({
+								nameLocation: 'center',
+								nameGap: nameGap[i],
+								boundaryGap: true,
+								offset: offset[i],
+								type: 'value',
+								name: data.name,
+								min: 90,
+								max: 120,
+								interval:10,
+								splitLine: {
+									show: false
+								},
+								axisLabel: {
+									// interval: 1,
+									formatter: '{value}'
+								}
+							})
+						}
+						else {
+							ops.yAxis[dataUnitIndex].nameLocation = 'end';
+							ops.yAxis[dataUnitIndex].nameGap = 15;
+
+							if (dataType[dataUnitIndex] === '%') {
+								ops.yAxis[dataUnitIndex].name = '(单位：%)';
+							} else {
+								ops.yAxis[dataUnitIndex].name = '(单位：' + data.name.replace(/(.*)（(.*)）/,"$2") + ')';
+							}
+						}
+                                               
+					}
+
+					myChart.clear();
+					// console.log(ops);
+					myChart.setOption(ops);
+				},
+				OnChangeSearchTime: function(key, val) {
+					echar.searchObj[key] = val;
+				},
+				onSearch: function() {
+					echar.$tabType(echar.currIndex, true);
+				},
+				onChangeFlag: function(key, e) {
+					window.event ? window.event.cancelBubble = true : e.stopPropagation();
+					clearFlags(key);
+					echar[key] = !echar[key];
+				},
+			})
+			avalon.scan()
+			echar.$setType();
+
+			document.onclick = clearFlags;
+		});
+ </script>
+</body>
+
+</html>

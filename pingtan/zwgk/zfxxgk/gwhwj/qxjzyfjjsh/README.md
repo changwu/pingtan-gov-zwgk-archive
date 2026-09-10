@@ -1,4 +1,4 @@
-# zwgk/zfxxgk/gwhwj/qxjzyfjjsh
+# 抢险救灾、优抚、救济、社会捐助等款物的管理、使用和分配情况
 
 栏目路径: zwgk/zfxxgk/gwhwj/qxjzyfjjsh
 文档总数: 3 | 已完成: 3 | 失败: 0 | 排队: 0

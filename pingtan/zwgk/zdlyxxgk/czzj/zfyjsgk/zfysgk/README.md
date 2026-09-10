@@ -1,7 +1,7 @@
-# zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
+# 政府预算公开
 
 栏目路径: zwgk/zdlyxxgk/czzj/zfyjsgk/zfysgk
-文档总数: 167 | 已完成: 164 | 失败: 0 | 排队: 3
+文档总数: 167 | 已完成: 167 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|

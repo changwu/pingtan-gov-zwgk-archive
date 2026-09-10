@@ -1,11 +1,11 @@
-# zwgk/zfxxgk/dfbmptlj/ptzhsyqpq/ptzhsyqhtp/fdzdgknr/hzfggzhgfx
+# 行政法规、规章和规范性文件
 
 栏目路径: zwgk/zfxxgk/dfbmptlj/ptzhsyqpq/ptzhsyqhtp/fdzdgknr/hzfggzhgfx
-文档总数: 4 | 已完成: 0 | 失败: 0 | 排队: 4
+文档总数: 4 | 已完成: 4 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
-| 中共平潭综合实验区海坛片区管理局委员会关于成立内部审计工作领导小组的通知 | 2021-06-06 00:00:00 |  | queued |
-| 平潭综合实验区海坛片区管理局关于成立村（居）干部任期和离任经济责任审计工作领导小组的通知 | 2021-03-24 00:00:00 |  | queued |
-| 平潭综合实验区海坛片区管理局关于成立新时代文明实践所工作领导小组的通知 | 2021-03-11 00:00:00 |  | queued |
-| 平潭综合实验区海坛片区管理局关于成立内部审计统计工作领导小组的通知 | 2021-03-09 00:00:00 |  | queued |
+| 中共平潭综合实验区海坛片区管理局委员会关于成立内部审计工作领导小组的通知 | 2021-06-06 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqpq/ptzhsyqhtp/fdzdgknr/hzfggzhgfx/202106/73692_中共平潭综合实验区海坛片区管理局委员会关于成立内部审计工作领导小组的通知/page.txt | done |
+| 平潭综合实验区海坛片区管理局关于成立村（居）干部任期和离任经济责任审计工作领导小组的通知 | 2021-03-24 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqpq/ptzhsyqhtp/fdzdgknr/hzfggzhgfx/202103/73024_平潭综合实验区海坛片区管理局关于成立村（居）干部任期和离任经济责任审计工作领导小/page.txt | done |
+| 平潭综合实验区海坛片区管理局关于成立新时代文明实践所工作领导小组的通知 | 2021-03-11 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqpq/ptzhsyqhtp/fdzdgknr/hzfggzhgfx/202103/72919_平潭综合实验区海坛片区管理局关于成立新时代文明实践所工作领导小组的通知/page.txt | done |
+| 平潭综合实验区海坛片区管理局关于成立内部审计统计工作领导小组的通知 | 2021-03-09 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqpq/ptzhsyqhtp/fdzdgknr/hzfggzhgfx/202103/72918_平潭综合实验区海坛片区管理局关于成立内部审计统计工作领导小组的通知/page.txt | done |

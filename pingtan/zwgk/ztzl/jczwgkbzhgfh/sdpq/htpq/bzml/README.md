@@ -1,12 +1,12 @@
-# zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml
+# 标准目录
 
 栏目路径: zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml
-文档总数: 5 | 已完成: 0 | 失败: 0 | 排队: 5
+文档总数: 5 | 已完成: 5 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
-| 海坛片区管理局基层政务公开标准目录 |  |  | queued |
-| 海坛片区管理局基层政务公开标准目录（修订版） |  |  | queued |
-| 海坛片区管理局基层政务公开标准目录（修订版） |  |  | queued |
-| 平潭综合实验区海坛片区管理局关于公布证明事项告知承诺制的行政事项目录（第一批）的公告 |  |  | queued |
-| 海坛片区管理局基层政务公开标准目录（修订版） |  |  | queued |
+| 海坛片区管理局基层政务公开标准目录 |  | zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml/202011/23499_海坛片区管理局基层政务公开标准目录/page.txt | done |
+| 海坛片区管理局基层政务公开标准目录（修订版） |  | zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml/202012/24150_海坛片区管理局基层政务公开标准目录（修订版）/page.txt | done |
+| 海坛片区管理局基层政务公开标准目录（修订版） |  | zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml/202012/24147_海坛片区管理局基层政务公开标准目录（修订版）/page.txt | done |
+| 平潭综合实验区海坛片区管理局关于公布证明事项告知承诺制的行政事项目录（第一批）的公告 |  | zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml/202103/25037_平潭综合实验区海坛片区管理局关于公布证明事项告知承诺制的行政事项目录（第一批）的/page.txt | done |
+| 海坛片区管理局基层政务公开标准目录（修订版） |  | zwgk/ztzl/jczwgkbzhgfh/sdpq/htpq/bzml/202012/24151_海坛片区管理局基层政务公开标准目录（修订版）/page.txt | done |

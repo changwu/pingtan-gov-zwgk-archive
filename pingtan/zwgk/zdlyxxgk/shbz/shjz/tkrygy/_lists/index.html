@@ -1,0 +1,1360 @@
+<!DOCTYPE html>
+<html ms-controller="windowRoot" ms-class="slb:isSlb">
+<head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="x-UA-Compatible" content="IE=Edge,Chrome=1" />
+	<meta name="SiteName" content="平潭综合实验区党工委管委会"/>
+<meta name="SiteDomain" content="www.pingtan.gov.cn">
+<meta name="SiteIDCode" content="3590000001"/>
+<meta name="ColumnName" content="特困人员供养"/>
+<meta name="ColumnDescription" content="特困人员供养"/>
+<meta name="ColumnKeywords" content="特困人员供养"/>
+<meta name="ColumnType" content="特困人员供养"/>
+<meta name="Keywords" content="平潭，中国平潭，福建平潭，平潭综合实验区党工委管委会"/>
+<meta name="Description" content="中国平潭，福建平潭，平潭综合实验区党工委管委会，平潭综合实验区党工委管委会门户网站是平潭综合实验区党工委管委会在国际互联网上发布政务信息、提供在线服务和公众参与的综合服务平台。"/>
+<meta name="ChnlId" content="809">
+<meta name="SiteId" content="4"/>
+	<title>
+		特困人员供养_平潭综合实验区党工委管委会
+	</title>
+	<link rel="stylesheet" type="text/css" href="/images/trt_iconfont_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_ui_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_component_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_media_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/230214_laydate.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_header.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_footer.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_style.css">
+<link rel="stylesheet" type="text/css" href="/images/23pingtan.css">
+
+</head>
+<body>
+	<div class="wrap">
+		<!--头部开始-->
+		<div class="header menu_hov">
+	<div class="row">
+		<div class="logo trt-col-9">
+			<img src="/images/gh_logo.png" />
+			<a href="/"><img src="/images/site_logo.png" /></a>
+		</div>
+		<div class="header_line clearflx" role="serve" des="头部信息">
+			<div class="header_link_01">
+				<a href="https://www.gov.cn/" Target="_blank" title="国务院" class="btn_base btn_outline btn_outline_primary btn_small">国务院</a>
+				<a href="https://www.fujian.gov.cn/" Target="_blank" title="省政府" class="btn_base btn_outline btn_outline_primary btn_small">省政府</a>
+				<a href="https://www.fjrd.gov.cn/" Target="_blank" title="省人大" class="btn_base btn_outline btn_outline_primary btn_small">省人大</a>
+				<a href="http://www.fjzx.gov.cn/" Target="_blank" title="省政协" class="btn_base btn_outline btn_outline_primary btn_small">省政协</a>
+			</div>
+			<div class="header_link_02">
+				<!-- <a href="#">繁体版</a> -->
+				<script src="/images/pt-langBig5.js" type="text/javascript"></script>
+				<a href="javascript:;" class="none_sm">移动版</a>
+				<div class="mzt_ewm">
+					<div><img src="/images/20xmszf_mzt_ewm.png" /></div>
+					<p>闽政通APP</p>
+				</div>
+			</div>
+			<div class="header_link_02 none_sm">				
+				<em ms-visible="!isLogin">
+					<a id="logined" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$login" target="_blank" >登录</a>
+					<a id="logined" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()">登录</a>
+					<a id="registered" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$register" >注册</a>
+					<a id="registered" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()" >注册</a>
+				</em>
+				<em ms-visible="isLogin" style="display:none;">
+					<a href="/uc/indexs/index" ms-attr-title='loginInfo.showname'>你好，<font ms-text="loginInfo.showname | truncate(12)"></font></a>
+					<a ms-attr-href="logoutUrl">注销</a>
+				</em>
+			</div>
+			<span>网站支持IPV6</span>
+		</div>
+		<div class="menu_base menu_right menu_hd">
+			<ul class="clearflx" role="navigation" des="站点主目录">
+				<!--有下拉菜单的li加上parentNode-->
+				<li ms-class="on:RootPath==''"><a href="/">首页</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='zwgk' || paths[4]=='zfxxgk'"><a href="https://www.pingtan.gov.cn/zwgk/">政务公开</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='jdhy'"><a href="https://www.pingtan.gov.cn/jdhy/">解读回应</a></li>
+				<li class="parentNode"  ms-class="on:paths[3]=='bsfw'"><a href="https://www.pingtan.gov.cn/bsfw/">办事服务</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='hdjl'"><a href="https://www.pingtan.gov.cn/hdjl/">互动交流</a></li>
+				<li ms-class="on:paths[3]=='zjpt'"><a href="https://www.pingtan.gov.cn/zjpt/">走进平潭</a></li>
+			</ul>
+		</div>
+		<div class="search_fixed">
+			<form method="get" action="/ssp/main/index.html" target="_blank">
+				<input type="hidden" name="siteId" value="402804278b376967018b3771d3370002" />
+				<input type="text" placeholder="请输入搜索内容" name="key" required="required" class="form-control" />
+				<button class="btn_base"><i class="trt-iconfont trt-icon-sousuo"></i></button>
+			</form>
+		</div>
+	</div>
+	<div class="submenu menu_bd">
+		<div class="row">
+			<div></div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfxxgk/" target="_blank" title="政府信息公开">政府信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ldzc/" target="_blank" title="领导之窗">领导之窗</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zzjg/" target="_blank" title="政府机构">政府机构</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/yw/" target="_blank" title="要闻">要闻</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfhy/" target="_blank" title="政府会议">政府会议</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zxwj/" target="_blank" title="最新文件">最新文件</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zcwjk/" target="_blank" title="政策文件库">政策文件库</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfgzbg/" target="_blank" title="政府工作报告">政府工作报告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/gsgg/" target="_blank" title="公示公告">公示公告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ghxx/" target="_blank" title="规划信息">规划信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/rsxx/" target="_blank" title="人事信息">人事信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/tjxx/" target="_blank" title="统计信息">统计信息</a>
+                 
+                    <a href="https://data.fujian.gov.cn/#/oportal/index" target="_blank" title="数据开放">数据开放</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zdlyxxgk/" target="_blank" title="重点领域信息公开">重点领域信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ztzl/" target="_blank" title="专题专栏">专题专栏</a>
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/jdhy/zcjd/" target="_blank" title="平潭政策解读">平潭政策解读</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/xwfbh/" target="_blank" title="新闻发布会">新闻发布会</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/hygq/" target="_blank" title="回应关切">回应关切</a>  
+                
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105" target="_blank" title="福建网上办事大厅">福建网上办事大厅</a>  
+                 
+                    <a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>  
+                 
+                    <a href="https://www.fujian.gov.cn/bsfw/mztapp/" target="_blank" title="闽政通APP">闽政通APP</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/zjpt/cypt/" target="_blank" title="畅游平潭">畅游平潭</a>  
+                
+				<a href="https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/" target="_blank" title="政务地图">政务地图</a>  
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://12345.pingtan.gov.cn/" target="_blank" title="12345便民惠企服务平台">12345便民惠企服务平台</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/zxft/" target="_blank" title="在线访谈">在线访谈</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/wsdc/" target="_blank" title="网上调查">网上调查</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/myzj/" target="_blank" title="民意征集">民意征集</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/hdjlzsk/" target="_blank" title="互动交流知识库">互动交流知识库</a>  
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div></div>
+		</div>
+	</div>
+</div>
+<div class="banner_header">
+	<div class="row">
+		<div class="trt-row">
+			<div class="trt-col-7 trt-col-sm-0">
+				<div class="area_weather">
+					<p><font ms-text="now|date('yyyy年MM月dd日 EEEE')"></font></p>
+					<p font ms-text="weather+''+temp"></p>
+					<p id="weather-box"><iframe id="tianqi" class='tianqi-box' width="260" height="26"  scrolling="no"  frameborder="0" allowtransparency="true" src="https://i-tianqi-comx3211968723868xx.ipv6best.cn?c=code&id=26&color=%23FFFFFF&icon=1&py=pingtan&site=16"></iframe></p>
+				</div>
+			</div>
+			<div class="trt-col-10 trt-col-sm-18" role="interaction" des="搜索">
+				<div class="search_area" id="header">
+					<form ms-attr-action="searchAction" ms-blur="$togLinkkey" target="_blank" ms-submit="$setHistoryList()" ms-if="!avalon.vmodels.windowRoot.isStatic" > 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>
+					<form onkeydown="avalon.vmodels.windowRoot.staticDialog()" ms-if="avalon.vmodels.windowRoot.isStatic" style="display: none" ms-visible="avalon.vmodels.windowRoot.isStatic"> 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>					
+					<div class="search_content shadow_base" Id="searchTag" ms-if="!avalon.vmodels.windowRoot.isStatic" >
+						<div class="search_history" ms-visible="searchTips.historyKeys.length > 0" style="display: none">
+							<span>历史搜索：</span>
+							<a ms-if-loop="$index<4" ms-repeat="searchTips.historyKeys" href="javascript:;" ms-text="el" ms-click="$setPost(el)"> <i class="trt-iconfont trt-icon-dacha"></i></a>
+						</div>
+						<div class="search_top">
+							<span>热门搜索：</span>
+							<a ms-repeat="hotWords" href="javascript:;" ms-text="el.title" ms-click="$setPost(el.title)"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="trt-col-7 trt-col-sm-6 slb-trt-col-sm-24 text_align_right">
+				<div class="aged_link">
+                    <a href="javascript:void(0);" class="aged_link_01" ms-click="$inSlb()" ms-visible="!isSlb">长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_01 none" ms-click="$outSlb()" ms-visible="isSlb">退出长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_02" Id="barrierFreeBtn"><font id="WzaStatus">无障碍浏览</font></a>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+		<!--头部结束-->
+		<div class="main">
+			<div class="content mar_t_large mar_t_base_sm">
+				<div class="row content_bg_02 pad_large pad_base_sm shadow_base border_radius_large">
+					<!--模板从这边开始拷贝-->
+					<div class="breadcrumb" role='navigation' des="当前位置">
+						<span><i class="trt-iconfont trt-icon-weizhi"></i>当前位置：</span>
+						<ul>
+							<li><a href="../../../../../" title="首页" class="active">首页</a></li><li><a href="../../../../" title="政务公开" class="active">政务公开</a></li><li><a href="../../../" title="重点领域信息公开" class="active">重点领域信息公开</a></li><li><a href="../../" title="社会保障" class="active">社会保障</a></li><li><a href="../" title="社会救助" class="active">社会救助</a></li><li><a href="./" title="特困人员供养" class="active">特困人员供养</a></li>
+						</ul>
+					</div>
+					<div class="pad_l_base pad_r_base pad_l_base0_sm pad_r_base0_sm pingtgl">
+						<div class="title_extend clearflx mar_t_small mar_t_base0_sm">
+							<div class="title_extend_left">
+								<div class="title_base current_title clearflx">
+									<div class="title_name">特困人员供养</div>
+								</div>
+							</div>
+							<div class="title_extend_right">
+								<div class="title_more">
+									<button type="button" class="btn_base btn_outline btn_outline_info dropdown_toggle"><i class="trt-iconfont trt-icon-caidan caret"></i><span>更多栏目</span></button>
+									<ul class="dropdown_menu dropdown_menu-right">
+										
+											
+											
+												<li>
+													<a href="../cxdb/" title="城乡低保">城乡低保</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../yljz/" title="医疗救助">医疗救助</a>
+												</li>
+											
+										
+											
+												<li class="on">
+													<a href="./" title="特困人员供养">特困人员供养</a>
+												</li>
+											
+											
+										
+											
+											
+												<li>
+													<a href="../jyjz/" title="教育救助">教育救助</a>
+												</li>
+											
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+						<div class="filter_area content_bg_01 mar_t_small mar_t_xs_sm pad_t_small pad_b_small pad_l_large pad_r_large pad_t_xs_sm pad_small_sm" ms-controller="list" role="interaction" des="搜索">
+							<div class="tag_group">
+								<label>发布时间:</label>
+								<div class="tag_base">
+									<span class="on" ms-repeat="helps.publishyearItems" ms-class="on:el.value==searchForm.publishyear">
+										<a ms-click="$setVal('publishyear',el.value,$event)" href="javascript:void(0);">
+										  <font ms-text="el.name"></font>
+										  <em ms-visible="el.count" ms-text="'('+el.count + ')'"></em>
+										</a>
+									</span>
+								</div>
+							</div>
+							<div class="border_b_solid_01 mar_t_xs mar_b_small mar_t_small_sm"></div>
+							<div class="trt-row tag_group">
+								<div class="none_sm"><label>关键字:</label></div>
+								<div class="input_group trt-col-14 trt-col-sm-24 slb-trt-col-20 slb-trt-col-sm-24">
+									<input type="text" class="form_control" placeholder="请输入关键字搜索" ms-duplex="searchForm.key" />
+									<div class="input_group_btn">
+                      <button type="button" class="btn_base btn_primary" ms-click="$search" alt="搜索">搜索</button>
+										<!-- <button type="button" class="btn_base btn_primary" ms-visible="!avalon.vmodels.list.searchFlag" ms-click="$search" alt="搜索">搜索</button> -->
+										<button type="button" class="btn_base btn_warning" ms-visible="searchFlag"  ms-click="$cancalSearch" alt="取消搜索">取消搜索</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!--有文件类型的概览-->
+						<div class="list_base list_base_date_01 list_base_file_type mar_t_base mar_t_small_sm" ms-controller="list" role="viewlist" des='特困人员供养'>
+							<div ms-visible="showStatic">
+								
+									<div ms-visible="$showStatic(1)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/GzSJg5_vysGseAZKhj9KgQ" target="_blank" title="他山之石｜多地民政创新案例盘点">他山之石｜多地民政创新案例盘点</a>
+											<em id="rel_108739"></em>
+											<span class="bf-pass">2026-09-04</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/dKVBk654cDuwRiXkfL8TpA" target="_blank" title="最多可获1.5万元！福建启动“爱•福蕾”困境儿童重特大疾病救助项目">最多可获1.5万元！福建启动“爱•福蕾”困境儿童重特大疾病救助项目</a>
+											<em id="rel_108615"></em>
+											<span class="bf-pass">2026-08-28</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/7GRcNKhwnMG-51NMzjQc5g" target="_blank" title="民政部、财政部联合发文：积极发展服务类社会救助">民政部、财政部联合发文：积极发展服务类社会救助</a>
+											<em id="rel_108513"></em>
+											<span class="bf-pass">2026-08-21</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/FM4kygA28QefFGY4z_9wCw" target="_blank" title="江尔雄副省长调研民政工作">江尔雄副省长调研民政工作</a>
+											<em id="rel_108428"></em>
+											<span class="bf-pass">2026-08-14</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/pFfoIXsRr8MsBLd0qjwpXw" target="_blank" title="让法治的阳光温暖每一位困难群众">让法治的阳光温暖每一位困难群众</a>
+											<em id="rel_108298"></em>
+											<span class="bf-pass">2026-08-07</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(6)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/mI7Q-Kbt6XMwhgKFi0Y12w" target="_blank" title="2026年平潭综合实验区困难群众救助帮扶清单">2026年平潭综合实验区困难群众救助帮扶清单</a>
+											<em id="rel_108176"></em>
+											<span class="bf-pass">2026-07-31</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/KCV4FHWEp3vUNkICX7UYhg" target="_blank" title="多维普法让《社会救助法》走进千家万户">多维普法让《社会救助法》走进千家万户</a>
+											<em id="rel_108096"></em>
+											<span class="bf-pass">2026-07-24</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/wntrQxgQ77tNV34eGzUiUA" target="_blank" title="福享乐龄 |《2025年度福建省老龄事业发展公报》新鲜发布！">福享乐龄 |《2025年度福建省老龄事业发展公报》新鲜发布！</a>
+											<em id="rel_107956"></em>
+											<span class="bf-pass">2026-07-17</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/6Nf6WuvaSAR91h0Xbgobwg" target="_blank" title="省民政厅召开专题会议传达贯彻习近平总书记重要指示和省委常委会会议精神">省民政厅召开专题会议传达贯彻习近平总书记重要指示和省委常委会会议精神</a>
+											<em id="rel_107796"></em>
+											<span class="bf-pass">2026-07-10</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/9xvtSr_mZSm2x4Vz2pwI2A" target="_blank" title="图解社会救助法系列①：哪些人可以纳入救助？8类人可以！">图解社会救助法系列①：哪些人可以纳入救助？8类人可以！</a>
+											<em id="rel_107715"></em>
+											<span class="bf-pass">2026-07-03</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(11)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/mAlq-DTCOsqXvFlrhbQJXA" target="_blank" title="民政部等7部门联合印发《关于学习宣传贯彻〈中华人民共和国社会救助法〉的通知》">民政部等7部门联合印发《关于学习宣传贯彻〈中华人民共和国社会救助法〉的通知》</a>
+											<em id="rel_107553"></em>
+											<span class="bf-pass">2026-06-26</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/svITn5vIHtAJuPprnKTd7A" target="_blank" title="国新办举行“新征程上的奋斗者”民政专场中外记者见面会">国新办举行“新征程上的奋斗者”民政专场中外记者见面会</a>
+											<em id="rel_107552"></em>
+											<span class="bf-pass">2026-06-26</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/kw_zIV4ONnu4hxuaiyPR4A" target="_blank" title="学习宣传贯彻《中华人民共和国社会救助法》问答（二）">学习宣传贯彻《中华人民共和国社会救助法》问答（二）</a>
+											<em id="rel_107390"></em>
+											<span class="bf-pass">2026-06-18</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/XqRsWu7H3CHoV_vReXMXNg" target="_blank" title="学习宣传贯彻《中华人民共和国社会救助法》问答">学习宣传贯彻《中华人民共和国社会救助法》问答</a>
+											<em id="rel_107388"></em>
+											<span class="bf-pass">2026-06-16</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/R_sQODrLB0CepO6bLi_5jQ" target="_blank" title="一文读懂｜残疾人两项补贴谁能领、领多少、怎么领？">一文读懂｜残疾人两项补贴谁能领、领多少、怎么领？</a>
+											<em id="rel_107177"></em>
+											<span class="bf-pass">2026-06-05</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(16)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/hq6nMCUmtKK4YR1MJIFkjA" target="_blank" title="国务院关于推行常住地提供基本公共服务的实施意见">国务院关于推行常住地提供基本公共服务的实施意见</a>
+											<em id="rel_107021"></em>
+											<span class="bf-pass">2026-05-29</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/FgVdkAn2eugv4voK_pnyLA" target="_blank" title="省民政厅党组书记陆菁在《中国民政》发表署名文章:树立和践行正确政绩观 描绘“福建民政·福满家园”幸福画卷">省民政厅党组书记陆菁在《中国民政》发表署名文章:树立和践行正确政绩观 描绘“福建民政·福满家园”幸福画卷</a>
+											<em id="rel_106865"></em>
+											<span class="bf-pass">2026-05-22</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/87OUCpDIf6PMdlTck31ELg" target="_blank" title="社会救助法7月起施行 将保障哪些群体？一文了解">社会救助法7月起施行 将保障哪些群体？一文了解</a>
+											<em id="rel_106692"></em>
+											<span class="bf-pass">2026-05-15</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/3LNYPV3Zj2vWLpdWOk9ZjQ" target="_blank" title="民政部党组书记、部长陆治原：做好民政领域投资于人大文章">民政部党组书记、部长陆治原：做好民政领域投资于人大文章</a>
+											<em id="rel_106584"></em>
+											<span class="bf-pass">2026-05-09</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/-ERrKY6XVAgpQ0Y5Tpx6bw" target="_blank" title="民政部举行2026年第二季度例行新闻发布会">民政部举行2026年第二季度例行新闻发布会</a>
+											<em id="rel_106499"></em>
+											<span class="bf-pass">2026-05-02</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(21)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/zBUcXBzUsHWtX5NpUoCIlg" target="_blank" title="深学笃行全会精神 践行正确政绩观 奋力谱写福建民政高质量发展新篇章——全省民政系统领导干部专题研讨班在谷文昌干部学院举办">深学笃行全会精神 践行正确政绩观 奋力谱写福建民政高质量发展新篇章——全省民政系统领导干部专题研讨班在谷文昌干部学院举办</a>
+											<em id="rel_106395"></em>
+											<span class="bf-pass">2026-04-24</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/r1CUPElpVj4IPEmiCHITtg" target="_blank" title="省民政厅召开党组会议传达学习贯彻赵龙省长调研讲话精神">省民政厅召开党组会议传达学习贯彻赵龙省长调研讲话精神</a>
+											<em id="rel_106287"></em>
+											<span class="bf-pass">2026-04-17</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/uQiIOiXfsucLUXwp3I240w" target="_blank" title="赵龙调研民政民生、民族宗教、广播电视工作">赵龙调研民政民生、民族宗教、广播电视工作</a>
+											<em id="rel_106135"></em>
+											<span class="bf-pass">2026-04-10</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/Q6xpRMBD1vmeLxuF5v95cA" target="_blank" title="民政部召开2026年全面从严治党、党风廉政建设和反腐败工作会议">民政部召开2026年全面从严治党、党风廉政建设和反腐败工作会议</a>
+											<em id="rel_106079"></em>
+											<span class="bf-pass">2026-04-04</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/rcxCtier88C7pqiAeRhkUA" target="_blank" title="民政部传达学习贯彻全国两会精神">民政部传达学习贯彻全国两会精神</a>
+											<em id="rel_105897"></em>
+											<span class="bf-pass">2026-03-27</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(26)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/zAvF2sEym4XwV68NWEn5Ug" target="_blank" title="“十五五”规划纲要，全文来了！">“十五五”规划纲要，全文来了！</a>
+											<em id="rel_105746"></em>
+											<span class="bf-pass">2026-03-20</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/6QaBwVFQijhkdkQAp0Fesg" target="_blank" title="这些你关心的问题，民政部部长都给出了答案~">这些你关心的问题，民政部部长都给出了答案~</a>
+											<em id="rel_105572"></em>
+											<span class="bf-pass">2026-03-13</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/cLKhhuElRjc2rbceSnjknw" target="_blank" title="速看！政府工作报告中的民政部署来了→">速看！政府工作报告中的民政部署来了→</a>
+											<em id="rel_105468"></em>
+											<span class="bf-pass">2026-03-07</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/WPdZA56gDkMoZcO7vhHX6w" target="_blank" title="新春送暖 | 兜底线、解民忧！福建民政情暖困难群众">新春送暖 | 兜底线、解民忧！福建民政情暖困难群众</a>
+											<em id="rel_105366"></em>
+											<span class="bf-pass">2026-02-28</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/BxXNGRL4hqRl6h6lGFspyA" target="_blank" title="陆治原在《求是》杂志发表署名文章：提高民政工作服务民生水平">陆治原在《求是》杂志发表署名文章：提高民政工作服务民生水平</a>
+											<em id="rel_105246"></em>
+											<span class="bf-pass">2026-02-19</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(31)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/0qNgGcwaLHAixUMBEnCxVw" target="_blank" title="一图读懂 | 2026年福建民政工作怎么做">一图读懂 | 2026年福建民政工作怎么做</a>
+											<em id="rel_105210"></em>
+											<span class="bf-pass">2026-02-13</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/Nh0rGMQp5FnQah0YxRYl_w" target="_blank" title="2026年全省民政工作会议在福州召开">2026年全省民政工作会议在福州召开</a>
+											<em id="rel_105084"></em>
+											<span class="bf-pass">2026-02-05</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/fBVjvkYi_nuCQn86-n2aGA" target="_blank" title="福建省正式实施面向中度以上失能老年人的养老服务消费补贴项目">福建省正式实施面向中度以上失能老年人的养老服务消费补贴项目</a>
+											<em id="rel_104896"></em>
+											<span class="bf-pass">2026-01-30</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/dXn2w0rOqyX5jIwjOQQuyg" target="_blank" title="省民政厅召开全省民政系统重点工作推进会">省民政厅召开全省民政系统重点工作推进会</a>
+											<em id="rel_104649"></em>
+											<span class="bf-pass">2026-01-16</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/5OW82aql1Ykar5bxG3BJPQ" target="_blank" title="民政部老龄工作司司长黄胜伟：深入学习贯彻党的二十届四中全会精神 谋划推动“十五五”老龄事业高质量发展">民政部老龄工作司司长黄胜伟：深入学习贯彻党的二十届四中全会精神 谋划推动“十五五”老龄事业高质量发展</a>
+											<em id="rel_104485"></em>
+											<span class="bf-pass">2026-01-08</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(36)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/tAIlNPCJGNEQ7t8fJK6hOA" target="_blank" title="心系“国之大者”  回应“民之所盼”——2025年全国民政事业发展综述">心系“国之大者”  回应“民之所盼”——2025年全国民政事业发展综述</a>
+											<em id="rel_104329"></em>
+											<span class="bf-pass">2025-12-31</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/UIiZqQy_9Jm0AgeynYB6LA" target="_blank" title="中办国办：做好2026年元旦春节期间有关工作">中办国办：做好2026年元旦春节期间有关工作</a>
+											<em id="rel_104187"></em>
+											<span class="bf-pass">2025-12-25</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/YlgTNHM_Uve4RTePBxz1Xw" target="_blank" title="“八闽银龄行动”结对帮扶活动在龙岩举办，共绘老龄事业发展新图景">“八闽银龄行动”结对帮扶活动在龙岩举办，共绘老龄事业发展新图景</a>
+											<em id="rel_104111"></em>
+											<span class="bf-pass">2025-12-19</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/33MOBGyfKSSiwPJDNmQyJQ" target="_blank" title="2025年银杏志愿服务培训班在福州举行">2025年银杏志愿服务培训班在福州举行</a>
+											<em id="rel_103940"></em>
+											<span class="bf-pass">2025-12-11</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/TOKajMt-vDmB8TvgefZO1Q" target="_blank" title="闽港同心，福建慈善力量驰援香港大埔灾后救援">闽港同心，福建慈善力量驰援香港大埔灾后救援</a>
+											<em id="rel_103808"></em>
+											<span class="bf-pass">2025-12-05</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(41)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/8hNqnou4R4G-uPRLCpylqQ" target="_blank" title="民政部、中国残联召开全国重度残疾人托养照护服务工作推进视频会">民政部、中国残联召开全国重度残疾人托养照护服务工作推进视频会</a>
+											<em id="rel_103631"></em>
+											<span class="bf-pass">2025-11-27</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/ab6G6Ur6LUBAethHuYUnjA" target="_blank" title="《中国民政》杂志评论员文章︱把全会的重要部署领会好落实好——论深入学习贯彻党的二十届四中全会精神（下）">《中国民政》杂志评论员文章︱把全会的重要部署领会好落实好——论深入学习贯彻党的二十届四中全会精神（下）</a>
+											<em id="rel_103472"></em>
+											<span class="bf-pass">2025-11-21</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/ZwtXuZEt3eelz847KhSWBw" target="_blank" title="学习课堂丨《习近平关于民政工作论述摘编》(2)">学习课堂丨《习近平关于民政工作论述摘编》(2)</a>
+											<em id="rel_103258"></em>
+											<span class="bf-pass">2025-11-14</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/L09L1--X_jbvxLDnu35ltw" target="_blank" title="学习课堂｜《习近平关于民政工作论述摘编》（1）">学习课堂｜《习近平关于民政工作论述摘编》（1）</a>
+											<em id="rel_102977"></em>
+											<span class="bf-pass">2025-11-06</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/zWXEDnukBrTjVR8wqfL3jg" target="_blank" title="“情牵重阳 福泽两岸” | “美”篇章在鼓岭浪漫启幕，金婚伉俪共绘“暮霞成绮”">“情牵重阳 福泽两岸” | “美”篇章在鼓岭浪漫启幕，金婚伉俪共绘“暮霞成绮”</a>
+											<em id="rel_102635"></em>
+											<span class="bf-pass">2025-10-31</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(46)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/jwZvAfPspGZsIROk26UMcg" target="_blank" title="各地学习宣传贯彻《习近平关于民政工作论述摘编》">各地学习宣传贯彻《习近平关于民政工作论述摘编》</a>
+											<em id="rel_102163"></em>
+											<span class="bf-pass">2025-10-23</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/RPl-u6AeIdyMzpNXzxjYhQ" target="_blank" title="省民政厅党组理论学习中心组专题学习《习近平关于民政工作论述摘编》">省民政厅党组理论学习中心组专题学习《习近平关于民政工作论述摘编》</a>
+											<em id="rel_102078"></em>
+											<span class="bf-pass">2025-10-17</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202510/t20251013_101988.htm" target="_blank" title="2025年9月城乡低保及特困发放明细">2025年9月城乡低保及特困发放明细</a>
+											<em id="rel_101988"></em>
+											<span class="bf-pass">2025-09-30</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202510/t20251013_101987.htm" target="_blank" title="2025年8月城乡低保及特困发放明细">2025年8月城乡低保及特困发放明细</a>
+											<em id="rel_101987"></em>
+											<span class="bf-pass">2025-08-29</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202510/t20251013_101986.htm" target="_blank" title="2025年7月城乡低保及特困发放明细">2025年7月城乡低保及特困发放明细</a>
+											<em id="rel_101986"></em>
+											<span class="bf-pass">2025-07-31</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(51)">
+									  <ul>
+										
+										  <li>
+											<a href="../cxdb/202510/t20251013_101985.htm" target="_blank" title="2025年6月城乡低保及特困发放明细">2025年6月城乡低保及特困发放明细</a>
+											<em id="rel_101985"></em>
+											<span class="bf-pass">2025-06-30</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/xeeVTvIVJvybI5cc3Fxkwg" target="_blank" title="陆治原介绍“十四五”时期民政事业发展成就丨国新办新闻发布会">陆治原介绍“十四五”时期民政事业发展成就丨国新办新闻发布会</a>
+											<em id="rel_101934"></em>
+											<span class="bf-pass">2025-10-11</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/3BlCsFwnxJseOTRSiyxQfQ" target="_blank" title="民政部 中央社会工作部联合出台意见 加强社会组织理事会建设">民政部 中央社会工作部联合出台意见 加强社会组织理事会建设</a>
+											<em id="rel_101831"></em>
+											<span class="bf-pass">2025-10-05</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/pJ5UAJGXNL_PELdenFL6GA" target="_blank" title="《习近平关于民政工作论述摘编》出版发行">《习近平关于民政工作论述摘编》出版发行</a>
+											<em id="rel_101723"></em>
+											<span class="bf-pass">2025-09-26</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/bF-Vfwd_UPgvtFRkjrHWUQ" target="_blank" title="民政部召开“精康融合行动”总结会暨精神障碍社区康复服务试点项目推进会">民政部召开“精康融合行动”总结会暨精神障碍社区康复服务试点项目推进会</a>
+											<em id="rel_101496"></em>
+											<span class="bf-pass">2025-09-17</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(56)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/_q1zS2cFf8HNXzlT9ysrIQ" target="_blank" title="这场全省社会救助培训班，既分享了经验，又划了下阶段重点~">这场全省社会救助培训班，既分享了经验，又划了下阶段重点~</a>
+											<em id="rel_101396"></em>
+											<span class="bf-pass">2025-09-12</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/QE_XOqsFMup4f-DSY1jfPQ" target="_blank" title="关于开展“十五五”民政事业发展规划建言献策活动的公告">关于开展“十五五”民政事业发展规划建言献策活动的公告</a>
+											<em id="rel_101309"></em>
+											<span class="bf-pass">2025-09-06</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/QJMFtzyjgdCovyXOyx-GgQ" target="_blank" title="民政部等七部门印发通知 推动慈善文化走进机关、企业、乡村、社区、家庭">民政部等七部门印发通知 推动慈善文化走进机关、企业、乡村、社区、家庭</a>
+											<em id="rel_101109"></em>
+											<span class="bf-pass">2025-08-26</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/iO_DkNZ2u78h4CFBR1yK7A" target="_blank" title="实验区人大代表、政协委员开展社会救助与养老服务督导调研">实验区人大代表、政协委员开展社会救助与养老服务督导调研</a>
+											<em id="rel_100987"></em>
+											<span class="bf-pass">2025-08-18</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/VL9J0v1bl7WM_xRnjRMwew" target="_blank" title="全国敬老养老助老公益广告——雪中送炭严冬暖 友善待人送春来">全国敬老养老助老公益广告——雪中送炭严冬暖 友善待人送春来</a>
+											<em id="rel_100827"></em>
+											<span class="bf-pass">2025-08-11</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(61)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/VDxMQkOIHVJKeON0UH1NFw" target="_blank" title="民政部部署各地做好民政领域防汛救灾工作">民政部部署各地做好民政领域防汛救灾工作</a>
+											<em id="rel_100712"></em>
+											<span class="bf-pass">2025-08-04</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/n-FO1h0rAje5FF-U-pv_VQ" target="_blank" title="这些老人看过来！两部门喊您来领养老服务补贴啦～">这些老人看过来！两部门喊您来领养老服务补贴啦～</a>
+											<em id="rel_100606"></em>
+											<span class="bf-pass">2025-07-25</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/RRv19rzCB0OQapMiYHvgmw" target="_blank" title="我省100个长者食堂获财政奖补">我省100个长者食堂获财政奖补</a>
+											<em id="rel_100435"></em>
+											<span class="bf-pass">2025-07-18</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/Jf-45telfU1dGtjBTio1Hw" target="_blank" title="速看！民政部这场发布会信息量满满~">速看！民政部这场发布会信息量满满~</a>
+											<em id="rel_100193"></em>
+											<span class="bf-pass">2025-07-10</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/_TH_B7YLahnzrrY1lBSN9Q" target="_blank" title="我省老年人社会保障情况如何？一图带你看懂↘">我省老年人社会保障情况如何？一图带你看懂↘</a>
+											<em id="rel_100044"></em>
+											<span class="bf-pass">2025-07-03</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(66)">
+									  <ul>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/y1TiDht2ynjXR585vXRbfQ" target="_blank" title="福享乐龄！快来看2024年度福建省老龄事业发展数据">福享乐龄！快来看2024年度福建省老龄事业发展数据</a>
+											<em id="rel_99895"></em>
+											<span class="bf-pass">2025-06-27</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/J3wrkIJ7fHFIBt2g9Ucolw" target="_blank" title="第十七届海峡论坛·首届海峡慈善论坛开幕">第十七届海峡论坛·首届海峡慈善论坛开幕</a>
+											<em id="rel_99732"></em>
+											<span class="bf-pass">2025-06-20</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/Qb1fDbwUXaPNSzFWVezx8w" target="_blank" title="加强低收入群体兜底帮扶，民政部将重点做好这三方面工作">加强低收入群体兜底帮扶，民政部将重点做好这三方面工作</a>
+											<em id="rel_99540"></em>
+											<span class="bf-pass">2025-06-13</span>
+										  </li>
+										
+										  <li>
+											<a href="https://mp.weixin.qq.com/s/gmMRg1CDsPv48s-IjqApJw" target="_blank" title="让养老服务更智慧">让养老服务更智慧</a>
+											<em id="rel_99441"></em>
+											<span class="bf-pass">2025-06-04</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202505/t20250528_99265.htm" target="_blank" title="2025年5月城乡低保及特困发放明细">2025年5月城乡低保及特困发放明细</a>
+											<em id="rel_99265"></em>
+											<span class="bf-pass">2025-05-28</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(71)">
+									  <ul>
+										
+										  <li>
+											<a href="../cxdb/202505/t20250528_99264.htm" target="_blank" title="2025年4月城乡低保及特困发放明细">2025年4月城乡低保及特困发放明细</a>
+											<em id="rel_99264"></em>
+											<span class="bf-pass">2025-04-30</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202505/t20250528_99263.htm" target="_blank" title="2025年3月城乡低保及特困发放明细">2025年3月城乡低保及特困发放明细</a>
+											<em id="rel_99263"></em>
+											<span class="bf-pass">2025-03-31</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202505/t20250528_99262.htm" target="_blank" title="2025年2月城乡低保及特困发放明细">2025年2月城乡低保及特困发放明细</a>
+											<em id="rel_99262"></em>
+											<span class="bf-pass">2025-02-28</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202505/t20250528_99261.htm" target="_blank" title="2025年1月城乡低保及特困发放明细">2025年1月城乡低保及特困发放明细</a>
+											<em id="rel_99261"></em>
+											<span class="bf-pass">2025-01-31</span>
+										  </li>
+										
+										  <li>
+											<a href="../cxdb/202505/t20250528_99259.htm" target="_blank" title="2024年12月城乡低保及特困发放明细">2024年12月城乡低保及特困发放明细</a>
+											<em id="rel_99259"></em>
+											<span class="bf-pass">2024-12-31</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+							</div>
+							<div ms-visible="!showStatic">
+								<ul ms-if="list.length==0">
+								  <div ms-if="!error" style="text-align: center; padding: 30px">
+									<img src="/images/loading.gif" />
+								  </div>
+								  <div ms-if="error" style="text-align: center; padding: 30px">暂无数据</div>
+								</ul>
+								<ul ms-if="list.length>0">
+								  <li ms-repeat="list" ms-if-loop="$index<5">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+			  
+								<ul ms-if="list.length>5">
+								  <li ms-repeat="list" ms-if-loop="$index>4 && $index<10">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+			  
+								<ul ms-if="list.length>9">
+								  <li ms-repeat="list" ms-if-loop="$index>9 && $index<15">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+							  </div>
+						</div>
+						<div class="page_base mar_t_base" ms-controller="list_pagebar" ms-include-src="pgTemp" ></div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<!--底部开始-->
+	<div class="footer">
+	<div class="border_t_solid_01"></div>
+	<div class="row">
+		<div class="out_links" role="navigation" des="网站链接">
+			<ul class="trt-row" ms-controller="tabYqlj">
+				
+					<li class="trt-col-6" ms-click="$tog2(1)" ms-class="on:curr===1">
+						<p>省市政府网站</p>
+						<div class="shadow_base" Id="yqlj_1">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.fj.gov.cn/" target="_blank" title="福建省人民政府">福建省人民政府</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.fuzhou.gov.cn/" target="_blank" title="福州市政府网站">福州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xm.gov.cn/" target="_blank" title="厦门市政府网站">厦门市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.quanzhou.gov.cn/" target="_blank" title="泉州市政府网站">泉州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zhangzhou.gov.cn/" target="_blank" title="漳州市政府网站">漳州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.putian.gov.cn/" target="_blank" title="莆田市政府网站">莆田市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sm.gov.cn/" target="_blank" title="三明市政府网站">三明市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.np.gov.cn/" target="_blank" title="南平市政府网站">南平市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.longyan.gov.cn/" target="_blank" title="龙岩市政府网站">龙岩市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ningde.gov.cn/" target="_blank" title="宁德市政府网站">宁德市政府网站</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(2)" ms-class="on:curr===2">
+						<p>友情链接</p>
+						<div class="shadow_base" Id="yqlj_2">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.people.com.cn/" target="_blank" title="人民网">人民网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xinhuanet.com/" target="_blank" title="新华网">新华网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.chinanews.com.cn/" target="_blank" title="中国新闻网">中国新闻网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.cctv.com/" target="_blank" title="央视国际">央视国际</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.ptnet.cn/" target="_blank" title="平潭网">平潭网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fjptq.wenming.cn/" target="_blank" title="平潭文明网">平潭文明网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.acas.org.cnx7a72968723868.ipv6best.cn/" target="_blank" title="海峡两岸仲裁中心">海峡两岸仲裁中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fujian.chinatax.gov.cn/pingtanswj/" target="_blank" title="国家税务总局平潭综合实验区税务局">国家税务总局平潭综合实验区税务局</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://pt.fjbz.org.cnx1e49968723868.ipv6best.cn:8060/" target="_blank" title="福建省标准信息服务平台">福建省标准信息服务平台</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(3)" ms-class="on:curr===3">
+						<p>新闻媒体</p>
+						<div class="shadow_base" Id="yqlj_3">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm" target="_blank" title="人民日报">人民日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://fjrb-fjdaily-comx2d93968723868xx.ipv6best.cn/pc/col/202311/02/node_01.html" target="_blank" title="福建日报">福建日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zznews.cn/" target="_blank" title="闽南日报">闽南日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://mbrb.greatwuyi.com/202311/02/node_1.html" target="_blank" title="闽北日报">闽北日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.mxrb.cn/" target="_blank" title="闽西日报">闽西日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ndwww.cn/" target="_blank" title="闽东日报">闽东日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.qzwb.com/" target="_blank" title="泉州晚报">泉州晚报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html" target="_blank" title="三明日报">三明日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.taihainet.com/" target="_blank" title="海峡导报">海峡导报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fj.sina.com.cn/" target="_blank" title="新浪福建">新浪福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.163.com/" target="_blank" title="网易">网易</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sohu.com/" target="_blank" title="搜狐">搜狐</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(4)" ms-class="on:curr===4">
+						<p>其他</p>
+						<div class="shadow_base" Id="yqlj_4">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.creditchina.gov.cn/" target="_blank" title="信用中国">信用中国</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xy.fujian.gov.cn/#/home" target="_blank" title="信用福建">信用福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://27-151-80-61xe076968723868xx.ipv6best.cn:91/#/double-publicity-info" target="_blank" title="信用平潭">信用平潭</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://credit-xm-gov-cnxd4a4968723868xx.ipv6best.cn/" target="_blank" title="信用厦门">信用厦门</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.szzg.gov.cn/" target="_blank" title="数字中国建设峰会">数字中国建设峰会</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.hxrc.com/" target="_blank" title="中国海峡人才市场">中国海峡人才市场</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+			</ul>
+			<div class="out_links_close shadow_base"><i class="trt-iconfont trt-icon-dacha"></i></div>
+		</div>
+	</div>
+	<div class="border_b_solid_01"></div>
+	<div class="row mar_t_base mar_t_small_sm" role="serve" des="网站信息">
+		<div class="trt-row clearflx">
+			<div class="trt-col-11 trt-col-sm-24 website_info">
+				<p>
+					
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/sybz/" target="_blank" title="使用帮助">使用帮助</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/lxwm/" target="_blank" title="联系我们">联系我们</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/ysbh/" target="_blank" title="隐私保护">隐私保护</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/gywm/" target="_blank" title="关于我们">关于我们</a>
+						  <em>|</em>
+						
+					  
+				<p>
+					<span>网站标识码：3590000001</span>
+					<span><img src="/images/babs.png" /> <a href="https://www-beian-gov-cnx45c8968723868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002" Target="_blank">公安备案号：35012899001-19002</a></span>
+					<span><a href="https://beian.miit.gov.cn" Target="_blank" title="闽ICP备09032658号">闽ICP备09032658号</a></span>
+				</p>
+				<p><span>版权所有：平潭综合实验区党工委管委会网站</span></p>
+			</div>
+			<div class="trt-col-7 trt-col-sm-24 media_info">
+				<h3><a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>  </h3>
+				<ul class="trt-row">
+					<li class="trt-col-12"><a hhref="javascript:;" title="平潭发布"><span class="trt-iconfont trt-icon-weixin1"></span>平潭发布</a>
+						<div class="ewm_tu"><img src="/images/20231118ptfb.jpg" alt="平潭发布" /></div>
+					</li>
+					<li class="trt-col-12"><a href="javascript:;" title="闽政通APP"><span
+								class="trt-iconfont trt-icon-minzhengtong"></span>闽政通APP</a>
+						<div class="ewm_tu"><img src="/images/20xmszf_mzt_ewm.png" alt="闽政通APP" /></div>
+					</li>
+                                   
+					<!--li class="trt-col-12"><a href="javascript:;" title="平潭通"><span class="trt-iconfont trt-icon-qrcode-1-copy"></span>平潭通</a>
+						<div class="ewm_tu"><img src="/images/20231118ptt.png" alt="平潭通" /></div>
+					</li-->
+					<li class="trt-col-12 on"><a href="javascript:;" title="平潭文旅"><span><img src="/images/foot-icon4.png" alt="" /><img src="/images/foot-icon4-a.png" alt="平潭文旅" /></span>平潭文旅</a>
+						<div class="ewm_tu"><img src="/images/20231119ptVly.jpg" /></div>
+					</li>
+				</ul>
+			</div>
+			<div class="trt-col-6 trt-col-sm-24 error_img">
+				<span id="_ideConac" class="foot-icon02 pho-none">
+					<a href="https://bszs-conac-cnxe103968723868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="/images/red.png" alt="党政机关" /></a>                    
+				</span>
+				<span id="_span_jiucuo" title="政府网站找错"></span>
+				<span><a href="javascript:;"><img src="/images/img11.png" /></a></span>
+			</div>
+		</div>
+	</div>
+	<div class="copyright_info">
+		<div class="row">
+			<p><span>主办单位：福建省平潭综合实验区管理委员会办公室</span></p>
+			<p>为确保最佳浏览效果，建议您使用以下浏览器版本：IE浏览器9.0版本及以上； Google Chrome浏览器 63版本及以上； 360浏览器9.1版本及以上，且IE内核9.0及以上。
+			</p>
+		</div>
+	</div>
+</div>
+	<!--底部结束-->
+	</div>
+	<!--全站嵌套-->
+	<script>
+    var SiteInfo = {
+        //was4doc: 290792,  //文档检索的was频道号
+        itpSiteId: 21,    //互动站点ID
+        itp4advice: 41,  //意见征集栏目ID
+        itp4poll: 43,   //网上调查栏目ID
+        //itp4ztzj: ,    //主题征集栏目ID
+        itp4zxft: 44,    //主题征集栏目ID
+        itpStatus:true,
+        itpMassage:'系统正在升级，预计于晚上20时恢复，为此对您造成的不便敬请谅解。',
+        // CommentId: ,  //细览评论功能对应的互动新建栏目ID
+        searchId: 200210, //默认的文档检索频道的ID
+        defaultPgTemp: "pgBar_pt.html",  //本站点默认的分页模板名
+        defaultPgTempMobile: "pgBar_pt.html",  //本站点默认的分页模板名，移动端
+        siteMsgType: "govSite",  //非政府网站提醒规则   currSite 非本站提醒 、govSite  非政府网站提醒
+        siteWriteList: ["www.ptnet.cn"],  //站点白名单
+        initWindowRoot: false,  //false表示，引入model.js时，不自动生成windowRoot
+        initPageview: true,  //执行windowRoot 时自动执行pageview
+        defaultHotWords: '旅游;渔业;保障性住房',  //通过嵌套栏目的替换内容，热搜词，设置默认的热搜词
+        //registerUrl: "https://mztapp.fujian.gov.cn:8304/dataset/UnifiedController/goRegist.do?callerCode=2c9bbe6975c2a76a0175de55aa73023d2c9bbe6975c2a76a&returnurl=",
+        registerUrl : "https://iam.e-govt.cn:8901/register?appId=8976f209-c26f-4155-a5a1-f469d75bc4a5&redirect_uri=",
+        loginUrl: "http://www.pingtan.gov.cn/uc/login/login?redirtUrl=https://www.pingtan.gov.cn/uc/login/noseLogin?redirtUrl=",
+        logoutUrl: "https://www.pingtan.gov.cn/uc/login/logout?redirtUrl=",
+        mapkey:"492cf207f3857e830673602a39a2ff78",
+        openSlb: true,//是否开启适老版
+        openWza: true, //是否开启无障碍
+        // redirtUrl: "",
+        // homeUrl: ""
+        myzj:{
+            listUrlPre:'/staticitp/pingtan/myzj/',
+            detailUrlPre:'/staticitp/pingtan/17_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/myzj/detail.htm'
+        },
+        wsdc:{
+            listUrlPre:'/staticitp/pingtan/wsdc/',
+            detailUrlPre:'/staticitp/pingtan/24_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/wsdc/detail.htm'
+        }
+    };
+</script>
+<script src="/images/barrier.free.min.js" id="barrierFree" sn="6597475200690549"></script>
+<!-- <script src="/images/model.v2.min.js"></script> -->
+<script src="/images/model.min.js"></script>
+<script type="text/javascript" src="/images/js_rem.min.js"></script>
+<script type="text/javascript" src="/images/23pingtan.js"></script>
+	<!--全站嵌套-结束-->
+	
+	<script>
+		var pageChnlInfo={
+		  quickMode:"动静结合",
+		  maxStaticIndex: 5,
+		  classsql: "" || "chnlid=809",
+		  recordCount:'240',
+		  sortfield:'-docorderpri,-docreltime',
+		  prepage:15,
+		  cache:true
+		}
+		// By Jcl
+		var ColumnName = document.getElementsByTagName('meta')['ColumnName'].content || "";
+		if(ColumnName.indexOf("图")>-1){
+		  pageChnlInfo.prepage = 12;
+		}
+		if(ColumnName.indexOf("解读")>-1){
+		  pageChnlInfo.maxStaticIndex = 1;
+		  pageChnlInfo.cache = false;
+		}
+	</script>
+	<script type="text/javascript">
+
+		if(!window['pageChnlInfo']){
+			avalon.log("获取pageChnlInfo失败，分页功能启动失败");
+			
+		}else{
+			require(['list2.trsapi'], function(listModel) {
+				listModel({
+					quickMode:pageChnlInfo.quickMode,
+					maxStaticIndex: pageChnlInfo.maxStaticIndex,
+					listArgs: {
+						channelid: SiteInfo.searchId,
+						classsql: pageChnlInfo.classsql,
+						sortfield: pageChnlInfo.sortfield||'-docorderpri,-docreltime',
+						classcol: 'publishyear', //需要获取发布年份的统计分类数据
+						classsort: 0
+					},
+					cache: pageChnlInfo.cache||true,
+					listApi: {
+						url: "/fjdzapp/search"
+					},
+					pagebar: {
+						recordCount: pageChnlInfo.recordCount,
+						pgTemp: 'pgBar_pt.html',
+						prepage: pageChnlInfo.prepage||15,
+						pgCountMode: 'recordCount'
+					},
+					injGetOrCache: list_reldoc,
+					//callToPage: function (p) {//翻页后自动滚屏到栏目名称的位置，注意根据页面修改jquery对象的类名或ID名
+					//	$('html,body').animate({ scrollTop: $('.breadcrumb').offset().top }, 800);
+					//},
+					searchArgs: {
+						publishyear: {
+							type: 'classsql',
+							compare: "=",
+							value: '',
+							items: [],
+							SyncItems: true //设置从列表分类统计中进行同步
+							// , SyncItemsOrder: "-count"
+						},
+						key: {
+							type: 'classsql',
+							field: 'doctitle',
+							compare: "like",
+							value: '',
+							isKey: true
+						}
+					}
+				})
+			})
+		}
+
+	</script>
+</body>
+
+</html>

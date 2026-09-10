@@ -1,0 +1,1353 @@
+<!DOCTYPE html>
+<html ms-controller="windowRoot" ms-class="slb:isSlb">
+<head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="x-UA-Compatible" content="IE=Edge,Chrome=1" />
+	<meta name="SiteName" content="平潭综合实验区党工委管委会"/>
+<meta name="SiteDomain" content="www.pingtan.gov.cn">
+<meta name="SiteIDCode" content="3590000001"/>
+<meta name="ColumnName" content="宣传教育"/>
+<meta name="ColumnDescription" content="宣传教育"/>
+<meta name="ColumnKeywords" content="宣传教育"/>
+<meta name="ColumnType" content="宣传教育"/>
+<meta name="Keywords" content="平潭，中国平潭，福建平潭，平潭综合实验区党工委管委会"/>
+<meta name="Description" content="中国平潭，福建平潭，平潭综合实验区党工委管委会，平潭综合实验区党工委管委会门户网站是平潭综合实验区党工委管委会在国际互联网上发布政务信息、提供在线服务和公众参与的综合服务平台。"/>
+<meta name="ChnlId" content="736">
+<meta name="SiteId" content="4"/>
+	<title>
+		宣传教育_平潭综合实验区党工委管委会
+	</title>
+	<link rel="stylesheet" type="text/css" href="/images/trt_iconfont_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_ui_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_component_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/trt_media_v2.css">
+<link rel="stylesheet" type="text/css" href="/images/230214_laydate.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_header.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_footer.css">
+<link rel="stylesheet" type="text/css" href="/images/230822_dgwgwh_style.css">
+<link rel="stylesheet" type="text/css" href="/images/23pingtan.css">
+
+</head>
+<body>
+	<div class="wrap">
+		<!--头部开始-->
+		<div class="header menu_hov">
+	<div class="row">
+		<div class="logo trt-col-9">
+			<img src="/images/gh_logo.png" />
+			<a href="/"><img src="/images/site_logo.png" /></a>
+		</div>
+		<div class="header_line clearflx" role="serve" des="头部信息">
+			<div class="header_link_01">
+				<a href="https://www.gov.cn/" Target="_blank" title="国务院" class="btn_base btn_outline btn_outline_primary btn_small">国务院</a>
+				<a href="https://www.fujian.gov.cn/" Target="_blank" title="省政府" class="btn_base btn_outline btn_outline_primary btn_small">省政府</a>
+				<a href="https://www.fjrd.gov.cn/" Target="_blank" title="省人大" class="btn_base btn_outline btn_outline_primary btn_small">省人大</a>
+				<a href="http://www.fjzx.gov.cn/" Target="_blank" title="省政协" class="btn_base btn_outline btn_outline_primary btn_small">省政协</a>
+			</div>
+			<div class="header_link_02">
+				<!-- <a href="#">繁体版</a> -->
+				<script src="/images/pt-langBig5.js" type="text/javascript"></script>
+				<a href="javascript:;" class="none_sm">移动版</a>
+				<div class="mzt_ewm">
+					<div><img src="/images/20xmszf_mzt_ewm.png" /></div>
+					<p>闽政通APP</p>
+				</div>
+			</div>
+			<div class="header_link_02 none_sm">				
+				<em ms-visible="!isLogin">
+					<a id="logined" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$login" target="_blank" >登录</a>
+					<a id="logined" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()">登录</a>
+					<a id="registered" href="javascript:void(0);" ms-if="!avalon.vmodels.windowRoot.isStatic" ms-click="$register" >注册</a>
+					<a id="registered" href="javascript:void(0);" ms-if="avalon.vmodels.windowRoot.isStatic" ms-click="avalon.vmodels.windowRoot.staticDialog()" >注册</a>
+				</em>
+				<em ms-visible="isLogin" style="display:none;">
+					<a href="/uc/indexs/index" ms-attr-title='loginInfo.showname'>你好，<font ms-text="loginInfo.showname | truncate(12)"></font></a>
+					<a ms-attr-href="logoutUrl">注销</a>
+				</em>
+			</div>
+			<span>网站支持IPV6</span>
+		</div>
+		<div class="menu_base menu_right menu_hd">
+			<ul class="clearflx" role="navigation" des="站点主目录">
+				<!--有下拉菜单的li加上parentNode-->
+				<li ms-class="on:RootPath==''"><a href="/">首页</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='zwgk' || paths[4]=='zfxxgk'"><a href="https://www.pingtan.gov.cn/zwgk/">政务公开</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='jdhy'"><a href="https://www.pingtan.gov.cn/jdhy/">解读回应</a></li>
+				<li class="parentNode"  ms-class="on:paths[3]=='bsfw'"><a href="https://www.pingtan.gov.cn/bsfw/">办事服务</a></li>
+				<li class="parentNode" ms-class="on:paths[3]=='hdjl'"><a href="https://www.pingtan.gov.cn/hdjl/">互动交流</a></li>
+				<li ms-class="on:paths[3]=='zjpt'"><a href="https://www.pingtan.gov.cn/zjpt/">走进平潭</a></li>
+			</ul>
+		</div>
+		<div class="search_fixed">
+			<form method="get" action="/ssp/main/index.html" target="_blank">
+				<input type="hidden" name="siteId" value="402804278b376967018b3771d3370002" />
+				<input type="text" placeholder="请输入搜索内容" name="key" required="required" class="form-control" />
+				<button class="btn_base"><i class="trt-iconfont trt-icon-sousuo"></i></button>
+			</form>
+		</div>
+	</div>
+	<div class="submenu menu_bd">
+		<div class="row">
+			<div></div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfxxgk/" target="_blank" title="政府信息公开">政府信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ldzc/" target="_blank" title="领导之窗">领导之窗</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zzjg/" target="_blank" title="政府机构">政府机构</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/yw/" target="_blank" title="要闻">要闻</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfhy/" target="_blank" title="政府会议">政府会议</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zxwj/" target="_blank" title="最新文件">最新文件</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zcwjk/" target="_blank" title="政策文件库">政策文件库</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zfgzbg/" target="_blank" title="政府工作报告">政府工作报告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/gsgg/" target="_blank" title="公示公告">公示公告</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ghxx/" target="_blank" title="规划信息">规划信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/rsxx/" target="_blank" title="人事信息">人事信息</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/tjxx/" target="_blank" title="统计信息">统计信息</a>
+                 
+                    <a href="https://data.fujian.gov.cn/#/oportal/index" target="_blank" title="数据开放">数据开放</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/zdlyxxgk/" target="_blank" title="重点领域信息公开">重点领域信息公开</a>
+                 
+                    <a href="https://www.pingtan.gov.cn/zwgk/ztzl/" target="_blank" title="专题专栏">专题专栏</a>
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://www.pingtan.gov.cn/jdhy/zcjd/" target="_blank" title="平潭政策解读">平潭政策解读</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/xwfbh/" target="_blank" title="新闻发布会">新闻发布会</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/jdhy/hygq/" target="_blank" title="回应关切">回应关切</a>  
+                
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://zwfw.fujian.gov.cn/indexMain?type=1&siteUnid=EC4BF9378FEEB8761D62BEDFF8EDE105" target="_blank" title="福建网上办事大厅">福建网上办事大厅</a>  
+                 
+                    <a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>  
+                 
+                    <a href="https://www.fujian.gov.cn/bsfw/mztapp/" target="_blank" title="闽政通APP">闽政通APP</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/zjpt/cypt/" target="_blank" title="畅游平潭">畅游平潭</a>  
+                
+				<a href="https://www.pingtan.gov.cn/bsfw/ztfw/zwdt/" target="_blank" title="政务地图">政务地图</a>  
+			</div>
+		</div>
+		<div class="row">
+			<div>
+				 
+                    <a href="https://12345.pingtan.gov.cn/" target="_blank" title="12345便民惠企服务平台">12345便民惠企服务平台</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/zxft/" target="_blank" title="在线访谈">在线访谈</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/wsdc/" target="_blank" title="网上调查">网上调查</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/myzj/" target="_blank" title="民意征集">民意征集</a>  
+                 
+                    <a href="https://www.pingtan.gov.cn/hdjl/hdjlzsk/" target="_blank" title="互动交流知识库">互动交流知识库</a>  
+                 
+			</div>
+		</div>
+		<div class="row">
+			<div></div>
+		</div>
+	</div>
+</div>
+<div class="banner_header">
+	<div class="row">
+		<div class="trt-row">
+			<div class="trt-col-7 trt-col-sm-0">
+				<div class="area_weather">
+					<p><font ms-text="now|date('yyyy年MM月dd日 EEEE')"></font></p>
+					<p font ms-text="weather+''+temp"></p>
+					<p id="weather-box"><iframe id="tianqi" class='tianqi-box' width="260" height="26"  scrolling="no"  frameborder="0" allowtransparency="true" src="https://i-tianqi-comx3211968733868xx.ipv6best.cn?c=code&id=26&color=%23FFFFFF&icon=1&py=pingtan&site=16"></iframe></p>
+				</div>
+			</div>
+			<div class="trt-col-10 trt-col-sm-18" role="interaction" des="搜索">
+				<div class="search_area" id="header">
+					<form ms-attr-action="searchAction" ms-blur="$togLinkkey" target="_blank" ms-submit="$setHistoryList()" ms-if="!avalon.vmodels.windowRoot.isStatic" > 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>
+					<form onkeydown="avalon.vmodels.windowRoot.staticDialog()" ms-if="avalon.vmodels.windowRoot.isStatic" style="display: none" ms-visible="avalon.vmodels.windowRoot.isStatic"> 
+						<div class="input_select input_base input_group input_group_append input_group_prepend">
+							<div class="input_group_prepend_01">
+								<div class="select_group">
+									<div class="input_base input_suffix" ms-click="$searchChange()">
+										<input type="hidden" ms-duplex="searchSiteId" name="siteId" />
+										<input type="hidden" ms-duplex="isMain" name="isMain" />
+										<input type="text" ms-duplex="searchSite" readonly class="input_inner" />
+	
+										<span class="input_icon" title="当前搜索站点 本站 按方向键切换">
+											<i class="trt-iconfont trt-icon-shangxiajiantou"></i>
+										</span>
+	
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="请输入您要搜索的内容" name="key" class="input_inner" id="selecttags" required="required" ms-duplex="searchTips.serKey" ms-focus="$checkLock" autocomplete="off" />
+							<div class="input_group_append_01">
+								<button  type="submit" class="btn_base btn_default" alt="点击搜索">
+								<i class="trt-iconfont trt-icon-sousuo"></i>
+								</button>
+							</div>
+							<div class="lxglc-box_2021" ms-visible="searchTips.showlist&&searchTips.linkKeys.length>0">
+								<ul>
+								  <li ms-repeat="searchTips.linkKeys">
+									<a href="javascript:;" ms-click="$setPost(el.wordName)" ms-text="el.wordNameHtml|html"></a>
+								  </li>
+								</ul>
+							  </div>
+						</div>
+					</form>					
+					<div class="search_content shadow_base" Id="searchTag" ms-if="!avalon.vmodels.windowRoot.isStatic" >
+						<div class="search_history" ms-visible="searchTips.historyKeys.length > 0" style="display: none">
+							<span>历史搜索：</span>
+							<a ms-if-loop="$index<4" ms-repeat="searchTips.historyKeys" href="javascript:;" ms-text="el" ms-click="$setPost(el)"> <i class="trt-iconfont trt-icon-dacha"></i></a>
+						</div>
+						<div class="search_top">
+							<span>热门搜索：</span>
+							<a ms-repeat="hotWords" href="javascript:;" ms-text="el.title" ms-click="$setPost(el.title)"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="trt-col-7 trt-col-sm-6 slb-trt-col-sm-24 text_align_right">
+				<div class="aged_link">
+                    <a href="javascript:void(0);" class="aged_link_01" ms-click="$inSlb()" ms-visible="!isSlb">长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_01 none" ms-click="$outSlb()" ms-visible="isSlb">退出长者模式</a>
+                    <a href="javascript:void(0);" class="aged_link_02" Id="barrierFreeBtn"><font id="WzaStatus">无障碍浏览</font></a>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+		<!--头部结束-->
+		<div class="main">
+			<div class="content mar_t_large mar_t_base_sm">
+				<div class="row content_bg_02 pad_large pad_base_sm shadow_base border_radius_large">
+					<!--模板从这边开始拷贝-->
+					<div class="breadcrumb" role='navigation' des="当前位置">
+						<span><i class="trt-iconfont trt-icon-weizhi"></i>当前位置：</span>
+						<ul>
+							<li><a href="../../../../" title="首页" class="active">首页</a></li><li><a href="../../../" title="政务公开" class="active">政务公开</a></li><li><a href="../../" title="专题专栏" class="active">专题专栏</a></li><li><a href="../" title="纪检监察专栏" class="active">纪检监察专栏</a></li><li><a href="./" title="宣传教育" class="active">宣传教育</a></li>
+						</ul>
+					</div>
+					<div class="pad_l_base pad_r_base pad_l_base0_sm pad_r_base0_sm pingtgl">
+						<div class="title_extend clearflx mar_t_small mar_t_base0_sm">
+							<div class="title_extend_left">
+								<div class="title_base current_title clearflx">
+									<div class="title_name">宣传教育</div>
+								</div>
+							</div>
+							<div class="title_extend_right">
+								<div class="title_more">
+									<button type="button" class="btn_base btn_outline btn_outline_info dropdown_toggle"><i class="trt-iconfont trt-icon-caidan caret"></i><span>更多栏目</span></button>
+									<ul class="dropdown_menu dropdown_menu-right">
+										
+											
+											
+												<li>
+													<a href="../ldzc/" title="领导之窗">领导之窗</a>
+												</li>
+											
+										
+											
+											
+												<li>
+													<a href="../dfzf/" title="党风政风">党风政风</a>
+												</li>
+											
+										
+											
+												<li class="on">
+													<a href="./" title="宣传教育">宣传教育</a>
+												</li>
+											
+											
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+						<div class="filter_area content_bg_01 mar_t_small mar_t_xs_sm pad_t_small pad_b_small pad_l_large pad_r_large pad_t_xs_sm pad_small_sm" ms-controller="list" role="interaction" des="搜索">
+							<div class="tag_group">
+								<label>发布时间:</label>
+								<div class="tag_base">
+									<span class="on" ms-repeat="helps.publishyearItems" ms-class="on:el.value==searchForm.publishyear">
+										<a ms-click="$setVal('publishyear',el.value,$event)" href="javascript:void(0);">
+										  <font ms-text="el.name"></font>
+										  <em ms-visible="el.count" ms-text="'('+el.count + ')'"></em>
+										</a>
+									</span>
+								</div>
+							</div>
+							<div class="border_b_solid_01 mar_t_xs mar_b_small mar_t_small_sm"></div>
+							<div class="trt-row tag_group">
+								<div class="none_sm"><label>关键字:</label></div>
+								<div class="input_group trt-col-14 trt-col-sm-24 slb-trt-col-20 slb-trt-col-sm-24">
+									<input type="text" class="form_control" placeholder="请输入关键字搜索" ms-duplex="searchForm.key" />
+									<div class="input_group_btn">
+                      <button type="button" class="btn_base btn_primary" ms-click="$search" alt="搜索">搜索</button>
+										<!-- <button type="button" class="btn_base btn_primary" ms-visible="!avalon.vmodels.list.searchFlag" ms-click="$search" alt="搜索">搜索</button> -->
+										<button type="button" class="btn_base btn_warning" ms-visible="searchFlag"  ms-click="$cancalSearch" alt="取消搜索">取消搜索</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!--有文件类型的概览-->
+						<div class="list_base list_base_date_01 list_base_file_type mar_t_base mar_t_small_sm" ms-controller="list" role="viewlist" des='宣传教育'>
+							<div ms-visible="showStatic">
+								
+									<div ms-visible="$showStatic(1)">
+									  <ul>
+										
+										  <li>
+											<a href="./202606/t20260617_107382.htm" target="_blank" title="岚岛廉语 | 道虽迩，不行不至；事虽小，不为不成">岚岛廉语 | 道虽迩，不行不至；事虽小，不为不成</a>
+											<em id="rel_107382"></em>
+											<span class="bf-pass">2026-05-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202604/t20260407_106023.htm" target="_blank" title="岚岛廉语 | 慎终追远，民德归厚矣">岚岛廉语 | 慎终追远，民德归厚矣</a>
+											<em id="rel_106023"></em>
+											<span class="bf-pass">2026-04-05</span>
+										  </li>
+										
+										  <li>
+											<a href="./202603/t20260302_105371.htm" target="_blank" title="岚岛廉语 | 愿得长如此，年年物候新">岚岛廉语 | 愿得长如此，年年物候新</a>
+											<em id="rel_105371"></em>
+											<span class="bf-pass">2026-02-17</span>
+										  </li>
+										
+										  <li>
+											<a href="./202601/t20260105_104386.htm" target="_blank" title="岚岛廉语 | 改岁宜新，应时纳祐">岚岛廉语 | 改岁宜新，应时纳祐</a>
+											<em id="rel_104386"></em>
+											<span class="bf-pass">2026-01-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251125_103573.htm" target="_blank" title="平潭综合实验区纪工委监察工委进行集中整治再调度再推动">平潭综合实验区纪工委监察工委进行集中整治再调度再推动</a>
+											<em id="rel_103573"></em>
+											<span class="bf-pass">2025-11-24</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(6)">
+									  <ul>
+										
+										  <li>
+											<a href="./202511/t20251125_103572.htm" target="_blank" title="平潭综合实验区纪工委监察工委组织开展案件质量专项评查工作">平潭综合实验区纪工委监察工委组织开展案件质量专项评查工作</a>
+											<em id="rel_103572"></em>
+											<span class="bf-pass">2025-11-17</span>
+										  </li>
+										
+										  <li>
+											<a href="./202511/t20251103_102736.htm" target="_blank" title="情系重阳  乐享发展 ——区纪工委开展“我们的节日·重阳”主题活动">情系重阳  乐享发展 ——区纪工委开展“我们的节日·重阳”主题活动</a>
+											<em id="rel_102736"></em>
+											<span class="bf-pass">2025-10-29</span>
+										  </li>
+										
+										  <li>
+											<a href="./202509/t20250929_101767.htm" target="_blank" title="岚岛廉语 | 皓月当空清风朗，天涯此时共团圆">岚岛廉语 | 皓月当空清风朗，天涯此时共团圆</a>
+											<em id="rel_101767"></em>
+											<span class="bf-pass">2025-10-06</span>
+										  </li>
+										
+										  <li>
+											<a href="./202509/t20250929_101766.htm" target="_blank" title="岚岛廉语 | 盛世迎华诞，物华竞芳菲">岚岛廉语 | 盛世迎华诞，物华竞芳菲</a>
+											<em id="rel_101766"></em>
+											<span class="bf-pass">2025-10-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202509/t20250911_101375.htm" target="_blank" title="平潭：推动解决急难愁盼 守护“一老一小”幸福生活">平潭：推动解决急难愁盼 守护“一老一小”幸福生活</a>
+											<em id="rel_101375"></em>
+											<span class="bf-pass">2025-09-11</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(11)">
+									  <ul>
+										
+										  <li>
+											<a href="./202509/t20250903_101240.htm" target="_blank" title="岚岛廉语 | 铭记历史，吾辈自强">岚岛廉语 | 铭记历史，吾辈自强</a>
+											<em id="rel_101240"></em>
+											<span class="bf-pass">2025-09-03</span>
+										  </li>
+										
+										  <li>
+											<a href="./202508/t20250805_100723.htm" target="_blank" title="岚岛廉语 | 石牌洋边戎装整，将军山上清风劲">岚岛廉语 | 石牌洋边戎装整，将军山上清风劲</a>
+											<em id="rel_100723"></em>
+											<span class="bf-pass">2025-08-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250718_100429.htm" target="_blank" title="“热血映初心　行动践使命” ——区纪工委组织党员干部参加无偿献血志愿活动">“热血映初心　行动践使命” ——区纪工委组织党员干部参加无偿献血志愿活动</a>
+											<em id="rel_100429"></em>
+											<span class="bf-pass">2025-07-17</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250715_100271.htm" target="_blank" title="黄惠元讲授深入贯彻中央八项规定精神学习教育专题党课">黄惠元讲授深入贯彻中央八项规定精神学习教育专题党课</a>
+											<em id="rel_100271"></em>
+											<span class="bf-pass">2025-07-14</span>
+										  </li>
+										
+										  <li>
+											<a href="./202507/t20250709_100167.htm" target="_blank" title="区纪工委开展“清风正气守初心，抗战精神淬党性”七一主题党日活动">区纪工委开展“清风正气守初心，抗战精神淬党性”七一主题党日活动</a>
+											<em id="rel_100167"></em>
+											<span class="bf-pass">2025-07-04</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(16)">
+									  <ul>
+										
+										  <li>
+											<a href="./202507/t20250701_99986.htm" target="_blank" title="镜头丨坚守初心担使命 砥砺奋进新征程">镜头丨坚守初心担使命 砥砺奋进新征程</a>
+											<em id="rel_99986"></em>
+											<span class="bf-pass">2025-07-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202506/t20250605_99415.htm" target="_blank" title="区监察工委召开第二任特约监察员聘请会议">区监察工委召开第二任特约监察员聘请会议</a>
+											<em id="rel_99415"></em>
+											<span class="bf-pass">2025-06-05</span>
+										  </li>
+										
+										  <li>
+											<a href="./202505/t20250527_99234.htm" target="_blank" title="岚岛廉语 | 艾香涤浊气，粽白守初心">岚岛廉语 | 艾香涤浊气，粽白守初心</a>
+											<em id="rel_99234"></em>
+											<span class="bf-pass">2025-05-31</span>
+										  </li>
+										
+										  <li>
+											<a href="./202505/t20250523_99180.htm" target="_blank" title="“岚青有为 不负星辰”—— 区纪工委联合开展“五四”主题活动">“岚青有为 不负星辰”—— 区纪工委联合开展“五四”主题活动</a>
+											<em id="rel_99180"></em>
+											<span class="bf-pass">2025-05-19</span>
+										  </li>
+										
+										  <li>
+											<a href="./202505/t20250514_98989.htm" target="_blank" title="岚岛廉语 | 慎终追远怀初心，清廉家风代代传">岚岛廉语 | 慎终追远怀初心，清廉家风代代传</a>
+											<em id="rel_98989"></em>
+											<span class="bf-pass">2025-04-04</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(21)">
+									  <ul>
+										
+										  <li>
+											<a href="./202505/t20250514_98987.htm" target="_blank" title="岚岛廉语 | 劳动创造幸福，勤廉守望长宁">岚岛廉语 | 劳动创造幸福，勤廉守望长宁</a>
+											<em id="rel_98987"></em>
+											<span class="bf-pass">2025-05-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250417_98477.htm" target="_blank" title="“缅怀先烈寄哀思，砥砺前行践初心” ——区纪工委开展“我们的节日·清明”主题活动">“缅怀先烈寄哀思，砥砺前行践初心” ——区纪工委开展“我们的节日·清明”主题活动</a>
+											<em id="rel_98477"></em>
+											<span class="bf-pass">2025-04-07</span>
+										  </li>
+										
+										  <li>
+											<a href="./202504/t20250416_98458.htm" target="_blank" title="“感悟思想伟力 强化使命担当” ——区纪工委监察工委组织开展现场教学活动">“感悟思想伟力 强化使命担当” ——区纪工委监察工委组织开展现场教学活动</a>
+											<em id="rel_98458"></em>
+											<span class="bf-pass">2025-04-16</span>
+										  </li>
+										
+										  <li>
+											<a href="./202503/t20250331_98125.htm" target="_blank" title="【清风微课堂】审理培训助评查 专业赋能提质效">【清风微课堂】审理培训助评查 专业赋能提质效</a>
+											<em id="rel_98125"></em>
+											<span class="bf-pass">2025-03-14</span>
+										  </li>
+										
+										  <li>
+											<a href="./202502/t20250225_97423.htm" target="_blank" title="区纪工委监察工委领导班子召开 2024年度民主生活会">区纪工委监察工委领导班子召开 2024年度民主生活会</a>
+											<em id="rel_97423"></em>
+											<span class="bf-pass">2025-02-25</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(26)">
+									  <ul>
+										
+										  <li>
+											<a href="./202501/t20250124_96969.htm" target="_blank" title="区纪工委监察工委开展 “翰墨迎新春 清韵话廉节”写赠春联活动">区纪工委监察工委开展 “翰墨迎新春 清韵话廉节”写赠春联活动</a>
+											<em id="rel_96969"></em>
+											<span class="bf-pass">2025-01-15</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241230_96366.htm" target="_blank" title="“文艺倡廉”剧目歌剧《松毛岭之恋》在平潭上演">“文艺倡廉”剧目歌剧《松毛岭之恋》在平潭上演</a>
+											<em id="rel_96366"></em>
+											<span class="bf-pass">2024-12-06</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241210_95611.htm" target="_blank" title="点题整治 | 守护青少年“舌尖上的安全”">点题整治 | 守护青少年“舌尖上的安全”</a>
+											<em id="rel_95611"></em>
+											<span class="bf-pass">2024-11-29</span>
+										  </li>
+										
+										  <li>
+											<a href="./202412/t20241210_95609.htm" target="_blank" title="【清风微课堂】党务培训强内功 充电赋能促提升">【清风微课堂】党务培训强内功 充电赋能促提升</a>
+											<em id="rel_95609"></em>
+											<span class="bf-pass">2024-11-13</span>
+										  </li>
+										
+										  <li>
+											<a href="./202410/t20241024_94604.htm" target="_blank" title="以“心”护“新” 赋能起航——区纪工委监察工委举办道德讲堂暨新进干部心理健康专题辅导讲座">以“心”护“新” 赋能起航——区纪工委监察工委举办道德讲堂暨新进干部心理健康专题辅导讲座</a>
+											<em id="rel_94604"></em>
+											<span class="bf-pass">2024-10-23</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(31)">
+									  <ul>
+										
+										  <li>
+											<a href="./202410/t20241024_94601.htm" target="_blank" title="区纪工委监察工委组织开展“我们的节日·重阳”主题活动">区纪工委监察工委组织开展“我们的节日·重阳”主题活动</a>
+											<em id="rel_94601"></em>
+											<span class="bf-pass">2024-10-11</span>
+										  </li>
+										
+										  <li>
+											<a href="./202409/t20240918_93652.htm" target="_blank" title="中国纪检监察杂志刊发 | 介绍实验区推动集中整治经验做法 福建推动集中整治见人见事见效">中国纪检监察杂志刊发 | 介绍实验区推动集中整治经验做法 福建推动集中整治见人见事见效</a>
+											<em id="rel_93652"></em>
+											<span class="bf-pass">2024-09-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202409/t20240918_93651.htm" target="_blank" title="区纪工委监察工委组织开展“清风伴明月 廉洁过中秋”主题党日活动">区纪工委监察工委组织开展“清风伴明月 廉洁过中秋”主题党日活动</a>
+											<em id="rel_93651"></em>
+											<span class="bf-pass">2024-09-11</span>
+										  </li>
+										
+										  <li>
+											<a href="./202408/t20240802_92508.htm" target="_blank" title="【清风微课堂】以学促干 常态化培训促履职">【清风微课堂】以学促干 常态化培训促履职</a>
+											<em id="rel_92508"></em>
+											<span class="bf-pass">2024-08-02</span>
+										  </li>
+										
+										  <li>
+											<a href="./202408/t20240802_92507.htm" target="_blank" title="区纪工委开展庆“八一”暨“忆峥嵘岁月、践初心使命”主题观影活动">区纪工委开展庆“八一”暨“忆峥嵘岁月、践初心使命”主题观影活动</a>
+											<em id="rel_92507"></em>
+											<span class="bf-pass">2024-08-01</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(36)">
+									  <ul>
+										
+										  <li>
+											<a href="./202408/t20240802_92505.htm" target="_blank" title="区纪工委举办退休干部读书班">区纪工委举办退休干部读书班</a>
+											<em id="rel_92505"></em>
+											<span class="bf-pass">2024-07-29</span>
+										  </li>
+										
+										  <li>
+											<a href="./202407/t20240701_91490.htm" target="_blank" title="【清风微课堂】聚焦光影 捕捉瞬间 用镜头讲好纪检监察故事">【清风微课堂】聚焦光影 捕捉瞬间 用镜头讲好纪检监察故事</a>
+											<em id="rel_91490"></em>
+											<span class="bf-pass">2024-07-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202407/t20240701_91489.htm" target="_blank" title="区纪工委开展“关爱儿童·廉心助力”主题活动">区纪工委开展“关爱儿童·廉心助力”主题活动</a>
+											<em id="rel_91489"></em>
+											<span class="bf-pass">2024-06-11</span>
+										  </li>
+										
+										  <li>
+											<a href="./202407/t20240701_91488.htm" target="_blank" title="“循足迹 悟思想 强党性 践初心”——区纪工委开展“七一”主题党日活动">“循足迹 悟思想 强党性 践初心”——区纪工委开展“七一”主题党日活动</a>
+											<em id="rel_91488"></em>
+											<span class="bf-pass">2024-06-21</span>
+										  </li>
+										
+										  <li>
+											<a href="./202406/t20240606_90772.htm" target="_blank" title="学条例 明纪律 提能力 促履职——区纪工委监察工委举办“清风大学堂”">学条例 明纪律 提能力 促履职——区纪工委监察工委举办“清风大学堂”</a>
+											<em id="rel_90772"></em>
+											<span class="bf-pass">2024-05-17</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(41)">
+									  <ul>
+										
+										  <li>
+											<a href="./202406/t20240606_90771.htm" target="_blank" title="区纪工委开展“学条例 守党纪 提精神 建新功”青年干部党纪学习教育交流座谈会">区纪工委开展“学条例 守党纪 提精神 建新功”青年干部党纪学习教育交流座谈会</a>
+											<em id="rel_90771"></em>
+											<span class="bf-pass">2024-05-11</span>
+										  </li>
+										
+										  <li>
+											<a href="./202406/t20240606_90737.htm" target="_blank" title="“缅怀革命先烈、凝聚奋进力量”—— 区纪工委开展“我们的节日·清明”主题活动">“缅怀革命先烈、凝聚奋进力量”—— 区纪工委开展“我们的节日·清明”主题活动</a>
+											<em id="rel_90737"></em>
+											<span class="bf-pass">2024-04-02</span>
+										  </li>
+										
+										  <li>
+											<a href="./202404/t20240410_88945.htm" target="_blank" title="平潭综合实验区各级纪检监察组织掀起学习宣传贯彻新修订的《中国共产党纪律处分条例》热潮">平潭综合实验区各级纪检监察组织掀起学习宣传贯彻新修订的《中国共产党纪律处分条例》热潮</a>
+											<em id="rel_88945"></em>
+											<span class="bf-pass">2024-04-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202404/t20240410_88944.htm" target="_blank" title="区纪工委组织开展“植新绿 树新风”义务植树活动">区纪工委组织开展“植新绿 树新风”义务植树活动</a>
+											<em id="rel_88944"></em>
+											<span class="bf-pass">2024-03-13</span>
+										  </li>
+										
+										  <li>
+											<a href="./202404/t20240410_88943.htm" target="_blank" title="区纪工委召开2023年度党组织书记抓基层党建述职评议会议">区纪工委召开2023年度党组织书记抓基层党建述职评议会议</a>
+											<em id="rel_88943"></em>
+											<span class="bf-pass">2024-03-08</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(46)">
+									  <ul>
+										
+										  <li>
+											<a href="./202402/t20240207_87164.htm" target="_blank" title="“趣”享运动贺新春 凝心聚力迎龙年">“趣”享运动贺新春 凝心聚力迎龙年</a>
+											<em id="rel_87164"></em>
+											<span class="bf-pass">2024-02-02</span>
+										  </li>
+										
+										  <li>
+											<a href="./202402/t20240207_87163.htm" target="_blank" title="区纪工委监察工委开展“廉”节清风送墨香活动">区纪工委监察工委开展“廉”节清风送墨香活动</a>
+											<em id="rel_87163"></em>
+											<span class="bf-pass">2024-02-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202402/t20240207_87162.htm" target="_blank" title="铸铁军 建新功丨平潭：做实政治监督，护航国际旅游岛建设">铸铁军 建新功丨平潭：做实政治监督，护航国际旅游岛建设</a>
+											<em id="rel_87162"></em>
+											<span class="bf-pass">2024-01-23</span>
+										  </li>
+										
+										  <li>
+											<a href="./202402/t20240207_87117.htm" target="_blank" title="榜样丨冲锋在反腐一线的清风卫士">榜样丨冲锋在反腐一线的清风卫士</a>
+											<em id="rel_87117"></em>
+											<span class="bf-pass">2024-01-26</span>
+										  </li>
+										
+										  <li>
+											<a href="./202312/t20231229_85556.htm" target="_blank" title="【清风微课堂】强化监督本领 提升工作实效">【清风微课堂】强化监督本领 提升工作实效</a>
+											<em id="rel_85556"></em>
+											<span class="bf-pass">2023-12-22</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(51)">
+									  <ul>
+										
+										  <li>
+											<a href="./202312/t20231229_85553.htm" target="_blank" title="【清风微课堂】有效沟通，提升“言”值，这场培训收获满满">【清风微课堂】有效沟通，提升“言”值，这场培训收获满满</a>
+											<em id="rel_85553"></em>
+											<span class="bf-pass">2023-12-07</span>
+										  </li>
+										
+										  <li>
+											<a href="./202312/t20231229_85552.htm" target="_blank" title="主题教育 | 平潭纪工委监察工委开展 “进村入企话岚图”活动（二）">主题教育 | 平潭纪工委监察工委开展 “进村入企话岚图”活动（二）</a>
+											<em id="rel_85552"></em>
+											<span class="bf-pass">2023-11-30</span>
+										  </li>
+										
+										  <li>
+											<a href="./202312/t20231229_85551.htm" target="_blank" title="主题教育 | 平潭纪工委监察工委开展 “进村入企话岚图”活动（一）">主题教育 | 平潭纪工委监察工委开展 “进村入企话岚图”活动（一）</a>
+											<em id="rel_85551"></em>
+											<span class="bf-pass">2023-11-28</span>
+										  </li>
+										
+										  <li>
+											<a href="./202311/t20231120_82169.htm" target="_blank" title="平潭纪工委监察工委党员干部参“信仰的力量——中国共产党人的家国情怀”档案文献展">平潭纪工委监察工委党员干部参“信仰的力量——中国共产党人的家国情怀”档案文献展</a>
+											<em id="rel_82169"></em>
+											<span class="bf-pass">2023-11-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202311/t20231116_82038.htm" target="_blank" title="践行为民初心，他们用纪法守护岚岛清风">践行为民初心，他们用纪法守护岚岛清风</a>
+											<em id="rel_82038"></em>
+											<span class="bf-pass">2023-11-16</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(56)">
+									  <ul>
+										
+										  <li>
+											<a href="./202311/t20231115_82028.htm" target="_blank" title="学习贯彻全会精神｜平潭纪检监察干部谈落实（二）">学习贯彻全会精神｜平潭纪检监察干部谈落实（二）</a>
+											<em id="rel_82028"></em>
+											<span class="bf-pass">2023-02-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202311/t20231115_82025.htm" target="_blank" title="平潭综合实验区纪工委监察工委领导班子召开2022年度民主生活会">平潭综合实验区纪工委监察工委领导班子召开2022年度民主生活会</a>
+											<em id="rel_82025"></em>
+											<span class="bf-pass">2023-02-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202310/t20231007_50641.htm" target="_blank" title="我们的节日 | 趣味猜灯谜 廉洁过“双节”">我们的节日 | 趣味猜灯谜 廉洁过“双节”</a>
+											<em id="rel_50641"></em>
+											<span class="bf-pass">2023-10-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202310/t20231007_50640.htm" target="_blank" title="技能比武展风采，以赛促学砺精兵——区党工委巡察审计办斩获全省审计系统“能查能说能写”审计技能大比拼比赛多项奖项">技能比武展风采，以赛促学砺精兵——区党工委巡察审计办斩获全省审计系统“能查能说能写”审计技能大比拼比赛多项奖项</a>
+											<em id="rel_50640"></em>
+											<span class="bf-pass">2023-10-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202309/t20230925_50416.htm" target="_blank" title="巾帼心向党 奋进新征程——区纪工委成立第一届妇女委员会">巾帼心向党 奋进新征程——区纪工委成立第一届妇女委员会</a>
+											<em id="rel_50416"></em>
+											<span class="bf-pass">2023-09-22</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(61)">
+									  <ul>
+										
+										  <li>
+											<a href="./202309/t20230919_50280.htm" target="_blank" title="平潭综合实验区纪工委监察工委召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员部署会">平潭综合实验区纪工委监察工委召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员部署会</a>
+											<em id="rel_50280"></em>
+											<span class="bf-pass">2023-09-19</span>
+										  </li>
+										
+										  <li>
+											<a href="./202308/t20230802_48771.htm" target="_blank" title="区纪工委组织开展 “忆峥嵘岁月 话初心使命”主题活动">区纪工委组织开展 “忆峥嵘岁月 话初心使命”主题活动</a>
+											<em id="rel_48771"></em>
+											<span class="bf-pass">2023-08-02</span>
+										  </li>
+										
+										  <li>
+											<a href="./202308/t20230802_48770.htm" target="_blank" title="黄惠元同志为全区纪检监察干部讲授党课">黄惠元同志为全区纪检监察干部讲授党课</a>
+											<em id="rel_48770"></em>
+											<span class="bf-pass">2023-08-02</span>
+										  </li>
+										
+										  <li>
+											<a href="./202307/t20230726_48529.htm" target="_blank" title="做强基层监督，“线上+线下”一体贯通">做强基层监督，“线上+线下”一体贯通</a>
+											<em id="rel_48529"></em>
+											<span class="bf-pass">2023-07-26</span>
+										  </li>
+										
+										  <li>
+											<a href="./202307/t20230725_48493.htm" target="_blank" title="区纪工委前往福建省党风廉政警示教育馆开展现场教学">区纪工委前往福建省党风廉政警示教育馆开展现场教学</a>
+											<em id="rel_48493"></em>
+											<span class="bf-pass">2023-07-01</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(66)">
+									  <ul>
+										
+										  <li>
+											<a href="./202306/t20230615_47321.htm" target="_blank" title="福建省纪委监委网站刊文 | 平潭：做深日常监督 当好项目工程“护航员”">福建省纪委监委网站刊文 | 平潭：做深日常监督 当好项目工程“护航员”</a>
+											<em id="rel_47321"></em>
+											<span class="bf-pass">2023-06-15</span>
+										  </li>
+										
+										  <li>
+											<a href="./202306/t20230602_47017.htm" target="_blank" title="【清风微课堂】提高宣传写作“内功”  讲好纪检监察故事">【清风微课堂】提高宣传写作“内功”  讲好纪检监察故事</a>
+											<em id="rel_47017"></em>
+											<span class="bf-pass">2023-06-01</span>
+										  </li>
+										
+										  <li>
+											<a href="./202305/t20230531_46931.htm" target="_blank" title="平凡的岗位，不平凡的业绩">平凡的岗位，不平凡的业绩</a>
+											<em id="rel_46931"></em>
+											<span class="bf-pass">2023-05-30</span>
+										  </li>
+										
+										  <li>
+											<a href="./202304/t20230426_46024.htm" target="_blank" title="区纪工委：清明时节祭英烈 移风易俗树新风">区纪工委：清明时节祭英烈 移风易俗树新风</a>
+											<em id="rel_46024"></em>
+											<span class="bf-pass">2023-04-04</span>
+										  </li>
+										
+										  <li>
+											<a href="./202304/t20230426_46023.htm" target="_blank" title="福建省纪委监委网站刊文丨平潭：“点”出民意　守护民心">福建省纪委监委网站刊文丨平潭：“点”出民意　守护民心</a>
+											<em id="rel_46023"></em>
+											<span class="bf-pass">2023-05-05</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+									<div ms-visible="$showStatic(71)">
+									  <ul>
+										
+										  <li>
+											<a href="./202304/t20230426_46020.htm" target="_blank" title="区纪工委：深入下党砥初心 俯下身子实调研">区纪工委：深入下党砥初心 俯下身子实调研</a>
+											<em id="rel_46020"></em>
+											<span class="bf-pass">2023-04-25</span>
+										  </li>
+										
+										  <li>
+											<a href="./202303/t20230310_44745.htm" target="_blank" title="平潭综合实验区纪工委监察工委领导班子召开2022年度民主生活会">平潭综合实验区纪工委监察工委领导班子召开2022年度民主生活会</a>
+											<em id="rel_44745"></em>
+											<span class="bf-pass">2022-02-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202303/t20230310_44744.htm" target="_blank" title="党建“赶考” 述职“交卷”——区纪工委组织召开2022年度抓基层党建述职评议会议">党建“赶考” 述职“交卷”——区纪工委组织召开2022年度抓基层党建述职评议会议</a>
+											<em id="rel_44744"></em>
+											<span class="bf-pass">2023-03-09</span>
+										  </li>
+										
+										  <li>
+											<a href="./202303/t20230310_44742.htm" target="_blank" title="传承雷锋精神 彰显时代担当 | 区纪工委监察工委开展学雷锋志愿服务活动">传承雷锋精神 彰显时代担当 | 区纪工委监察工委开展学雷锋志愿服务活动</a>
+											<em id="rel_44742"></em>
+											<span class="bf-pass">2023-03-03</span>
+										  </li>
+										
+										  <li>
+											<a href="./202301/t20230130_43616.htm" target="_blank" title="图说这一年丨做实组团下沉监督 赋能岚岛基层治理">图说这一年丨做实组团下沉监督 赋能岚岛基层治理</a>
+											<em id="rel_43616"></em>
+											<span class="bf-pass">2023-01-20</span>
+										  </li>
+										
+									  </ul>
+									  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+									</div>
+								  
+							</div>
+							<div ms-visible="!showStatic">
+								<ul ms-if="list.length==0">
+								  <div ms-if="!error" style="text-align: center; padding: 30px">
+									<img src="/images/loading.gif" />
+								  </div>
+								  <div ms-if="error" style="text-align: center; padding: 30px">暂无数据</div>
+								</ul>
+								<ul ms-if="list.length>0">
+								  <li ms-repeat="list" ms-if-loop="$index<5">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+			  
+								<ul ms-if="list.length>5">
+								  <li ms-repeat="list" ms-if-loop="$index>4 && $index<10">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+			  
+								<ul ms-if="list.length>9">
+								  <li ms-repeat="list" ms-if-loop="$index>9 && $index<15">
+									<a ms-attr-title="el.doctitle_cp" ms-attr-href="el.chnldocurl" Target="_blank" ms-text="el.doctitle|html|showkey"></a>
+									<em ms-repeat-rel="el.rels" ms-if-loop="rel._reltype===1||rel._reltype===2"><a ms-attr-href="rel.url" ms-text="rel._doctype" Target="_blank" ms-attr-title="rel.tardoctitle"></a></em>
+									<span ms-text="el.docreltime | date2('yyyy-MM-dd')" class="bf-pass"></span>
+								  </li>
+								  <div class="border_b_dashed border_b_solid_03_sm mar_t_small mar_t_base0_sm mar_b_small mar_b_base0_sm"></div>
+								</ul>
+							  </div>
+						</div>
+						<div class="page_base mar_t_base" ms-controller="list_pagebar" ms-include-src="pgTemp" ></div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<!--底部开始-->
+	<div class="footer">
+	<div class="border_t_solid_01"></div>
+	<div class="row">
+		<div class="out_links" role="navigation" des="网站链接">
+			<ul class="trt-row" ms-controller="tabYqlj">
+				
+					<li class="trt-col-6" ms-click="$tog2(1)" ms-class="on:curr===1">
+						<p>省市政府网站</p>
+						<div class="shadow_base" Id="yqlj_1">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.fj.gov.cn/" target="_blank" title="福建省人民政府">福建省人民政府</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.fuzhou.gov.cn/" target="_blank" title="福州市政府网站">福州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xm.gov.cn/" target="_blank" title="厦门市政府网站">厦门市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.quanzhou.gov.cn/" target="_blank" title="泉州市政府网站">泉州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zhangzhou.gov.cn/" target="_blank" title="漳州市政府网站">漳州市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.putian.gov.cn/" target="_blank" title="莆田市政府网站">莆田市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sm.gov.cn/" target="_blank" title="三明市政府网站">三明市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.np.gov.cn/" target="_blank" title="南平市政府网站">南平市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.longyan.gov.cn/" target="_blank" title="龙岩市政府网站">龙岩市政府网站</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ningde.gov.cn/" target="_blank" title="宁德市政府网站">宁德市政府网站</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(2)" ms-class="on:curr===2">
+						<p>友情链接</p>
+						<div class="shadow_base" Id="yqlj_2">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.people.com.cn/" target="_blank" title="人民网">人民网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.xinhuanet.com/" target="_blank" title="新华网">新华网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.chinanews.com.cn/" target="_blank" title="中国新闻网">中国新闻网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.cctv.com/" target="_blank" title="央视国际">央视国际</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.ptnet.cn/" target="_blank" title="平潭网">平潭网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fjptq.wenming.cn/" target="_blank" title="平潭文明网">平潭文明网</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.acas.org.cnx7a72968733868.ipv6best.cn/" target="_blank" title="海峡两岸仲裁中心">海峡两岸仲裁中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fujian.chinatax.gov.cn/pingtanswj/" target="_blank" title="国家税务总局平潭综合实验区税务局">国家税务总局平潭综合实验区税务局</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xzfwzx.pingtan.gov.cn/indexPage?loginflag=false" target="_blank" title="平潭行政服务中心">平潭行政服务中心</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://pt.fjbz.org.cnx1e49968733868.ipv6best.cn:8060/" target="_blank" title="福建省标准信息服务平台">福建省标准信息服务平台</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(3)" ms-class="on:curr===3">
+						<p>新闻媒体</p>
+						<div class="shadow_base" Id="yqlj_3">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://paper.people.com.cn/rmrb/html/2023-11/02/nbs.D110000renmrb_01.htm" target="_blank" title="人民日报">人民日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://fjrb-fjdaily-comx2d93968733868xx.ipv6best.cn/pc/col/202311/02/node_01.html" target="_blank" title="福建日报">福建日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.zznews.cn/" target="_blank" title="闽南日报">闽南日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://mbrb.greatwuyi.com/202311/02/node_1.html" target="_blank" title="闽北日报">闽北日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.mxrb.cn/" target="_blank" title="闽西日报">闽西日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.ndwww.cn/" target="_blank" title="闽东日报">闽东日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.qzwb.com/" target="_blank" title="泉州晚报">泉州晚报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://smrb.smnet.com.cn/pc/layout/202311/02/node_1.html" target="_blank" title="三明日报">三明日报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.taihainet.com/" target="_blank" title="海峡导报">海峡导报</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://fj.sina.com.cn/" target="_blank" title="新浪福建">新浪福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.163.com/" target="_blank" title="网易">网易</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.sohu.com/" target="_blank" title="搜狐">搜狐</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+					<li class="trt-col-6" ms-click="$tog2(4)" ms-class="on:curr===4">
+						<p>其他</p>
+						<div class="shadow_base" Id="yqlj_4">
+							<ul class="trt-row">
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://www.creditchina.gov.cn/" target="_blank" title="信用中国">信用中国</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://xy.fujian.gov.cn/#/home" target="_blank" title="信用福建">信用福建</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://27-151-80-61xe076968733868xx.ipv6best.cn:91/#/double-publicity-info" target="_blank" title="信用平潭">信用平潭</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="https://credit-xm-gov-cnxd4a4968733868xx.ipv6best.cn/" target="_blank" title="信用厦门">信用厦门</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.szzg.gov.cn/" target="_blank" title="数字中国建设峰会">数字中国建设峰会</a>
+									</li>
+								
+									<li class="trt-col-ave-7 trt-col-sm-24">
+										<a href="http://www.hxrc.com/" target="_blank" title="中国海峡人才市场">中国海峡人才市场</a>
+									</li>
+								
+							
+							</ul>
+						</div>
+					</li>
+				
+			</ul>
+			<div class="out_links_close shadow_base"><i class="trt-iconfont trt-icon-dacha"></i></div>
+		</div>
+	</div>
+	<div class="border_b_solid_01"></div>
+	<div class="row mar_t_base mar_t_small_sm" role="serve" des="网站信息">
+		<div class="trt-row clearflx">
+			<div class="trt-col-11 trt-col-sm-24 website_info">
+				<p>
+					
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/sybz/" target="_blank" title="使用帮助">使用帮助</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/lxwm/" target="_blank" title="联系我们">联系我们</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/ysbh/" target="_blank" title="隐私保护">隐私保护</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>
+						  <em>|</em>
+						
+					  
+						
+						
+						  <a href="https://www.pingtan.gov.cn/zwzdb/gywm/" target="_blank" title="关于我们">关于我们</a>
+						  <em>|</em>
+						
+					  
+				<p>
+					<span>网站标识码：3590000001</span>
+					<span><img src="/images/babs.png" /> <a href="https://www-beian-gov-cnx45c8968733868xx.ipv6best.cn/portal/registerSystemInfo?recordcode=35012899001-19002" Target="_blank">公安备案号：35012899001-19002</a></span>
+					<span><a href="https://beian.miit.gov.cn" Target="_blank" title="闽ICP备09032658号">闽ICP备09032658号</a></span>
+				</p>
+				<p><span>版权所有：平潭综合实验区党工委管委会网站</span></p>
+			</div>
+			<div class="trt-col-7 trt-col-sm-24 media_info">
+				<h3><a href="https://www.pingtan.gov.cn/zwzdb/xmtjz/" target="_blank" title="新媒体矩阵">新媒体矩阵</a>  </h3>
+				<ul class="trt-row">
+					<li class="trt-col-12"><a hhref="javascript:;" title="平潭发布"><span class="trt-iconfont trt-icon-weixin1"></span>平潭发布</a>
+						<div class="ewm_tu"><img src="/images/20231118ptfb.jpg" alt="平潭发布" /></div>
+					</li>
+					<li class="trt-col-12"><a href="javascript:;" title="闽政通APP"><span
+								class="trt-iconfont trt-icon-minzhengtong"></span>闽政通APP</a>
+						<div class="ewm_tu"><img src="/images/20xmszf_mzt_ewm.png" alt="闽政通APP" /></div>
+					</li>
+                                   
+					<!--li class="trt-col-12"><a href="javascript:;" title="平潭通"><span class="trt-iconfont trt-icon-qrcode-1-copy"></span>平潭通</a>
+						<div class="ewm_tu"><img src="/images/20231118ptt.png" alt="平潭通" /></div>
+					</li-->
+					<li class="trt-col-12 on"><a href="javascript:;" title="平潭文旅"><span><img src="/images/foot-icon4.png" alt="" /><img src="/images/foot-icon4-a.png" alt="平潭文旅" /></span>平潭文旅</a>
+						<div class="ewm_tu"><img src="/images/20231119ptVly.jpg" /></div>
+					</li>
+				</ul>
+			</div>
+			<div class="trt-col-6 trt-col-sm-24 error_img">
+				<span id="_ideConac" class="foot-icon02 pho-none">
+					<a href="https://bszs-conac-cnxe103968733868xx.ipv6best.cn/sitename?method=show&amp;id=21E2BB13660E0D66E053012819ACFD9D" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="/images/red.png" alt="党政机关" /></a>                    
+				</span>
+				<span id="_span_jiucuo" title="政府网站找错"></span>
+				<span><a href="javascript:;"><img src="/images/img11.png" /></a></span>
+			</div>
+		</div>
+	</div>
+	<div class="copyright_info">
+		<div class="row">
+			<p><span>主办单位：福建省平潭综合实验区管理委员会办公室</span></p>
+			<p>为确保最佳浏览效果，建议您使用以下浏览器版本：IE浏览器9.0版本及以上； Google Chrome浏览器 63版本及以上； 360浏览器9.1版本及以上，且IE内核9.0及以上。
+			</p>
+		</div>
+	</div>
+</div>
+	<!--底部结束-->
+	</div>
+	<!--全站嵌套-->
+	<script>
+    var SiteInfo = {
+        //was4doc: 290792,  //文档检索的was频道号
+        itpSiteId: 21,    //互动站点ID
+        itp4advice: 41,  //意见征集栏目ID
+        itp4poll: 43,   //网上调查栏目ID
+        //itp4ztzj: ,    //主题征集栏目ID
+        itp4zxft: 44,    //主题征集栏目ID
+        itpStatus:true,
+        itpMassage:'系统正在升级，预计于晚上20时恢复，为此对您造成的不便敬请谅解。',
+        // CommentId: ,  //细览评论功能对应的互动新建栏目ID
+        searchId: 200210, //默认的文档检索频道的ID
+        defaultPgTemp: "pgBar_pt.html",  //本站点默认的分页模板名
+        defaultPgTempMobile: "pgBar_pt.html",  //本站点默认的分页模板名，移动端
+        siteMsgType: "govSite",  //非政府网站提醒规则   currSite 非本站提醒 、govSite  非政府网站提醒
+        siteWriteList: ["www.ptnet.cn"],  //站点白名单
+        initWindowRoot: false,  //false表示，引入model.js时，不自动生成windowRoot
+        initPageview: true,  //执行windowRoot 时自动执行pageview
+        defaultHotWords: '旅游;渔业;保障性住房',  //通过嵌套栏目的替换内容，热搜词，设置默认的热搜词
+        //registerUrl: "https://mztapp.fujian.gov.cn:8304/dataset/UnifiedController/goRegist.do?callerCode=2c9bbe6975c2a76a0175de55aa73023d2c9bbe6975c2a76a&returnurl=",
+        registerUrl : "https://iam.e-govt.cn:8901/register?appId=8976f209-c26f-4155-a5a1-f469d75bc4a5&redirect_uri=",
+        loginUrl: "http://www.pingtan.gov.cn/uc/login/login?redirtUrl=https://www.pingtan.gov.cn/uc/login/noseLogin?redirtUrl=",
+        logoutUrl: "https://www.pingtan.gov.cn/uc/login/logout?redirtUrl=",
+        mapkey:"492cf207f3857e830673602a39a2ff78",
+        openSlb: true,//是否开启适老版
+        openWza: true, //是否开启无障碍
+        // redirtUrl: "",
+        // homeUrl: ""
+        myzj:{
+            listUrlPre:'/staticitp/pingtan/myzj/',
+            detailUrlPre:'/staticitp/pingtan/17_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/myzj/detail.htm'
+        },
+        wsdc:{
+            listUrlPre:'/staticitp/pingtan/wsdc/',
+            detailUrlPre:'/staticitp/pingtan/24_detail/',
+            detailUrl:'https://www.pingtan.gov.cn/hdjl/wsdc/detail.htm'
+        }
+    };
+</script>
+<script src="/images/barrier.free.min.js" id="barrierFree" sn="6597475200690549"></script>
+<!-- <script src="/images/model.v2.min.js"></script> -->
+<script src="/images/model.min.js"></script>
+<script type="text/javascript" src="/images/js_rem.min.js"></script>
+<script type="text/javascript" src="/images/23pingtan.js"></script>
+	<!--全站嵌套-结束-->
+	
+	<script>
+		var pageChnlInfo={
+		  quickMode:"动静结合",
+		  maxStaticIndex: 5,
+		  classsql: "" || "chnlid=736",
+		  recordCount:'145',
+		  sortfield:'-docorderpri,-docreltime',
+		  prepage:15,
+		  cache:true
+		}
+		// By Jcl
+		var ColumnName = document.getElementsByTagName('meta')['ColumnName'].content || "";
+		if(ColumnName.indexOf("图")>-1){
+		  pageChnlInfo.prepage = 12;
+		}
+		if(ColumnName.indexOf("解读")>-1){
+		  pageChnlInfo.maxStaticIndex = 1;
+		  pageChnlInfo.cache = false;
+		}
+	</script>
+	<script type="text/javascript">
+
+		if(!window['pageChnlInfo']){
+			avalon.log("获取pageChnlInfo失败，分页功能启动失败");
+			
+		}else{
+			require(['list2.trsapi'], function(listModel) {
+				listModel({
+					quickMode:pageChnlInfo.quickMode,
+					maxStaticIndex: pageChnlInfo.maxStaticIndex,
+					listArgs: {
+						channelid: SiteInfo.searchId,
+						classsql: pageChnlInfo.classsql,
+						sortfield: pageChnlInfo.sortfield||'-docorderpri,-docreltime',
+						classcol: 'publishyear', //需要获取发布年份的统计分类数据
+						classsort: 0
+					},
+					cache: pageChnlInfo.cache||true,
+					listApi: {
+						url: "/fjdzapp/search"
+					},
+					pagebar: {
+						recordCount: pageChnlInfo.recordCount,
+						pgTemp: 'pgBar_pt.html',
+						prepage: pageChnlInfo.prepage||15,
+						pgCountMode: 'recordCount'
+					},
+					injGetOrCache: list_reldoc,
+					//callToPage: function (p) {//翻页后自动滚屏到栏目名称的位置，注意根据页面修改jquery对象的类名或ID名
+					//	$('html,body').animate({ scrollTop: $('.breadcrumb').offset().top }, 800);
+					//},
+					searchArgs: {
+						publishyear: {
+							type: 'classsql',
+							compare: "=",
+							value: '',
+							items: [],
+							SyncItems: true //设置从列表分类统计中进行同步
+							// , SyncItemsOrder: "-count"
+						},
+						key: {
+							type: 'classsql',
+							field: 'doctitle',
+							compare: "like",
+							value: '',
+							isKey: true
+						}
+					}
+				})
+			})
+		}
+
+	</script>
+</body>
+
+</html>

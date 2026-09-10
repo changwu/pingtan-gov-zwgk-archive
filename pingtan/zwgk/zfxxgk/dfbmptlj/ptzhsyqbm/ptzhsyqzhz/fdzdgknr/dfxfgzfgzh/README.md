@@ -1,41 +1,41 @@
-# zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh
+# 地方性法规、政府规章和规范性文件
 
 栏目路径: zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh
-文档总数: 34 | 已完成: 0 | 失败: 0 | 排队: 34
+文档总数: 34 | 已完成: 34 | 失败: 0 | 排队: 0
 
 | 标题 | 发布日期 | 本地 | 状态 |
 |---|---|---|---|
-| 平潭综合实验区综合执法与应急管理局关于印发“三项制度”配套规定的通知 | 2023-09-21 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法与应急管理局行政处罚自由裁量基准》的通知14号 | 2022-07-29 00:00:00 |  | queued |
-| 关于联合做好行政执法公示制度、执法全过程记录、重大执法决定法制审核制度的函 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《关于试行行政执法公示制度、  执法全过程记录制度、重大执法决定  法制审核制度的实施细则》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  违法案件集体评议工作规定（试行）》和  《平潭综合实验区综合执法局违法案件  办理流程（试行）》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  行政执法公示制度》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  行政执法监督制度》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  重大行政执法决定法制审核规定》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 平潭综合实验区安全生产与劳动保障执法支队行政执法服务指南 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  违法案件集体评议工作规定（试行）》和  《平潭综合实验区综合执法局违法案件  办理流程（试行）》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  行政执法音像记录设备配备  使用管理规定》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局行政执法案卷评查制度（试行）》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 行政执法检查计划 | 2017-11-20 00:00:00 |  | queued |
-| 行政强制措施流程图 | 2017-11-20 00:00:00 |  | queued |
-| 重大执法决定法制审核流程图 | 2017-11-20 00:00:00 |  | queued |
-| 行政强制执行流程图 | 2017-11-20 00:00:00 |  | queued |
-| 行政处罚简易程序流程 | 2017-11-20 00:00:00 |  | queued |
-| 国土支队行政执法服务指南 | 2017-11-20 00:00:00 |  | queued |
-| 平潭综合实验区文化市场综合执法支队  行政执法服务指南 | 2017-11-20 00:00:00 |  | queued |
-| 行政处罚一般程序流程图 | 2017-11-20 00:00:00 |  | queued |
-| 城管支队行政执法服务指南、城管支队行政服务事项办理流程图 | 2017-11-20 00:00:00 |  | queued |
-| 交通支队行政执法服务指南 | 2017-11-20 00:00:00 |  | queued |
-| 农业支队行政执法服务指南、农业支队信访接待窗口人员公示 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局规范行政处罚自由裁量权的规定》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于设立法律顾问办公室及任命专职法律  顾问的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  行政执法全过程记录工作规定》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 平潭综合实验区综合执法局音像记录事项清单 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局法制审核人员定期学习培训制度》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局执法  工作程序规定》的通知 | 2017-11-20 00:00:00 |  | queued |
-| 平潭综合实验区综合执法局办公室  关于行政执法公示制度、执法全过程记录  制度、重大执法决定法制审核制度  试点工作任务分解的通知 | 2017-11-20 00:00:00 |  | queued |
-| 平潭综合实验区综合执法局办公室  关于印发《平潭综合实验区综合执法局 关于推行执法全过程记录制度 试点实施方案》的通知 | 2017-05-04 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局  违法案件集体评议工作规定（试行）》和  《平潭综合实验区综合执法局违法案件  办理流程（试行）》的通知 | 2017-04-08 00:00:00 |  | queued |
-| 关于印发《平潭综合实验区综合执法局工作人员考勤管理规定（暂行）》的通知 | 2015-12-15 00:00:00 |  | queued |
-| 平潭综合实验区综合执法局关于 印发《局务会议议事规则（试行）》的通知 | 2015-05-15 00:00:00 |  | queued |
+| 平潭综合实验区综合执法与应急管理局关于印发“三项制度”配套规定的通知 | 2023-09-21 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/202309/80278_平潭综合实验区综合执法与应急管理局关于印发“三项制度”配套规定的通知/page.txt | done |
+| 关于印发《平潭综合实验区综合执法与应急管理局行政处罚自由裁量基准》的通知14号 | 2022-07-29 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/202208/76632_关于印发《平潭综合实验区综合执法与应急管理局行政处罚自由裁量基准》的通知14号/page.txt | done |
+| 关于联合做好行政执法公示制度、执法全过程记录、重大执法决定法制审核制度的函 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63444_关于联合做好行政执法公示制度、执法全过程记录、重大执法决定法制审核制度的函/page.txt | done |
+| 关于印发《关于试行行政执法公示制度、  执法全过程记录制度、重大执法决定  法制审核制度的实施细则》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63442_关于印发《关于试行行政执法公示制度、 执法全过程记录制度、重大执法决定 法制/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  违法案件集体评议工作规定（试行）》和  《平潭综合实验区综合执法局违法案件  办理流程（试行）》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63448_关于印发《平潭综合实验区综合执法局 违法案件集体评议工作规定（试行）》和 《/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  行政执法公示制度》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63446_关于印发《平潭综合实验区综合执法局 行政执法公示制度》的通知/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  行政执法监督制度》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63455_关于印发《平潭综合实验区综合执法局 行政执法监督制度》的通知/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  重大行政执法决定法制审核规定》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63459_关于印发《平潭综合实验区综合执法局 重大行政执法决定法制审核规定》的通知/page.txt | done |
+| 平潭综合实验区安全生产与劳动保障执法支队行政执法服务指南 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63461_平潭综合实验区安全生产与劳动保障执法支队行政执法服务指南/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  违法案件集体评议工作规定（试行）》和  《平潭综合实验区综合执法局违法案件  办理流程（试行）》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63449_关于印发《平潭综合实验区综合执法局 违法案件集体评议工作规定（试行）》和 《/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  行政执法音像记录设备配备  使用管理规定》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63451_关于印发《平潭综合实验区综合执法局 行政执法音像记录设备配备 使用管理规定》/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局行政执法案卷评查制度（试行）》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63450_关于印发《平潭综合实验区综合执法局行政执法案卷评查制度（试行）》的通知/page.txt | done |
+| 行政执法检查计划 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63471_行政执法检查计划/page.txt | done |
+| 行政强制措施流程图 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63469_行政强制措施流程图/page.txt | done |
+| 重大执法决定法制审核流程图 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63472_重大执法决定法制审核流程图/page.txt | done |
+| 行政强制执行流程图 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63470_行政强制执行流程图/page.txt | done |
+| 行政处罚简易程序流程 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63468_行政处罚简易程序流程/page.txt | done |
+| 国土支队行政执法服务指南 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63465_国土支队行政执法服务指南/page.txt | done |
+| 平潭综合实验区文化市场综合执法支队  行政执法服务指南 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63462_平潭综合实验区文化市场综合执法支队 行政执法服务指南/page.txt | done |
+| 行政处罚一般程序流程图 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63467_行政处罚一般程序流程图/page.txt | done |
+| 城管支队行政执法服务指南、城管支队行政服务事项办理流程图 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63466_城管支队行政执法服务指南、城管支队行政服务事项办理流程图/page.txt | done |
+| 交通支队行政执法服务指南 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63464_交通支队行政执法服务指南/page.txt | done |
+| 农业支队行政执法服务指南、农业支队信访接待窗口人员公示 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63463_农业支队行政执法服务指南、农业支队信访接待窗口人员公示/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局规范行政处罚自由裁量权的规定》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63453_关于印发《平潭综合实验区综合执法局规范行政处罚自由裁量权的规定》的通知/page.txt | done |
+| 关于设立法律顾问办公室及任命专职法律  顾问的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63452_关于设立法律顾问办公室及任命专职法律 顾问的通知/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  行政执法全过程记录工作规定》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63445_关于印发《平潭综合实验区综合执法局 行政执法全过程记录工作规定》的通知/page.txt | done |
+| 平潭综合实验区综合执法局音像记录事项清单 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63458_平潭综合实验区综合执法局音像记录事项清单/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局法制审核人员定期学习培训制度》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63457_关于印发《平潭综合实验区综合执法局法制审核人员定期学习培训制度》的通知/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局执法  工作程序规定》的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63456_关于印发《平潭综合实验区综合执法局执法 工作程序规定》的通知/page.txt | done |
+| 平潭综合实验区综合执法局办公室  关于行政执法公示制度、执法全过程记录  制度、重大执法决定法制审核制度  试点工作任务分解的通知 | 2017-11-20 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201711/63460_平潭综合实验区综合执法局办公室 关于行政执法公示制度、执法全过程记录 制度、/page.txt | done |
+| 平潭综合实验区综合执法局办公室  关于印发《平潭综合实验区综合执法局 关于推行执法全过程记录制度 试点实施方案》的通知 | 2017-05-04 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201705/62638_平潭综合实验区综合执法局办公室 关于印发《平潭综合实验区综合执法局 关于推行执/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局  违法案件集体评议工作规定（试行）》和  《平潭综合实验区综合执法局违法案件  办理流程（试行）》的通知 | 2017-04-08 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201704/62637_关于印发《平潭综合实验区综合执法局 违法案件集体评议工作规定（试行）》和 《/page.txt | done |
+| 关于印发《平潭综合实验区综合执法局工作人员考勤管理规定（暂行）》的通知 | 2015-12-15 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201601/59330_关于印发《平潭综合实验区综合执法局工作人员考勤管理规定（暂行）》的通知/page.txt | done |
+| 平潭综合实验区综合执法局关于 印发《局务会议议事规则（试行）》的通知 | 2015-05-15 00:00:00 | zwgk/zfxxgk/dfbmptlj/ptzhsyqbm/ptzhsyqzhz/fdzdgknr/dfxfgzfgzh/201505/58227_平潭综合实验区综合执法局关于 印发《局务会议议事规则（试行）》的通知/page.txt | done |
