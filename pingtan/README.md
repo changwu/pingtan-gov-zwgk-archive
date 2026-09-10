@@ -2,7 +2,7 @@
 
 抓取源站: https://www.pingtan.gov.cn/zwgk/ (政务公开板块)
 任务目标 URL: https://218.106.148.33:8443/zwgk/ (该镜像为静态快照,仅含少量页面;经探查,数据以主站列表接口 /fjdzapp/search 完整枚举,正文从主站抓取)
-爬虫与状态库: 本目录上一级 state.db / crawl.log / progress.json;爬虫源码见仓库根目录之外(交付物清单含代码与状态库,可断点续爬)
+爬虫与状态库: 爬虫源码见仓库 _crawler/ 目录(含说明与断点续爬方法);状态库 state.db(约 1.3GB,超出 GitHub 单文件 100MB 上限)与 crawl.log / progress.json 保留在本地 output/ 目录
 
 ## 统计
 
